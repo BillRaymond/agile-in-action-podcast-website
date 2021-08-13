@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ATOM Feed -->
+<!-- All site posts (blog podcast or others) -->
+<!-- https://validator.w3.org/feed/docs/atom.html -->
+<!-- Test with https://validator.w3.org/feed/ -->
+
+<!-- get all static feed data --><feed xmlns="http://www.w3.org/2005/Atom">
+    <!-- Required -->
+    <id>https://cambermast.com/</id>
+    <title>Cambermast LLC and Agile in Action</title>
+    <updated>2021-08-13T16:26:02-05:00</updated>
+    <!-- Recommended -->
+    <author>
+        <name>Bill Raymond</name>
+    </author> 
+    <link href="https://www.agileinaction.com/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.agileinaction.com/" rel="alternate" type="text/html" />
+    <!-- Optional -->
+    <category term="Business" />
+    <contributor>
+        <name>Bill Raymond</name>
+    </contributor>
+    <generator uri="https://cambermast.com" version="1.0">Cambermast feed generator</generator>
+    <icon>https://www.agileinaction.com/assets/images-rss-main/icon.png</icon>
+    <logo>https://www.agileinaction.com/assets/images-rss-main/logo.png</logo>
+    <rights>&#xA9; Cambermast LLC</rights>
+    <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
+    <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</id>
+        <title>Agility, frameworks, and gaining a competitive advantage with Evan Leybourn</title>
+        <updated>2021-08-03T02:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
+ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, and many more. It can be tempting to select a framework that looks good and start using it. However, there are downsides to that approach.
+
+In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Business Agility Institute. We talk about why agility can increase revenues, improve team performance, and retain employees. Evan shares the approach you should take to define what agility means to your organization and balance that with the various frameworks available to you.
+
+LinkedIn
+
+Business Agility Institute
+
+Scrum Alliance
+
+SAFe (Scaled Agile Frameworks)
+
+XP (Extreme Programming)
+
+LeSS (Large Scale Scrum)
+
+Spotify Model on YouTube
+
+Spotify Model on YouTube, continued
+
+BDD (Behavior Driven Development)
+
+FDD (Feature Driven Development)</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html"/>
+        <summary>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
+ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, and many more. It can be tempting to select a framework that looks good and start using it. However, there are downsides to that approach.
+
+In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Business Agility Institute. We talk about why agility can increase revenues, improve team performance, and retain employees. Evan shares the approach you should take to define what agility means to your organization and balance that with the various frameworks available to you.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-08-03T02:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</id>
+        <title>Agile in Agriculture at Dropcopter</title>
+        <updated>2021-07-27T02:00:41-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast I speak with Matt Koball, co-founder of Dropcopter, about the role agile plays in his development of pollinating drone technology to address a shortage of bees. Listen as Matt shares how modern methods of project management and product development addressed an age old issue.
+
+LinkedIn
+
+Dropcopter
+
+Genius NY</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html"/>
+        <summary>In today’s podcast I speak with Matt Koball, co-founder of Dropcopter, about the role agile plays in his development of pollinating drone technology to address a shortage of bees. Listen as Matt shares how modern methods of project management and product development addressed an age old issue.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-07-27T02:00:41-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</id>
+        <title>A day in the life of a Product Manager</title>
+        <updated>2021-07-20T02:00:13-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Leadership may define business goals, but how does your product strategy align? Enter the role of a Product Manager. Product Managers identify the strategic objectives and plans for a product and ensure they align closely with leadership’s business goals. Today, I speak to Albert Chen, a Senior Product Manager at Okta and an organizer at the San Francisco chapter of ProductTank. Albert shares his view of the role of a Product Manager, where they belong in the corporate structure, the deliverables they produce, and how they are going about defining markets.
+
+LinkedIn
+
+ProductTank</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html"/>
+        <summary>Leadership may define business goals, but how does your product strategy align? Enter the role of a Product Manager. Product Managers identify the strategic objectives and plans for a product and ensure they align closely with leadership’s business goals. Today, I speak to Albert Chen, a Senior Product Manager at Okta and an organizer at the San Francisco chapter of ProductTank. Albert shares his view of the role of a Product Manager, where they belong in the corporate structure, the deliverables they produce, and how they are going about defining markets.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-07-20T02:00:13-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</id>
+        <title>OnePlan's Jose Levy on seeing the big picture with adaptive agile</title>
+        <updated>2021-07-13T02:00:09-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s Agile in Action podcast, I speak with Jose Levy, Director of Cloud Services at OnePlan. We discuss the importance portfolio management processes and software still play in today’s modern organization.
+
+In this podcast, he explains that as organizations embrace agile, leaders must recognize that not every project will use agile techniques. Further, not all teams will use the same applications to manage those projects. Different teams and functions in an organization can coexist on the agile spectrum while working towards a common objective.
+
+LinkedIn
+
+OnePlan</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html"/>
+        <summary>In today’s Agile in Action podcast, I speak with Jose Levy, Director of Cloud Services at OnePlan. We discuss the importance portfolio management processes and software still play in today’s modern organization.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-07-13T02:00:09-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</id>
+        <title>Redefining leadership in an agile world with Peter Koning</title>
+        <updated>2021-06-29T03:00:36-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with author and coach Peter Koning about redefining leadership. As organizations modernize and shed their siloes, a new culture must emerge that embraces team ownership and change. Peter shares his clear and concise ideas to help leaders and organizations rise to the challenge.
+
+LinkedIn
+
+re-lead.co</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html"/>
+        <summary>In today’s podcast, I speak with author and coach Peter Koning about redefining leadership. As organizations modernize and shed their siloes, a new culture must emerge that embraces team ownership and change. Peter shares his clear and concise ideas to help leaders and organizations rise to the challenge.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-06-29T03:00:36-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</id>
+        <title>The power of an agile operating model in the manufacturing supply chain with Richard Spady and Josh Hinkel</title>
+        <updated>2021-06-22T03:00:52-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Agile presents a shift in how we approach team structures, plan work, and deliver customer value. Richard Spady and Josh Hinkel are leaders in the manufacturing and supply chain space and share how organizations can use agile to gain a competitive advantage and improve operational performance.
+
+Richard Spady’s LinkedIn
+
+Josh Hinkel’s LinkedIn
+
+Bain.com</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html"/>
+        <summary>Agile presents a shift in how we approach team structures, plan work, and deliver customer value. Richard Spady and Josh Hinkel are leaders in the manufacturing and supply chain space and share how organizations can use agile to gain a competitive advantage and improve operational performance.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-06-22T03:00:52-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</id>
+        <title>Taking flight with agile, a conversation with Yunpeng Li, Director of Cloud Services at AutoModality</title>
+        <updated>2021-06-15T03:00:09-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In the 1990s, organizations spent billions on large-scale, monolithic software solutions, such as ERP and MRP systems. Now, in the 2000s, innovative new technologies are changing the way we work.
+
+In today’s podcast, I speak with Yunpeng Li, Director of Cloud Services at AutoModality. Yunpeng shares the exciting advances AutoModality is making using drones to ensure our safety and how agile and cloud technology makes it possible.
+
+LinkedIn</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html"/>
+        <summary>In the 1990s, organizations spent billions on large-scale, monolithic software solutions, such as ERP and MRP systems. Now, in the 2000s, innovative new technologies are changing the way we work.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-06-15T03:00:09-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</id>
+        <title>A day in the life of a SCRUM Master with Michele Magnardini at Sage</title>
+        <updated>2021-06-08T03:00:15-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>When you think about agile teams, or more specifically, Scrum teams, you will often hear about a role called the Scrum Master. That role is frequently confused, and you will often hear the position referred to as a project manager with a new and modern title.
+
+For some, agile is a brand-new way to work, and therefore a brand new way of structuring your organization. Any organizational change requires new or changed roles, adjusting to a new culture, and shifting focus. That change is never-ending because customer needs, products, and technology will not stop changing our business landscape.
+
+In today’s podcast, I speak with Michele Magnardini, Scrum Master at Sage. He talks about the role of a Scrum Master, which helps improve team dynamics and plays a critical role in continuous team improvements. If your organization is considering adopting agile, you likely came across the term Scrum. Agile and Scrum can represent a tectonic shift in how companies work and structure teams. Embracing this change is not a one-and-done project but an entirely new way of working, which means change will be continuous, with regular improvements in support of teams to deliver customer value.
+
+In today’s fun and lively conversation Michele makes no assumptions that you are a Scrum expert, walking you through all the basics. You will learn how Scrum works, including the roles, meetings, and artifacts defined by the framework. Then, he shares the critical role of a Scrum Master.
+
+Sadly, many consider the Scrum Master as a project manager with a new, modern title. That cannot be farther from the truth, and you will learn just how important the Scrum Master’s role is to that continuous improvement process I share earlier in this post.
+
+LinkedIn
+
+Resources Michele recommends:
+
+Eight stances of a scrum master
+
+Scrum certification
+
+Geoff Watts’ website</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html"/>
+        <summary>When you think about agile teams, or more specifically, Scrum teams, you will often hear about a role called the Scrum Master. That role is frequently confused, and you will often hear the position referred to as a project manager with a new and modern title.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-06-08T03:00:15-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</id>
+        <title>Adapting agile to human resources with Natal Dank, Head of Learning, Coaching, and Community at PXO Culture</title>
+        <updated>2021-05-25T03:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today’s podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.
+
+LinkedIn
+
+Agile HR: Deliver Value in a Changing World of Work
+
+PXOCulture</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html"/>
+        <summary>Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today’s podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-05-25T03:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</id>
+        <title>There is no matrix - Organizing teams for the digital era with Luis Gonçalves, Founder of Evolution for All</title>
+        <updated>2021-05-18T03:00:57-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Luis Goncalves, who shares how too many organizations still use an industrial age, matrixed structure. Luis shares how to re-think team structures and focus on value streams over projects.
+
+LinkedIn
+
+Company Website
+
+Personal Website
+
+ADAPT Methodology
+
+Organisational Mastery Book + Website 
+
+Twitter</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html"/>
+        <summary>In today’s podcast, I speak with Luis Goncalves, who shares how too many organizations still use an industrial age, matrixed structure. Luis shares how to re-think team structures and focus on value streams over projects.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-05-18T03:00:57-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</id>
+        <title>Building new teams one sticky paper at a time with Willem-Jan Ageling</title>
+        <updated>2021-05-11T03:00:39-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.
+
+LinkedIn
+
+Medium
+
+Website
+
+Twitter</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html"/>
+        <summary>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-05-11T03:00:39-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</id>
+        <title>Leading high performing teams with Dr Lisa Mabli from Twilio</title>
+        <updated>2021-05-04T03:00:34-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak to Lisa Mabli, Senior Manager of Agile Program Management at Twilio. We discuss the qualities that make up high performing teams and strategies for how new leaders can build and enable their teams.
+
+LinkedIn
+
+Recommended reading from Dr. Mabli
+
+“Ask your developer”
+
+“Leaders eat last”
+
+“Flow”</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html"/>
+        <summary>In today’s podcast, I speak to Lisa Mabli, Senior Manager of Agile Program Management at Twilio. We discuss the qualities that make up high performing teams and strategies for how new leaders can build and enable their teams.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-05-04T03:00:34-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</id>
+        <title>Maarten Dalmijn on avoiding the six most common agile sprint planning mistakes</title>
+        <updated>2021-04-27T03:00:55-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.
+
+If you would like to reach Maarten, here is how you can contact him:
+
+LinkedIn
+
+Website on Medium</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html"/>
+        <summary>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-04-27T03:00:55-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</id>
+        <title>Shane Drumm shares a day in the life of an agile team Product Owner</title>
+        <updated>2021-04-20T03:00:27-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.
+
+LinkedIn
+
+pm-training.net
+
+shanedrumm.com</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html"/>
+        <summary>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-04-20T03:00:27-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</id>
+        <title>Measuring enterprise agile maturity and success with Jim Starrett at Bottomline</title>
+        <updated>2021-04-13T03:00:41-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.
+
+LinkedIn
+
+Bottomline Technologies</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html"/>
+        <summary>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-04-13T03:00:41-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</id>
+        <title>William Morgan, CEO of Bouyant and founder of Linkerd on teaming with the opensource community</title>
+        <updated>2021-04-06T03:00:33-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open source community.
+
+Buoyant.io
+
+LINKERD.io
+
+Twitter
+
+LinkedIn</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html"/>
+        <summary>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open source community.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-04-06T03:00:33-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html</id>
+        <title>Thriving in the workplace with Doctor Tracy Brower at Steelcase</title>
+        <updated>2021-03-30T03:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.
+
+Dr. Tracy Brower
+
+You can reach Dr. Brower via her website or LinkedIn.
+
+Website
+
+LinkedIn
+
+The Secrets to Happiness at Work
+
+Bring Work to Life by Bringing Life to Work</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html"/>
+        <summary>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-03-30T03:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html</id>
+        <title>Untapped Agility. An Interview with Jesse Fewell. </title>
+        <updated>2021-03-23T03:00:10-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.
+
+Apple Podcasts: https://apple.co/3e35K9O
+
+Spotify: https://spoti.fi/3e40d34
+
+Google: https://bit.ly/3sFYpBe
+
+@Reama Dagasan #leadership #podcast #agile #agileteams #untappedagility
+
+Contact Jesse Fewell
+
+Website</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html"/>
+        <summary>In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-03-23T03:00:10-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/03/16/transform-your-conversations-transform-your-culture.an-interview-with-douglas-squirrel-and-jeffrey-fredrick.html</id>
+        <title>Transform Your Conversations, Transform Your Culture. An interview with Douglas Squirrel and Jeffrey Fredrick</title>
+        <updated>2021-03-16T03:00:11-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.
+
+Apple Podcasts: https://apple.co/3e35K9O
+
+Spotify: https://spoti.fi/3e40d34
+
+Google: https://bit.ly/3sFYpBe
+
+#customerexperience #podcast #changemanagement #agile #agileteams
+
+Jeffrey Fredrick
+
+Twitter
+
+LinkedIn
+
+Douglas Squirrel
+
+Twitter
+
+LinkedIn
+
+More on conversational transformation
+
+Website
+
+Twitter
+
+Email</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/03/16/transform-your-conversations-transform-your-culture.an-interview-with-douglas-squirrel-and-jeffrey-fredrick.html"/>
+        <summary>In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-03-16T03:00:11-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/03/09/taking-agile-from-concept-to-practice-with-dr.john-farlik.html</id>
+        <title>Taking agile from concept to practice with Dr. John Farlik</title>
+        <updated>2021-03-09T03:00:45-06:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In this podcast, I speak with Doctor John Farlik and discuss the successful implementation of agile in part by gauging where stakeholders fall on the agile-waterfall continuum and working with them at their level. We discuss how planning is a crucial part of agile even when done differently than for a waterfall project.
+
+Contact Dr. John Farlik
+
+LinkedIn</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/03/09/taking-agile-from-concept-to-practice-with-dr.john-farlik.html"/>
+        <summary>In this podcast, I speak with Doctor John Farlik and discuss the successful implementation of agile in part by gauging where stakeholders fall on the agile-waterfall continuum and working with them at their level. We discuss how planning is a crucial part of agile even when done differently than for a waterfall project.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-03-09T03:00:45-06:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry>
+</feed>
