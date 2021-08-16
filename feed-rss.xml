@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 16 Aug 2021 14:08:24 -0500</pubDate>
-        <lastBuildDate>Mon, 16 Aug 2021 14:08:24 -0500</lastBuildDate>
+        <pubDate>Mon, 16 Aug 2021 14:12:39 -0500</pubDate>
+        <lastBuildDate>Mon, 16 Aug 2021 14:12:39 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>This is a test post</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/04/this-is-a-test-post.html</link>
+            <description></description>
+            <author>info@cambermast.com (Bill Raymond)</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-poscast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/04/this-is-a-test-post.html</guid>
+            <pubDate>Wed, 04 Aug 2021 02:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>This is a test</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/test-page.html</link>
             <description>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
@@ -309,20 +323,6 @@ In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Busi
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html</guid>
             <pubDate>Tue, 23 Mar 2021 03:00:10 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Transform Your Conversations, Transform Your Culture. An interview with Douglas Squirrel and Jeffrey Fredrick</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/16/transform-your-conversations-transform-your-culture.an-interview-with-douglas-squirrel-and-jeffrey-fredrick.html</link>
-            <description>In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/16/transform-your-conversations-transform-your-culture.an-interview-with-douglas-squirrel-and-jeffrey-fredrick.html</guid>
-            <pubDate>Tue, 16 Mar 2021 03:00:11 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
