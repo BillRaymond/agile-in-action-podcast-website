@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-16T11:37:15-05:00</updated>
+    <updated>2021-08-16T11:45:32-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,53 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/test-page.html</id>
+        <title>This is a test</title>
+        <updated>2021-08-03T02:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
+ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, and many more. It can be tempting to select a framework that looks good and start using it. However, there are downsides to that approach.
+
+In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Business Agility Institute. We talk about why agility can increase revenues, improve team performance, and retain employees. Evan shares the approach you should take to define what agility means to your organization and balance that with the various frameworks available to you.
+
+LinkedIn
+
+Business Agility Institute
+
+Scrum Alliance
+
+SAFe (Scaled Agile Frameworks)
+
+XP (Extreme Programming)
+
+LeSS (Large Scale Scrum)
+
+Spotify Model on YouTube
+
+Spotify Model on YouTube, continued
+
+BDD (Behavior Driven Development)
+
+FDD (Feature Driven Development)</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/test-page.html"/>
+        <summary>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
+ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, and many more. It can be tempting to select a framework that looks good and start using it. However, there are downsides to that approach.
+
+In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Business Agility Institute. We talk about why agility can increase revenues, improve team performance, and retain employees. Evan shares the approach you should take to define what agility means to your organization and balance that with the various frameworks available to you.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-08-03T02:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</id>
         <title>Agility, frameworks, and gaining a competitive advantage with Evan Leybourn</title>
         <updated>2021-08-03T02:00:00-05:00</updated>
@@ -607,31 +654,6 @@ Email</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-03-16T03:00:11-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/09/taking-agile-from-concept-to-practice-with-dr.john-farlik.html</id>
-        <title>Taking agile from concept to practice with Dr. John Farlik</title>
-        <updated>2021-03-09T03:00:45-06:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In this podcast, I speak with Doctor John Farlik and discuss the successful implementation of agile in part by gauging where stakeholders fall on the agile-waterfall continuum and working with them at their level. We discuss how planning is a crucial part of agile even when done differently than for a waterfall project.
-
-Contact Dr. John Farlik
-
-LinkedIn</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/09/taking-agile-from-concept-to-practice-with-dr.john-farlik.html"/>
-        <summary>In this podcast, I speak with Doctor John Farlik and discuss the successful implementation of agile in part by gauging where stakeholders fall on the agile-waterfall continuum and working with them at their level. We discuss how planning is a crucial part of agile even when done differently than for a waterfall project.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-03-09T03:00:45-06:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
