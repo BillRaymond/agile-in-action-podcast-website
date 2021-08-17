@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 16 Aug 2021 19:54:12 -0500</pubDate>
-        <lastBuildDate>Mon, 16 Aug 2021 19:54:12 -0500</lastBuildDate>
+        <pubDate>Tue, 17 Aug 2021 15:18:52 -0500</pubDate>
+        <lastBuildDate>Tue, 17 Aug 2021 15:18:52 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,34 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Test guest details</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html</link>
+            <description>This is a test post</description>
+            <author>info@cambermast.com (Bill Raymond)</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-poscast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html</guid>
+            <pubDate>Tue, 17 Aug 2021 02:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Agile and drones</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/agile-and-drones.html</link>
+            <description></description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-poscast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/agile-and-drones.html</guid>
+            <pubDate>Tue, 17 Aug 2021 02:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Agility, frameworks, and gaining a competitive advantage with Evan Leybourn</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</link>
             <description>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
@@ -292,34 +320,6 @@ In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Busi
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html</guid>
             <pubDate>Tue, 23 Mar 2021 03:00:10 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Transform Your Conversations, Transform Your Culture. An interview with Douglas Squirrel and Jeffrey Fredrick</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/16/transform-your-conversations-transform-your-culture.an-interview-with-douglas-squirrel-and-jeffrey-fredrick.html</link>
-            <description>In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/16/transform-your-conversations-transform-your-culture.an-interview-with-douglas-squirrel-and-jeffrey-fredrick.html</guid>
-            <pubDate>Tue, 16 Mar 2021 03:00:11 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Taking agile from concept to practice with Dr. John Farlik</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/09/taking-agile-from-concept-to-practice-with-dr.john-farlik.html</link>
-            <description>In this podcast, I speak with Doctor John Farlik and discuss the successful implementation of agile in part by gauging where stakeholders fall on the agile-waterfall continuum and working with them at their level. We discuss how planning is a crucial part of agile even when done differently than for a waterfall project.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/09/taking-agile-from-concept-to-practice-with-dr.john-farlik.html</guid>
-            <pubDate>Tue, 09 Mar 2021 03:00:45 -0600</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
