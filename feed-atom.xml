@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-18T13:08:55-05:00</updated>
+    <updated>2021-08-18T13:09:42-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,27 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/one-guest.html</id>
+        <title>One-guest</title>
+        <updated>2021-08-18T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content></content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/one-guest.html"/>
+        <summary></summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-poscast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-08-18T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html</id>
         <title>Test guest details</title>
         <updated>2021-08-17T02:00:00-05:00</updated>
@@ -557,39 +578,6 @@ LinkedIn</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-04-06T03:00:33-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html</id>
-        <title>Thriving in the workplace with Doctor Tracy Brower at Steelcase</title>
-        <updated>2021-03-30T03:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.
-
-Dr. Tracy Brower
-
-You can reach Dr. Brower via her website or LinkedIn.
-
-Website
-
-LinkedIn
-
-The Secrets to Happiness at Work
-
-Bring Work to Life by Bringing Life to Work</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html"/>
-        <summary>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-03-30T03:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
