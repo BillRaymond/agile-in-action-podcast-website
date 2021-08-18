@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 18 Aug 2021 13:51:50 -0500</pubDate>
-        <lastBuildDate>Wed, 18 Aug 2021 13:51:50 -0500</lastBuildDate>
+        <pubDate>Wed, 18 Aug 2021 13:59:59 -0500</pubDate>
+        <lastBuildDate>Wed, 18 Aug 2021 13:59:59 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -55,7 +55,7 @@
         </item><item>
             <title>Three-guests</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/three-guests.html</link>
-            <description></description>
+            <description>I could not get three Ph.Ds in one post.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-poscast</category>
