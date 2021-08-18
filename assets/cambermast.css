@@ -149,7 +149,7 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 .feed-latest-posts { display: grid; grid-column: 1fr; margin-top: 5px; }
 
-.feed-latest-post-cards { display: grid; grid-template-columns: repeat(2, 0.5fr); gap: 10px; }
+.feed-latest-post-cards { display: grid; grid-template-columns: 1fr; gap: 10px; }
 
 @media (max-width: 599px) { .feed-latest-post-cards { gap: 5px; } }
 
