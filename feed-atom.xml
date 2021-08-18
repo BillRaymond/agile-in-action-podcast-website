@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-18T13:19:02-05:00</updated>
+    <updated>2021-08-18T13:20:51-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -64,71 +64,6 @@
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-08-18T00:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html</id>
-        <title>Test guest details</title>
-        <updated>2021-08-17T02:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>This is a test post</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html"/>
-        <summary>This is a test post</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-poscast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-08-17T02:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/reama-is-testing-the-mvp.html</id>
-        <title>Reama is testing the MVP</title>
-        <updated>2021-08-17T02:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Before this year, Reama did not know that an MVP was a minimum viable product. She always associated MVP with the most valuable player. Reama listened to the Agile in Action with Bill Raymond podcast and became smarter.
-
-You can too!</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/reama-is-testing-the-mvp.html"/>
-        <summary>Before this year, Reama did not know that an MVP was a minimum viable product. She always associated MVP with the most valuable player. Reama listened to the Agile in Action with Bill Raymond podcast and became smarter.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-poscast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-08-17T02:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/agile-and-drones.html</id>
-        <title>Agile and drones</title>
-        <updated>2021-08-17T02:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content></content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/agile-and-drones.html"/>
-        <summary></summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-poscast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-08-17T02:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
@@ -570,6 +505,101 @@ Bottomline Technologies</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-04-13T03:00:41-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</id>
+        <title>William Morgan, CEO of Bouyant and founder of Linkerd on teaming with the opensource community</title>
+        <updated>2021-04-06T03:00:33-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.
+
+Buoyant.io
+
+LINKERD.io
+
+Twitter
+
+LinkedIn</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html"/>
+        <summary>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-04-06T03:00:33-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html</id>
+        <title>Thriving in the workplace with Doctor Tracy Brower at Steelcase</title>
+        <updated>2021-03-30T03:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.
+
+Dr. Tracy Brower
+
+You can reach Dr. Brower via her website or LinkedIn.
+
+Website
+
+LinkedIn
+
+The Secrets to Happiness at Work
+
+Bring Work to Life by Bringing Life to Work</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html"/>
+        <summary>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-03-30T03:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html</id>
+        <title>Untapped Agility. An Interview with Jesse Fewell. </title>
+        <updated>2021-03-23T03:00:10-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.
+
+Apple Podcasts: https://apple.co/3e35K9O
+
+Spotify: https://spoti.fi/3e40d34
+
+Google: https://bit.ly/3sFYpBe
+
+@Reama Dagasan #leadership #podcast #agile #agileteams #untappedagility
+
+Contact Jesse Fewell
+
+Website</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html"/>
+        <summary>In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-03-23T03:00:10-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->

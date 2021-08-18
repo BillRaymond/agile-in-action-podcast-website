@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 18 Aug 2021 13:19:02 -0500</pubDate>
-        <lastBuildDate>Wed, 18 Aug 2021 13:19:02 -0500</lastBuildDate>
+        <pubDate>Wed, 18 Aug 2021 13:20:51 -0500</pubDate>
+        <lastBuildDate>Wed, 18 Aug 2021 13:20:51 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -65,48 +65,6 @@
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/one-guest.html</guid>
             <pubDate>Wed, 18 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Test guest details</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html</link>
-            <description>This is a test post</description>
-            <author>info@cambermast.com (Bill Raymond)</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-poscast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/test-guest-details.html</guid>
-            <pubDate>Tue, 17 Aug 2021 02:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Reama is testing the MVP</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/reama-is-testing-the-mvp.html</link>
-            <description>Before this year, Reama did not know that an MVP was a minimum viable product. She always associated MVP with the most valuable player. Reama listened to the Agile in Action with Bill Raymond podcast and became smarter.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-poscast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/reama-is-testing-the-mvp.html</guid>
-            <pubDate>Tue, 17 Aug 2021 02:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Agile and drones</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/agile-and-drones.html</link>
-            <description></description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-poscast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/17/agile-and-drones.html</guid>
-            <pubDate>Tue, 17 Aug 2021 02:00:00 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Agility, frameworks, and gaining a competitive advantage with Evan Leybourn</title>
@@ -320,6 +278,48 @@ In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Busi
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</guid>
             <pubDate>Tue, 13 Apr 2021 03:00:41 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>William Morgan, CEO of Bouyant and founder of Linkerd on teaming with the opensource community</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</link>
+            <description>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</guid>
+            <pubDate>Tue, 06 Apr 2021 03:00:33 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Thriving in the workplace with Doctor Tracy Brower at Steelcase</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html</link>
+            <description>In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research and Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/30/Thriving-in-the-workplace-with-Doctor-Tracy-Brower-at-Steelcase.html</guid>
+            <pubDate>Tue, 30 Mar 2021 03:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Untapped Agility. An Interview with Jesse Fewell. </title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html</link>
+            <description>In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/03/23/untapped-agility.an-interview-with-jesse-fewell.html</guid>
+            <pubDate>Tue, 23 Mar 2021 03:00:10 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
