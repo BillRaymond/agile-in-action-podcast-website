@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-18T13:59:59-05:00</updated>
+    <updated>2021-08-18T14:00:19-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -95,9 +95,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content></content>
+        <content>We get to meet and speak with some really cool people.</content>
         <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/18/four-guests.html"/>
-        <summary></summary>
+        <summary>We get to meet and speak with some really cool people.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
