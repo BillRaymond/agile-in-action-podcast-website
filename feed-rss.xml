@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 18 Aug 2021 13:14:02 -0500</pubDate>
-        <lastBuildDate>Wed, 18 Aug 2021 13:14:02 -0500</lastBuildDate>
+        <pubDate>Wed, 18 Aug 2021 13:17:42 -0500</pubDate>
+        <lastBuildDate>Wed, 18 Aug 2021 13:17:42 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>two-guests</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/two-guests.html</link>
-            <description></description>
+            <description>Two awesome guests!</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-poscast</category>
@@ -55,7 +55,7 @@
         </item><item>
             <title>One-guest</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/one-guest.html</link>
-            <description></description>
+            <description>One of my very favorite podcasts.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-poscast</category>

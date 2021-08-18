@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-18T13:14:02-05:00</updated>
+    <updated>2021-08-18T13:17:42-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content></content>
+        <content>Two awesome guests!</content>
         <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/two-guests.html"/>
-        <summary></summary>
+        <summary>Two awesome guests!</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-poscast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
@@ -53,9 +53,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content></content>
+        <content>One of my very favorite podcasts.</content>
         <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-poscast/2021/08/18/one-guest.html"/>
-        <summary></summary>
+        <summary>One of my very favorite podcasts.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-poscast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
