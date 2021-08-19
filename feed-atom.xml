@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-18T15:08:21-05:00</updated>
+    <updated>2021-08-18T19:58:53-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -27,7 +27,7 @@
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</id>
-        <title>four-guests</title>
+        <title>four guests</title>
         <updated>2021-08-17T00:00:00-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -48,7 +48,7 @@
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/16/three-guests.html</id>
-        <title>Three-guests</title>
+        <title>Three guests</title>
         <updated>2021-08-16T00:00:00-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -69,7 +69,7 @@
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/15/two-guests.html</id>
-        <title>two-guests</title>
+        <title>two guests</title>
         <updated>2021-08-15T00:00:00-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -90,7 +90,7 @@
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/14/one-guest.html</id>
-        <title>One-guest</title>
+        <title>One guest</title>
         <updated>2021-08-14T00:00:00-05:00</updated>
         <author>
             <name>Bill Raymond</name>
