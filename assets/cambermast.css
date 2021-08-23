@@ -11,6 +11,24 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 @media (max-width: 599px) { h1 { font-size: 22px; margin-top: 20px; margin-bottom: 0; } }
 
+.guest-cards-container { display: grid; grid-auto-rows: 1fr; grid-template-columns: 1fr; grid-template-rows: 1fr; gap: 0px 0px; width: 110px; height: 110px; }
+
+.gc-background { display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr; gap: 0px 0px; grid-template-areas: "."; grid-area: 1 / 1 / 2 / 2; }
+
+.guest-cards-1 { display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr; gap: 2px 2px; grid-template-areas: "."; width: 110px; height: 110px; grid-area: 1 / 1 / 2 / 2; }
+
+.guest-cards-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0px 2px; width: 110px; height: 110px; grid-area: 1 / 1 / 2 / 2; }
+
+.guest-cards-2 .gc-card { height: 100%; object-fit: cover; }
+
+.guest-cards-3 { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 2px 2px; grid-template-areas: ". ." ". ."; width: 110px; height: 110px; grid-area: 1 / 1 / 2 / 2; }
+
+.guest-cards-4 { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 2px 2px; grid-template-areas: ". ." ". ."; width: 110px; height: 110px; grid-area: 1 / 1 / 2 / 2; }
+
+.gc-card { width: 100%; max-width: 100%; object-fit: cover; }
+
+.gc-background-image { width: 100%; max-width: 100%; object-fit: cover; }
+
 #unsupported-browser { display: none; width: 100%; background-color: red; margin-bottom: 10px; }
 
 #browser-not-supported-message { color: white; text-align: center; }
