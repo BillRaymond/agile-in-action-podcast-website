@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 25 Aug 2021 14:57:36 -0500</pubDate>
-        <lastBuildDate>Wed, 25 Aug 2021 14:57:36 -0500</lastBuildDate>
+        <pubDate>Wed, 25 Aug 2021 15:03:19 -0500</pubDate>
+        <lastBuildDate>Wed, 25 Aug 2021 15:03:19 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,7 +39,7 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>four guests</title>
+            <title>Four guests</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</link>
             <description>We get to meet and speak with some really cool people.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
@@ -67,7 +67,7 @@
             <pubDate>Mon, 16 Aug 2021 00:00:00 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>two guests</title>
+            <title>Two guests</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/15/two-guests.html</link>
             <description>Two awesome guests!</description>
             <author>info@cambermast.com (Bill Raymond))</author>
