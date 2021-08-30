@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-30T01:43:14-05:00</updated>
+    <updated>2021-08-30T01:45:35-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -378,7 +378,7 @@ PXOCulture</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</id>
-        <title>There is no matrix - Organizing teams for the digital era with Luis Gonçalves, Founder of Evolution for All</title>
+        <title>There is no matrix</title>
         <updated>2021-05-18T03:00:57-05:00</updated>
         <author>
             <name>Bill Raymond</name>

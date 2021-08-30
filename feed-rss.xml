@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 30 Aug 2021 01:43:14 -0500</pubDate>
-        <lastBuildDate>Mon, 30 Aug 2021 01:43:14 -0500</lastBuildDate>
+        <pubDate>Mon, 30 Aug 2021 01:45:35 -0500</pubDate>
+        <lastBuildDate>Mon, 30 Aug 2021 01:45:35 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -222,7 +222,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 25 May 2021 03:00:00 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>There is no matrix - Organizing teams for the digital era with Luis Gonçalves, Founder of Evolution for All</title>
+            <title>There is no matrix</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</link>
             <description>In today’s podcast, I speak with Luis Goncalves, who shares how too many organizations still use an industrial age, matrixed structure. Luis shares how to re-think team structures and focus on value streams over projects.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
