@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 30 Aug 2021 01:40:13 -0500</pubDate>
-        <lastBuildDate>Mon, 30 Aug 2021 01:40:13 -0500</lastBuildDate>
+        <pubDate>Mon, 30 Aug 2021 01:43:14 -0500</pubDate>
+        <lastBuildDate>Mon, 30 Aug 2021 01:43:14 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -208,7 +208,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 08 Jun 2021 03:00:15 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>Adapting agile to human resources with Natal Dank, Head of Learning, Coaching, and Community at PXO Culture</title>
+            <title>Adapting agile to human resources </title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</link>
             <description>Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today’s podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
