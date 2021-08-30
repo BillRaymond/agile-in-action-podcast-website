@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-30T01:30:41-05:00</updated>
+    <updated>2021-08-30T01:33:10-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -235,7 +235,7 @@ OnePlan</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</id>
-        <title>Redefining leadership in an agile world with Peter Koning</title>
+        <title>Redefining leadership in an agile world </title>
         <updated>2021-06-29T03:00:36-05:00</updated>
         <author>
             <name>Bill Raymond</name>
