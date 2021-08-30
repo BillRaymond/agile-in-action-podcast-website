@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-30T01:39:01-05:00</updated>
+    <updated>2021-08-30T01:40:13-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -312,7 +312,7 @@ LinkedIn</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</id>
-        <title>A day in the life of a SCRUM Master with Michele Magnardini at Sage</title>
+        <title>A day in the life of a SCRUM Master </title>
         <updated>2021-06-08T03:00:15-05:00</updated>
         <author>
             <name>Bill Raymond</name>

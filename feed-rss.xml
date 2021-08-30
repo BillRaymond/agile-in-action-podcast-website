@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 30 Aug 2021 01:39:01 -0500</pubDate>
-        <lastBuildDate>Mon, 30 Aug 2021 01:39:01 -0500</lastBuildDate>
+        <pubDate>Mon, 30 Aug 2021 01:40:13 -0500</pubDate>
+        <lastBuildDate>Mon, 30 Aug 2021 01:40:13 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -194,7 +194,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 15 Jun 2021 03:00:09 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>A day in the life of a SCRUM Master with Michele Magnardini at Sage</title>
+            <title>A day in the life of a SCRUM Master </title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</link>
             <description>When you think about agile teams, or more specifically, Scrum teams, you will often hear about a role called the Scrum Master. That role is frequently confused, and you will often hear the position referred to as a project manager with a new and modern title.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
