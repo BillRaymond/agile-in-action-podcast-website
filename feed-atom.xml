@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-30T01:29:21-05:00</updated>
+    <updated>2021-08-30T01:30:41-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -208,7 +208,7 @@ ProductTank</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</id>
-        <title>OnePlan's Jose Levy on seeing the big picture with adaptive agile</title>
+        <title>Seeing the big picture with adaptive agile</title>
         <updated>2021-07-13T02:00:09-05:00</updated>
         <author>
             <name>Bill Raymond</name>
