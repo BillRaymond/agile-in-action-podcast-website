@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 30 Aug 2021 01:33:10 -0500</pubDate>
-        <lastBuildDate>Mon, 30 Aug 2021 01:33:10 -0500</lastBuildDate>
+        <pubDate>Mon, 30 Aug 2021 01:39:01 -0500</pubDate>
+        <lastBuildDate>Mon, 30 Aug 2021 01:39:01 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -166,7 +166,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 29 Jun 2021 03:00:36 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>The power of an agile operating model in the manufacturing supply chain with Richard Spady and Josh Hinkel</title>
+            <title>The power of an agile operating model in the manufacturing supply chain </title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</link>
             <description>Agile presents a shift in how we approach team structures, plan work, and deliver customer value. Richard Spady and Josh Hinkel are leaders in the manufacturing and supply chain space and share how organizations can use agile to gain a competitive advantage and improve operational performance.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
@@ -180,7 +180,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 22 Jun 2021 03:00:52 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>Taking flight with agile, a conversation with Yunpeng Li, Director of Cloud Services at AutoModality</title>
+            <title>Taking flight with agile</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</link>
             <description>In the 1990s, organizations spent billions on large-scale, monolithic software solutions, such as ERP and MRP systems. Now, in the 2000s, innovative new technologies are changing the way we work.</description>
             <author>info@cambermast.com (Bill Raymond))</author>

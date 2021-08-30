@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-30T01:33:10-05:00</updated>
+    <updated>2021-08-30T01:39:01-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -260,7 +260,7 @@ re-lead.co</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</id>
-        <title>The power of an agile operating model in the manufacturing supply chain with Richard Spady and Josh Hinkel</title>
+        <title>The power of an agile operating model in the manufacturing supply chain </title>
         <updated>2021-06-22T03:00:52-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -287,7 +287,7 @@ Bain.com</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</id>
-        <title>Taking flight with agile, a conversation with Yunpeng Li, Director of Cloud Services at AutoModality</title>
+        <title>Taking flight with agile</title>
         <updated>2021-06-15T03:00:09-05:00</updated>
         <author>
             <name>Bill Raymond</name>
