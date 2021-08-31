@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-08-30T02:32:07-05:00</updated>
+    <updated>2021-08-30T22:44:33-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -411,7 +411,7 @@ Twitter</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</id>
-        <title>Building new teams one sticky paper at a time with Willem-Jan Ageling</title>
+        <title>Building new teams one sticky paper at a time</title>
         <updated>2021-05-11T03:00:39-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -422,9 +422,7 @@ LinkedIn
 
 Medium
 
-Website
-
-Twitter</content>
+Website</content>
         <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html"/>
         <summary>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
