@@ -69,13 +69,21 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 @media (max-width: 599px) { .guest-card-title-container { align-self: start; margin-top: 5px; } }
 
-.gct-title { grid-area: gct-title; align-self: end; font-weight: bold; text-transform: uppercase; font-size: 16px; }
+.gct-title { grid-area: gct-title; align-self: end; font-size: 16px; }
 
-@media screen and (min-width: 320px) { .gct-title { font-size: calc(16px + 8 * (100vw - 320px) / 960); } }
+@media screen and (min-width: 320px) { .gct-title { font-size: calc(16px + 2 * (100vw - 320px) / 960); } }
 
-@media screen and (min-width: 1280px) { .gct-title { font-size: 24px; } }
+@media screen and (min-width: 1280px) { .gct-title { font-size: 18px; } }
 
 @media (max-width: 599px) { .gct-title { text-transform: none; } }
+
+.gct-title-href { text-decoration: none; color: #0037Be; }
+
+.gct-title-href:link { color: #0037Be; }
+
+.gct-title-href:visited { color: #0037Be; }
+
+.gct-title-href:hover { color: #012072; }
 
 #unsupported-browser { display: none; width: 100%; background-color: red; margin-bottom: 10px; }
 
