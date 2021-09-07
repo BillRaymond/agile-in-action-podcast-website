@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-06T22:51:49-05:00</updated>
+    <updated>2021-09-06T23:12:46-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -469,7 +469,7 @@ Recommended reading from Dr. Mabli
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</id>
-        <title>Maarten Dalmijn on avoiding the six most common agile sprint planning mistakes</title>
+        <title>Avoiding the six most common agile sprint planning mistakes</title>
         <updated>2021-04-27T03:00:55-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -496,7 +496,7 @@ Website on Medium</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</id>
-        <title>Shane Drumm shares a day in the life of an agile team Product Owner</title>
+        <title>A day in the life of an agile team Product Owner</title>
         <updated>2021-04-20T03:00:27-05:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -523,7 +523,7 @@ shanedrumm.com</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</id>
-        <title>Measuring enterprise agile maturity and success with Jim Starrett at Bottomline</title>
+        <title>Measuring enterprise agile maturity and success </title>
         <updated>2021-04-13T03:00:41-05:00</updated>
         <author>
             <name>Bill Raymond</name>

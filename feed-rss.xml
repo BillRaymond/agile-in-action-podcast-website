@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 06 Sep 2021 22:51:49 -0500</pubDate>
-        <lastBuildDate>Mon, 06 Sep 2021 22:51:49 -0500</lastBuildDate>
+        <pubDate>Mon, 06 Sep 2021 23:12:46 -0500</pubDate>
+        <lastBuildDate>Mon, 06 Sep 2021 23:12:46 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -264,7 +264,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 04 May 2021 03:00:34 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>Maarten Dalmijn on avoiding the six most common agile sprint planning mistakes</title>
+            <title>Avoiding the six most common agile sprint planning mistakes</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</link>
             <description>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
@@ -278,7 +278,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 27 Apr 2021 03:00:55 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>Shane Drumm shares a day in the life of an agile team Product Owner</title>
+            <title>A day in the life of an agile team Product Owner</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</link>
             <description>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
@@ -292,7 +292,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 20 Apr 2021 03:00:27 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>Measuring enterprise agile maturity and success with Jim Starrett at Bottomline</title>
+            <title>Measuring enterprise agile maturity and success </title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</link>
             <description>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
