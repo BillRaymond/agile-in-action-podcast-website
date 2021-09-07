@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-07T02:33:48-05:00</updated>
+    <updated>2021-09-07T11:04:51-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -548,7 +548,7 @@ Bottomline Technologies</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</id>
-        <title>William Morgan, CEO of Bouyant and founder of Linkerd on teaming with the opensource community</title>
+        <title>Teaming with the opensource community</title>
         <updated>2021-04-06T03:00:33-05:00</updated>
         <author>
             <name>Bill Raymond</name>
