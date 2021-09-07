@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 06 Sep 2021 22:29:44 -0500</pubDate>
-        <lastBuildDate>Mon, 06 Sep 2021 22:29:44 -0500</lastBuildDate>
+        <pubDate>Mon, 06 Sep 2021 22:51:49 -0500</pubDate>
+        <lastBuildDate>Mon, 06 Sep 2021 22:51:49 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -250,7 +250,7 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <pubDate>Tue, 11 May 2021 03:00:39 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
-            <title>Leading high performing teams with Dr Lisa Mabli from Twilio</title>
+            <title>Leading high performing teams </title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</link>
             <description>In today’s podcast, I speak to Lisa Mabli, Senior Manager of Agile Program Management at Twilio. We discuss the qualities that make up high performing teams and strategies for how new leaders can build and enable their teams.</description>
             <author>info@cambermast.com (Bill Raymond))</author>

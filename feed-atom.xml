@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-06T22:29:44-05:00</updated>
+    <updated>2021-09-06T22:51:49-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -438,7 +438,7 @@ Website</content>
         <!-- If you have a <source>, add it below. -->
     </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</id>
-        <title>Leading high performing teams with Dr Lisa Mabli from Twilio</title>
+        <title>Leading high performing teams </title>
         <updated>2021-05-04T03:00:34-05:00</updated>
         <author>
             <name>Bill Raymond</name>
