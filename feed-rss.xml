@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 15 Sep 2021 11:59:44 -0500</pubDate>
-        <lastBuildDate>Wed, 15 Sep 2021 11:59:44 -0500</lastBuildDate>
+        <pubDate>Wed, 15 Sep 2021 17:26:46 -0500</pubDate>
+        <lastBuildDate>Wed, 15 Sep 2021 17:26:46 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -93,6 +93,20 @@
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/14/one-guest.html</guid>
             <pubDate>Sat, 14 Aug 2021 00:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Getting in the agile zone with the fluency model</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</link>
+            <description>Today, I speak with James Shore, author of The Art of Agile Development. We talk about the Agile Fluency Model he developed alongside Diana Larsen.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</guid>
+            <pubDate>Tue, 10 Aug 2021 00:00:00 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Agility, frameworks, and gaining a competitive advantage </title>
@@ -304,20 +318,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</guid>
             <pubDate>Tue, 13 Apr 2021 03:00:41 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Teaming with the opensource community</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</link>
-            <description>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</guid>
-            <pubDate>Tue, 06 Apr 2021 03:00:33 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>

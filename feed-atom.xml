@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-15T11:59:44-05:00</updated>
+    <updated>2021-09-15T17:26:46-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -106,6 +106,33 @@
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-08-14T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</id>
+        <title>Getting in the agile zone with the fluency model</title>
+        <updated>2021-08-10T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Today, I speak with James Shore, author of The Art of Agile Development. We talk about the Agile Fluency Model he developed alongside Diana Larsen.
+
+When you re-organize teams with a focus on agility, changes will not happen overnight. Teams will have to get used to new tools, processes, and interpersonal dynamics.
+
+Bruce Tuckman created a model that recognizes specific team dynamics. The model proposes that teams go through several stages: forming, storming, norming, and performing. If you have ever been in a large team meeting to make critical business changes or are part of a re-org, you will be familiar with that model.
+
+Re-structuring for agility means you will not only see the four phases of the Tuckman model but another as well. That is where James Shore and Diana Larsen come in. They designed a model to appreciate the cultural shift in how your teams gain fluency in delivering more value faster, and they call it the Agile Fluency Model.</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html"/>
+        <summary>Today, I speak with James Shore, author of The Art of Agile Development. We talk about the Agile Fluency Model he developed alongside Diana Larsen.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-08-10T00:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
@@ -439,27 +466,6 @@ If you would like to reach Maarten, here is how you can contact him:</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-04-13T03:00:41-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</id>
-        <title>Teaming with the opensource community</title>
-        <updated>2021-04-06T03:00:33-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html"/>
-        <summary>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-04-06T03:00:33-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
