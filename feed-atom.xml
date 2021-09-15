@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-15T17:26:46-05:00</updated>
+    <updated>2021-09-15T17:45:52-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,54 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</id>
+        <title>Introducing the Modified Agile for Hardware Development Framework</title>
+        <updated>2021-09-14T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.
+
+Dorian and Gary will share how stage-gate, detailed process flows, and hierarchical organizational structures can slow the pace of innovation and rarely map to the reality of getting work done. Then, they will show you how to introduce an agile-first framework that puts customer value and teams first.</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html"/>
+        <summary>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-09-14T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</id>
+        <title>Introducing Agile for Finance </title>
+        <updated>2021-08-31T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>As a researcher, Loreal Jiles has interviewed large and small organizations to learn the challenges and changes affecting finance. In doing that research, she discovered momentum to progress from data stewardship to value creation through deeper collaborations. Not surprisingly – especially given the pandemic – there is a significant shift to finance adapting to a fast pace of change.
+
+With this change in mind, Loreal proposes that Finance organizations consider agility to react to change, scale for efficient operations, and empower multi-disciplinary teams.
+
+In today’s podcast, Loreal shares examples of how agile can help finance teams streamline risk management, improve financial planning &amp; analysis functions, reduce the pain and increase the efficiency of internal audits, and much more.</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html"/>
+        <summary>As a researcher, Loreal Jiles has interviewed large and small organizations to learn the challenges and changes affecting finance. In doing that research, she discovered momentum to progress from data stewardship to value creation through deeper collaborations. Not surprisingly – especially given the pandemic – there is a significant shift to finance adapting to a fast pace of change.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-08-31T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</id>
         <title>Four guests</title>
         <updated>2021-08-17T00:00:00-05:00</updated>
@@ -424,48 +472,6 @@ If you would like to reach Maarten, here is how you can contact him:</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-04-27T03:00:55-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</id>
-        <title>A day in the life of an agile team Product Owner</title>
-        <updated>2021-04-20T03:00:27-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html"/>
-        <summary>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-04-20T03:00:27-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</id>
-        <title>Measuring enterprise agile maturity and success </title>
-        <updated>2021-04-13T03:00:41-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html"/>
-        <summary>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-04-13T03:00:41-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->

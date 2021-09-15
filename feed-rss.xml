@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 15 Sep 2021 17:26:46 -0500</pubDate>
-        <lastBuildDate>Wed, 15 Sep 2021 17:26:46 -0500</lastBuildDate>
+        <pubDate>Wed, 15 Sep 2021 17:45:52 -0500</pubDate>
+        <lastBuildDate>Wed, 15 Sep 2021 17:45:52 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,34 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Introducing the Modified Agile for Hardware Development Framework</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</link>
+            <description>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Introducing Agile for Finance </title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</link>
+            <description>As a researcher, Loreal Jiles has interviewed large and small organizations to learn the challenges and changes affecting finance. In doing that research, she discovered momentum to progress from data stewardship to value creation through deeper collaborations. Not surprisingly – especially given the pandemic – there is a significant shift to finance adapting to a fast pace of change.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</guid>
+            <pubDate>Tue, 31 Aug 2021 00:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Four guests</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</link>
             <description>We get to meet and speak with some really cool people.</description>
@@ -290,34 +318,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</guid>
             <pubDate>Tue, 27 Apr 2021 03:00:55 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>A day in the life of an agile team Product Owner</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</link>
-            <description>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</guid>
-            <pubDate>Tue, 20 Apr 2021 03:00:27 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Measuring enterprise agile maturity and success </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</link>
-            <description>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</guid>
-            <pubDate>Tue, 13 Apr 2021 03:00:41 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
