@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-15T02:35:13-05:00</updated>
+    <updated>2021-09-15T11:59:44-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,27 +26,6 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/08/super-cuties-being-cute.html</id>
-        <title>Super cuties being cute</title>
-        <updated>2021-09-08T00:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>How cute are these guys!</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/08/super-cuties-being-cute.html"/>
-        <summary>How cute are these guys!</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-09-08T00:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</id>
         <title>Four guests</title>
         <updated>2021-08-17T00:00:00-05:00</updated>
@@ -460,6 +439,27 @@ If you would like to reach Maarten, here is how you can contact him:</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-04-13T03:00:41-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html</id>
+        <title>Teaming with the opensource community</title>
+        <updated>2021-04-06T03:00:33-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/06/william-morgan-ceo-of-bouyant-and-founder-or-linkerd-on-teaming-with-the-opensource-community.html"/>
+        <summary>In today’s podcast, I speak with Buoyant CEO William Morgan. We talk about how his flagship opensource project, Linkerd, reduces developers’ time to deliver software while improving product quality. We discuss what it is like to manage a business while working with a vibrant community of collaborators in the open-source community.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-04-06T03:00:33-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
