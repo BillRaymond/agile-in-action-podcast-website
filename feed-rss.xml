@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 20 Sep 2021 23:53:43 -0500</pubDate>
-        <lastBuildDate>Mon, 20 Sep 2021 23:53:43 -0500</lastBuildDate>
+        <pubDate>Tue, 21 Sep 2021 00:04:06 -0500</pubDate>
+        <lastBuildDate>Tue, 21 Sep 2021 00:04:06 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Introducing ADAPT, a book for digital transformation</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</link>
+            <description>Friend of the podcast, Luis Goncalves, returns to introduce his new book, ADAPT. You will learn the five pillars that describe how to transform your company for the digital age, along with an example of actual companies using Luis’ concepts.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</guid>
+            <pubDate>Tue, 21 Sep 2021 00:00:00 -0500</pubDate>
+            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Introducing the Modified Agile for Hardware Development Framework</title>
             <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</link>
             <description>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</guid>
             <pubDate>Tue, 04 May 2021 03:00:34 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Avoiding the six most common agile sprint planning mistakes</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</link>
-            <description>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</guid>
-            <pubDate>Tue, 27 Apr 2021 03:00:55 -0500</pubDate>
             <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>

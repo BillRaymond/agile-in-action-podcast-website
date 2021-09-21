@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-20T23:53:43-05:00</updated>
+    <updated>2021-09-21T00:04:06-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,29 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</id>
+        <title>Introducing ADAPT, a book for digital transformation</title>
+        <updated>2021-09-21T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Friend of the podcast, Luis Goncalves, returns to introduce his new book, ADAPT. You will learn the five pillars that describe how to transform your company for the digital age, along with an example of actual companies using Luis’ concepts.
+
+If you are a regular listener to the Agile in Action podcast, you can use the link below to get a digital copy of the book for only $.99. The offer only lasts from Wednesday, September 22 through Thursday, September 23.</content>
+        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html"/>
+        <summary>Friend of the podcast, Luis Goncalves, returns to introduce his new book, ADAPT. You will learn the five pillars that describe how to transform your company for the digital age, along with an example of actual companies using Luis’ concepts.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-09-21T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</id>
         <title>Introducing the Modified Agile for Hardware Development Framework</title>
         <updated>2021-09-14T00:00:00-05:00</updated>
@@ -453,29 +476,6 @@ Sadly, many consider the Scrum Master as a project manager with a new, modern ti
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-05-04T03:00:34-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</id>
-        <title>Avoiding the six most common agile sprint planning mistakes</title>
-        <updated>2021-04-27T03:00:55-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.
-
-If you would like to reach Maarten, here is how you can contact him:</content>
-        <link href="https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html"/>
-        <summary>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-04-27T03:00:55-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
