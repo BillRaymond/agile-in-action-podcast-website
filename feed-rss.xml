@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 24 Sep 2021 02:35:53 -0500</pubDate>
-        <lastBuildDate>Fri, 24 Sep 2021 02:35:53 -0500</lastBuildDate>
+        <pubDate>Fri, 24 Sep 2021 18:43:00 -0500</pubDate>
+        <lastBuildDate>Fri, 24 Sep 2021 18:43:00 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -26,7 +26,7 @@
         <!-- <cloud /> -->
         <ttl>60</ttl>
         <image>
-            <url>https://billraymond.github.io/agile-in-action-podcast-website/assets/images-rss-main/logo.png</url>
+            <url>https://billraymond.github.io/assets/images-rss-main/logo.png</url>
             <!-- Title and link much be the same as the channel image and link -->
             <title>Cambermast and Agile in Action</title>
             <link>https://cambermast.com/</link>
@@ -40,7 +40,7 @@
 
         <!-- item elements --><item>
             <title>Introducing ADAPT, a book for digital transformation</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</link>
             <description>Friend of the podcast, Luis Goncalves, returns to introduce his new book, ADAPT. You will learn the five pillars that describe how to transform your company for the digital age, along with an example of actual companies using Luis’ concepts.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -49,12 +49,12 @@
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</guid>
             <pubDate>Tue, 21 Sep 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Introducing the Modified Agile for Hardware Development Framework</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</link>
             <description>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -63,12 +63,12 @@
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</guid>
             <pubDate>Tue, 14 Sep 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Introducing Agile for Finance </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</link>
             <description>As a researcher, Loreal Jiles has interviewed large and small organizations to learn the challenges and changes affecting finance. In doing that research, she discovered momentum to progress from data stewardship to value creation through deeper collaborations. Not surprisingly – especially given the pandemic – there is a significant shift to finance adapting to a fast pace of change.
 
 With this change in mind, Loreal proposes that Finance organizations consider agility to react to change, scale for efficient operations, and empower multi-disciplinary teams.
@@ -81,12 +81,12 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</guid>
             <pubDate>Tue, 31 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Four guests</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/17/four-guests.html</link>
             <description>We get to meet and speak with some really cool people.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -95,12 +95,12 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/17/four-guests.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/17/four-guests.html</guid>
             <pubDate>Tue, 17 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Three guests</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/16/three-guests.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/16/three-guests.html</link>
             <description>I could not get three Ph.Ds in one post.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -109,12 +109,12 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/16/three-guests.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/16/three-guests.html</guid>
             <pubDate>Mon, 16 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Two guests</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/15/two-guests.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/15/two-guests.html</link>
             <description>Two awesome guests!</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -123,12 +123,12 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/15/two-guests.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/15/two-guests.html</guid>
             <pubDate>Sun, 15 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>One guest</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/14/one-guest.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/14/one-guest.html</link>
             <description>One of my very favorite podcasts.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -137,12 +137,12 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/14/one-guest.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/14/one-guest.html</guid>
             <pubDate>Sat, 14 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Getting in the agile zone with the fluency model</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</link>
             <description>Today, I speak with James Shore, author of The Art of Agile Development. We talk about the Agile Fluency Model he developed alongside Diana Larsen.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -151,12 +151,12 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</guid>
             <pubDate>Tue, 10 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Agility, frameworks, and gaining a competitive advantage </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</link>
             <description>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
 The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, and many more. It can be tempting to select a framework that looks good and start using it. However, there are downsides to that approach.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
@@ -166,12 +166,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</guid>
             <pubDate>Tue, 03 Aug 2021 02:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Agile in Agriculture at Dropcopter</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</link>
             <description>In today’s podcast I speak with Matt Koball, co-founder of Dropcopter, about the role agile plays in his development of pollinating drone technology to address a shortage of bees. Listen as Matt shares how modern methods of project management and product development addressed an age old issue.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -180,12 +180,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</guid>
             <pubDate>Tue, 27 Jul 2021 02:00:41 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>A day in the life of a Product Manager</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</link>
             <description>Leadership may define business goals, but how does your product strategy align? Enter the role of a Product Manager. Product Managers identify the strategic objectives and plans for a product and ensure they align closely with leadership’s business goals. Today, I speak to Albert Chen, a Senior Product Manager at Okta and an organizer at the San Francisco chapter of ProductTank. Albert shares his view of the role of a Product Manager, where they belong in the corporate structure, the deliverables they produce, and how they are going about defining markets.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -194,12 +194,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</guid>
             <pubDate>Tue, 20 Jul 2021 02:00:13 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Seeing the big picture with adaptive agile</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</link>
             <description>In today’s Agile in Action podcast, I speak with Jose Levy, Director of Cloud Services at OnePlan. We discuss the importance portfolio management processes and software still play in today’s modern organization.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -208,12 +208,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</guid>
             <pubDate>Tue, 13 Jul 2021 02:00:09 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Redefining leadership in an agile world </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</link>
             <description>In today’s podcast, I speak with author and coach Peter Koning about redefining leadership. As organizations modernize and shed their siloes, a new culture must emerge that embraces team ownership and change. Peter shares his clear and concise ideas to help leaders and organizations rise to the challenge.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -222,12 +222,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</guid>
             <pubDate>Tue, 29 Jun 2021 03:00:36 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>The power of an agile operating model in the manufacturing supply chain </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</link>
             <description>Agile presents a shift in how we approach team structures, plan work, and deliver customer value. Richard Spady and Josh Hinkel are leaders in the manufacturing and supply chain space and share how organizations can use agile to gain a competitive advantage and improve operational performance.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -236,12 +236,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</guid>
             <pubDate>Tue, 22 Jun 2021 03:00:52 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Taking flight with agile</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</link>
             <description>In the 1990s, organizations spent billions on large-scale, monolithic software solutions, such as ERP and MRP systems. Now, in the 2000s, innovative new technologies are changing the way we work.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -250,12 +250,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</guid>
             <pubDate>Tue, 15 Jun 2021 03:00:09 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>A day in the life of a SCRUM Master </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</link>
             <description>When you think about agile teams, or more specifically, Scrum teams, you will often hear about a role called the Scrum Master. That role is frequently confused, and you will often hear the position referred to as a project manager with a new and modern title.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -264,12 +264,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</guid>
             <pubDate>Tue, 08 Jun 2021 03:00:15 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Adapting agile to human resources </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</link>
             <description>Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today’s podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -278,12 +278,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</guid>
             <pubDate>Tue, 25 May 2021 03:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>There is no matrix</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</link>
             <description>In today’s podcast, I speak with Luis Goncalves, who shares how too many organizations still use an industrial age, matrixed structure. Luis shares how to re-think team structures and focus on value streams over projects.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -292,12 +292,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</guid>
             <pubDate>Tue, 18 May 2021 03:00:57 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Building new teams one sticky paper at a time</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</link>
             <description>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -306,12 +306,12 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</guid>
             <pubDate>Tue, 11 May 2021 03:00:39 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Leading high performing teams </title>
-            <link>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</link>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</link>
             <description>In today’s podcast, I speak to Lisa Mabli, Senior Manager of Agile Program Management at Twilio. We discuss the qualities that make up high performing teams and strategies for how new leaders can build and enable their teams.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -320,9 +320,9 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast-website/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</guid>
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</guid>
             <pubDate>Tue, 04 May 2021 03:00:34 -0500</pubDate>
-            <source url="https://billraymond.github.io/agile-in-action-podcast-website/feed-rss.xml">Cambermast and Agile in Action</source>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
 </rss>

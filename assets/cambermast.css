@@ -343,11 +343,11 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 .footer-copyright { display: grid; height: 100%; grid-auto-flow: column; justify-items: center; align-content: center; justify-content: space-evenly; grid-row: 2; }
 
-.footer-item { font-size: calc(12px + .2vw); text-transform: uppercase; color: #0037Be; text-decoration: none; }
+.footer-item { font-size: calc(12px + .2vw); text-transform: uppercase; color: #ffffff; text-decoration: none; }
 
 .footer-item:hover { font-weight: bold; }
 
-.footer-item:visited { color: #0037Be; }
+.footer-item:visited { color: #ffffff; }
 
 .footer-item:active { font-weight: bolder; }
 
@@ -405,11 +405,11 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 @media (max-width: 599px) { .nav-items { grid-column: 1; grid-row: 2; margin-top: 5px; justify-items: start; } }
 
-.nav-item { font-size: calc(12px + .15vw); text-transform: uppercase; color: #0037Be; text-decoration: none; }
+.nav-item { font-size: calc(12px + .15vw); text-transform: uppercase; color: #ffffff; text-decoration: none; }
 
 .nav-item:hover { font-weight: bold; }
 
-.nav-item:visited { color: #0037Be; }
+.nav-item:visited { color: #ffffff; }
 
 .nav-item:active { font-weight: bolder; }
 
@@ -465,15 +465,15 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 .services-page-image { width: 100%; height: 250px; object-fit: cover; border-radius: 5px; }
 
-.services-page-title { font-size: calc(12px + .4vw); color: #0037Be; text-decoration: none; text-transform: uppercase; }
+.services-page-title { font-size: calc(12px + .4vw); color: #ffffff; text-decoration: none; text-transform: uppercase; }
 
-.services-page-title:link { color: #0037Be; }
+.services-page-title:link { color: #ffffff; }
 
-.services-page-title:hover { color: #0037Be; }
+.services-page-title:hover { color: #ffffff; }
 
-.services-page-title:active { color: #0037Be; }
+.services-page-title:active { color: #ffffff; }
 
-.services-page-title:visited { color: #0037Be; }
+.services-page-title:visited { color: #ffffff; }
 
 .services-page-excerpt-div { line-height: 1.25em; }
 
