@@ -367,7 +367,7 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 @media (max-width: 599px) { .header-background-image { height: 250px; max-height: 250px; } }
 
-.header-featured-image { max-width: auto; max-height: 100%; box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22); }
+.header-featured-image { max-width: auto; max-height: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 99, 242, 0.9), 0 0 15px rgba(244, 159, 28, 0.22); }
 
 .markdown-section { margin-top: 25px; margin-left: auto; margin-right: auto; width: 75%; }
 
