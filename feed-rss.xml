@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 26 Sep 2021 15:06:04 -0500</pubDate>
-        <lastBuildDate>Sun, 26 Sep 2021 15:06:04 -0500</lastBuildDate>
+        <pubDate>Sun, 26 Sep 2021 19:28:31 -0500</pubDate>
+        <lastBuildDate>Sun, 26 Sep 2021 19:28:31 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -97,62 +97,6 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</guid>
             <pubDate>Tue, 31 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Four guests</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/17/four-guests.html</link>
-            <description>We get to meet and speak with some really cool people.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/17/four-guests.html</guid>
-            <pubDate>Tue, 17 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Three guests</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/16/three-guests.html</link>
-            <description>I could not get three Ph.Ds in one post.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/16/three-guests.html</guid>
-            <pubDate>Mon, 16 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Two guests</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/15/two-guests.html</link>
-            <description>Two awesome guests!</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/15/two-guests.html</guid>
-            <pubDate>Sun, 15 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>One guest</title>
-            <link>https://billraymond.github.io/agile-in-action-podcast/2021/08/14/one-guest.html</link>
-            <description>One of my very favorite podcasts.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/08/14/one-guest.html</guid>
-            <pubDate>Sat, 14 Aug 2021 00:00:00 -0500</pubDate>
             <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Getting in the agile zone with the fluency model</title>
@@ -322,6 +266,62 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://billraymond.github.io/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</guid>
             <pubDate>Tue, 11 May 2021 03:00:39 -0500</pubDate>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Leading high performing teams </title>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</link>
+            <description>In today’s podcast, I speak to Lisa Mabli, Senior Manager of Agile Program Management at Twilio. We discuss the qualities that make up high performing teams and strategies for how new leaders can build and enable their teams.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</guid>
+            <pubDate>Tue, 04 May 2021 03:00:34 -0500</pubDate>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Avoiding the six most common agile sprint planning mistakes</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</link>
+            <description>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</guid>
+            <pubDate>Tue, 27 Apr 2021 03:00:55 -0500</pubDate>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>A day in the life of an agile team Product Owner</title>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</link>
+            <description>Agile teams need a way to prioritize their work and define customer needs. Very often, that work falls upon a role we refer to as the Product Owner. Shane Drumm, a Product Owner and founder of pm-training.net, shares his story as a product owner on a large multi-national CRM project. He also shares his techniques for working with cross-cultural teams and making sure communication flows across time zones and teams.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</guid>
+            <pubDate>Tue, 20 Apr 2021 03:00:27 -0500</pubDate>
+            <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Measuring enterprise agile maturity and success </title>
+            <link>https://billraymond.github.io/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</link>
+            <description>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://billraymond.github.io/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</guid>
+            <pubDate>Tue, 13 Apr 2021 03:00:41 -0500</pubDate>
             <source url="https://billraymond.github.io/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
