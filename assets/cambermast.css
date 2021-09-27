@@ -381,12 +381,6 @@ h1 { text-align: center; font-size: 28px; font-weight: bold; text-transform: upp
 
 .markdown-section .gumroad-button { margin-left: auto; margin-right: auto; display: block; }
 
-.markdown-section .guest-photos { display: grid; grid-auto-flow: column; grid-gap: 5px; align-content: start; justify-content: start; }
-
-.markdown-section .guest-photo { width: 150px; height: 150px; object-fit: cover; }
-
-@media (max-width: 599px) { .markdown-section .guest-photo { width: 75px; height: 75px; } }
-
 .markdown-section h2 { margin-top: 1em; margin-bottom: .25em; color: #012072; }
 
 .markdown-section h3 { margin-top: 1em; margin-bottom: .25em; color: #012072; }
