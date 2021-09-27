@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-26T21:23:59-05:00</updated>
+    <updated>2021-09-26T23:29:55-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,29 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/10/05/introducing-a-proposal-for-a-product-manifesto.html</id>
+        <title>Introducing a proposal for a product manifesto</title>
+        <updated>2021-10-05T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I have a lively discussion with @David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.
+
+David shares that while the Manifesto for Agile Software Development helped us change how we work, we now need a product manifesto to define how we deliver value.</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/10/05/introducing-a-proposal-for-a-product-manifesto.html"/>
+        <summary>In today’s podcast, I have a lively discussion with @David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-10-05T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html</id>
         <title>Introducing Agile for Marketing</title>
         <updated>2021-09-28T00:00:00-05:00</updated>
@@ -459,27 +482,6 @@ If you would like to reach Maarten, here is how you can contact him:</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-04-20T03:00:27-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</id>
-        <title>Measuring enterprise agile maturity and success </title>
-        <updated>2021-04-13T03:00:41-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html"/>
-        <summary>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-04-13T03:00:41-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
