@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 26 Sep 2021 19:28:31 -0500</pubDate>
-        <lastBuildDate>Sun, 26 Sep 2021 19:28:31 -0500</lastBuildDate>
+        <pubDate>Sun, 26 Sep 2021 19:47:23 -0500</pubDate>
+        <lastBuildDate>Sun, 26 Sep 2021 19:47:23 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Introducing Agile for Marketing</title>
             <link>https://billraymond.github.io/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html</link>
-            <description>In our latest ““Agile for…”” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.</description>
+            <description>In our latest “Agile for…” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>

@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-26T19:28:31-05:00</updated>
+    <updated>2021-09-26T19:47:23-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,11 +32,11 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>In our latest ““Agile for…”” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.
+        <content>In our latest “Agile for…” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.
 
-We talk about the pitfalls of simply ““going agile”” with existing frameworks, how to keep the focus on strategic work (without forgetting keep-the-lights-on work), and how to reduce work efforts by at least 30%.</content>
+We talk about the pitfalls of simply “going agile” with existing frameworks, how to keep the focus on strategic work (without forgetting keep-the-lights-on work), and how to reduce work efforts by at least 30%.</content>
         <link href="https://billraymond.github.io/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html"/>
-        <summary>In our latest ““Agile for…”” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.</summary>
+        <summary>In our latest “Agile for…” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
