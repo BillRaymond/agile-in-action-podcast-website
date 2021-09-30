@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-09-30T02:39:11-05:00</updated>
+    <updated>2021-09-30T13:41:55-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,11 +32,11 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>In today’s podcast, I have a lively discussion with @David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.
+        <content>In today’s podcast, I have a lively discussion with David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.
 
 David shares that while the Manifesto for Agile Software Development helped us change how we work, we now need a product manifesto to define how we deliver value.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/10/05/introducing-a-proposal-for-a-product-manifesto.html"/>
-        <summary>In today’s podcast, I have a lively discussion with @David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.</summary>
+        <summary>In today’s podcast, I have a lively discussion with David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
