@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 05 Oct 2021 02:39:17 -0500</pubDate>
-        <lastBuildDate>Tue, 05 Oct 2021 02:39:17 -0500</lastBuildDate>
+        <pubDate>Tue, 05 Oct 2021 13:14:54 -0500</pubDate>
+        <lastBuildDate>Tue, 05 Oct 2021 13:14:54 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -55,7 +55,7 @@
         </item><item>
             <title>Introducing a proposal for a product manifesto</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/10/05/introducing-a-proposal-for-a-product-manifesto.html</link>
-            <description>In today’s podcast, I have a lively discussion with David Pereira, Head of Product at @Virtual Identity, who makes a bold proposal for a Product Manifesto.</description>
+            <description>In today’s podcast, I have a lively discussion with David Pereira, Head of Product at Virtual Identity, who makes a bold proposal for a Product Manifesto.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
