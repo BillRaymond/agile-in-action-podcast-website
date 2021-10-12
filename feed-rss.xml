@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 11 Oct 2021 23:12:56 -0500</pubDate>
-        <lastBuildDate>Mon, 11 Oct 2021 23:12:56 -0500</lastBuildDate>
+        <pubDate>Mon, 11 Oct 2021 23:24:07 -0500</pubDate>
+        <lastBuildDate>Mon, 11 Oct 2021 23:24:07 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>PLM, agile, and the Openness Certification</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/10/19/plm-agile-and-the-openness-certification.html</link>
+            <description>Product Lifecycle Management, especially for large and complex products like automobiles, is ripe for re-invention. Organizations adopt agile techniques and focus on smaller, more focused teams to deliver more competitive and customer-centric solutions at near breakneck speeds.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/10/19/plm-agile-and-the-openness-certification.html</guid>
+            <pubDate>Tue, 19 Oct 2021 00:00:00 -0500</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Defining and aligning product strategies</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/10/12/defining-and-aligning-product-strategies.html</link>
             <description>I am willing to bet that the happiest teams feel they are working toward an objective that will delight their customers and move the needle on their product.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/05/04/leading-high-performing-teams-with-dr-lisa-mabli-from-twilio.html</guid>
             <pubDate>Tue, 04 May 2021 03:00:34 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Avoiding the six most common agile sprint planning mistakes</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</link>
-            <description>In this podcast I speak with serial Medium author and agile practitioner, Maarten Dalmijn, to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the team’s endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/04/27/maarten-dalmijn-on-avoiding-the-six-most-common-agile-sprint-planning-mistakes.html</guid>
-            <pubDate>Tue, 27 Apr 2021 03:00:55 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
