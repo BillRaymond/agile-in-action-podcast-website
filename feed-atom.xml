@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-10-31T23:12:53-05:00</updated>
+    <updated>2021-10-31T23:34:17-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,39 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</id>
+        <title>From complicated chaos to value and velocity with flow engineering and value stream mapping</title>
+        <updated>2021-11-02T00:00:00-05:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Do you have outdated or complex business flows that are hindering your ability to deliver more value to your customers at a faster pace? Today’s podcast guest, Steve Pereira, “The Value Stream Guy” and creator of “Flow Engineering,” will share how to “Marie Kondo” your processes.
+
+Steve shares the following concepts while we talk about some real-world examples:
+
+Design your outcomes
+
+Measure your workflow
+
+Visualize dependencies
+
+Fix your capability gaps
+
+Start, scale, and sustain</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html"/>
+        <summary>Do you have outdated or complex business flows that are hindering your ability to deliver more value to your customers at a faster pace? Today’s podcast guest, Steve Pereira, “The Value Stream Guy” and creator of “Flow Engineering,” will share how to “Marie Kondo” your processes.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-11-02T00:00:00-05:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2021/10/26/improve-team-morale-and-performance-by-addressing-technical-debt.html</id>
         <title>Improve team morale and performance by addressing technical debt</title>
         <updated>2021-10-26T00:00:00-05:00</updated>
@@ -469,27 +502,6 @@ Sadly, many consider the Scrum Master as a project manager with a new, modern ti
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-05-18T03:00:57-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</id>
-        <title>Building new teams one sticky paper at a time</title>
-        <updated>2021-05-11T03:00:39-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html"/>
-        <summary>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-05-11T03:00:39-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->

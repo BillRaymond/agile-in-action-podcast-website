@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 31 Oct 2021 23:12:53 -0500</pubDate>
-        <lastBuildDate>Sun, 31 Oct 2021 23:12:53 -0500</lastBuildDate>
+        <pubDate>Sun, 31 Oct 2021 23:34:17 -0500</pubDate>
+        <lastBuildDate>Sun, 31 Oct 2021 23:34:17 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>From complicated chaos to value and velocity with flow engineering and value stream mapping</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</link>
+            <description>Do you have outdated or complex business flows that are hindering your ability to deliver more value to your customers at a faster pace? Today’s podcast guest, Steve Pereira, “The Value Stream Guy” and creator of “Flow Engineering,” will share how to “Marie Kondo” your processes.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 -0500</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Improve team morale and performance by addressing technical debt</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/10/26/improve-team-morale-and-performance-by-addressing-technical-debt.html</link>
             <description>Have you ever opened up an app that you love, just to be bothered by that one critical feature that hardly works, feels too slow, or is just frustrating to use? Chances are, the developers that wrote that code are all too aware of the problem. Maybe the code is too complex to fix without re-writing it, or perhaps their priorities shift to some other newer and shinier feature of the product. We call problems like this technical debt, and it is a growing problem that we must address.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</guid>
             <pubDate>Tue, 18 May 2021 03:00:57 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Building new teams one sticky paper at a time</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</link>
-            <description>Learn how a successful global payments processor transformed their organization by letting teams form themselves. In this enlightening podcast, Willem-Jan shares how Worldline Global is changing the way teams work. He provides insight into what an organization looks like that will hinder innovation and how teams can self-form to become faster and more agile in the marketplace.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/05/11/building-new-teams-one-sticky-paper-at-a-time-with-willem-jan-ageling.html</guid>
-            <pubDate>Tue, 11 May 2021 03:00:39 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
