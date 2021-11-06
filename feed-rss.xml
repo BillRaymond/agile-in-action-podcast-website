@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 05 Nov 2021 02:40:09 -0500</pubDate>
-        <lastBuildDate>Fri, 05 Nov 2021 02:40:09 -0500</lastBuildDate>
+        <pubDate>Fri, 05 Nov 2021 20:03:45 -0500</pubDate>
+        <lastBuildDate>Fri, 05 Nov 2021 20:03:45 -0500</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Let's talk about SAFe</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/09/let-s-talk-about-safe.html</link>
+            <description>Organizations that want to be more agile will often create small, autonomous teams that can deliver faster. The structure for those teams often looks similar to those defined by SCRUM [include a link to SCRUM.org]. However, what happens when many SCRUM teams, maybe 20, 30, or more, need to work on coordinated release efforts? That is a problem the Scaled Agile Framework (or SAFe) may need to answer.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/09/let-s-talk-about-safe.html</guid>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 -0600</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>From complicated chaos to value and velocity with flow engineering and value stream mapping</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</link>
             <description>Do you have outdated or complex business flows that are hindering your ability to deliver more value to your customers at a faster pace? Today’s podcast guest, Steve Pereira, “The Value Stream Guy” and creator of “Flow Engineering,” will share how to “Marie Kondo” your processes.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</guid>
             <pubDate>Tue, 25 May 2021 03:00:00 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>There is no matrix</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</link>
-            <description>In today’s podcast, I speak with Luis Goncalves, who shares how too many organizations still use an industrial age, matrixed structure. Luis shares how to re-think team structures and focus on value streams over projects.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/05/18/there-is-no-matrix-organizing-teams-for-the-digital-era-with-luis-goncalves-founder-of-evolution-for-all.html</guid>
-            <pubDate>Tue, 18 May 2021 03:00:57 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
