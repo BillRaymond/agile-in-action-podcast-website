@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 09 Nov 2021 11:26:52 -0600</pubDate>
-        <lastBuildDate>Tue, 09 Nov 2021 11:26:52 -0600</lastBuildDate>
+        <pubDate>Tue, 09 Nov 2021 16:42:01 -0600</pubDate>
+        <lastBuildDate>Tue, 09 Nov 2021 16:42:01 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Let's talk about SAFe</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/09/let-s-talk-about-safe.html</link>
-            <description>Organizations that want to be more agile will often create small, autonomous teams that can deliver faster. The structure for those teams often looks similar to those defined by SCRUM [include a link to SCRUM.org]. However, what happens when many SCRUM teams, maybe 20, 30, or more, need to work on coordinated release efforts? That is a problem the Scaled Agile Framework (or SAFe) may need to answer.</description>
+            <description>Organizations that want to be more agile will often create small, autonomous teams that can deliver faster. The structure for those teams often looks similar to those defined by SCRUM. However, what happens when many SCRUM teams, maybe 20, 30, or more, need to work on coordinated release efforts? That is a problem the Scaled Agile Framework (or SAFe) may need to answer.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
