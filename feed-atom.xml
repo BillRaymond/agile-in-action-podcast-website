@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-11-15T01:40:38-06:00</updated>
+    <updated>2021-11-15T21:11:53-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,39 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/11/16/introducing-the-art-of-agile-development.html</id>
+        <title>Introducing the Art of Agile Development</title>
+        <updated>2021-11-16T00:00:00-06:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>James Shore is the author of The Art of Agile Development. Today, he is announcing the generally availability of the book and shares what you will learn. In the text below, you will find the description of the book, including a link to get a copy for yourself.
+
+Most companies developing software employ something they call “Agile.” But there’s widespread misunderstanding of what Agile is and how to use it. If you want to improve your software development team’s agility, this comprehensive guidebook’s clear, concrete, and detailed guidance explains what to do and why, and when to make trade-offs.
+
+In this thorough update of the classic Agile how-to guide, James Shore provides no-nonsense advice on Agile adoption, planning, development, delivery, and management taken from over two decades of Agile experience. He brings the latest ideas from Extreme Programming, Scrum, Lean, DevOps, and more into a cohesive whole. Learn how to successfully bring Agile development to your team and organization–or discover why Agile might not be for you.
+
+This book explains how to:
+
+
+  Improve agility: create the conditions necessary for Agile to succeed and scale in your organization
+  Focus on value: work as a team, understand priorities, provide visibility, and improve continuously
+  Deliver software reliably: share ownership, decrease development costs, evolve designs, and deploy continuously
+  Optimize value: take ownership of product plans, budgets, and experiments–and produce market-leading software</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/11/16/introducing-the-art-of-agile-development.html"/>
+        <summary>James Shore is the author of The Art of Agile Development. Today, he is announcing the generally availability of the book and shares what you will learn. In the text below, you will find the description of the book, including a link to get a copy for yourself.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2021-11-16T00:00:00-06:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2021/11/09/let-s-talk-about-safe.html</id>
         <title>Let's talk about SAFe</title>
         <updated>2021-11-09T00:00:00-06:00</updated>
@@ -483,27 +516,6 @@ Sadly, many consider the Scrum Master as a project manager with a new, modern ti
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-06-08T03:00:15-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html</id>
-        <title>Adapting agile to human resources </title>
-        <updated>2021-05-25T03:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today’s podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/05/25/adapting-agile-to-human-resources-with-natal-dank-head-of-learning-coaching-and-community-at-pxo-culture.html"/>
-        <summary>Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today’s podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-05-25T03:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
