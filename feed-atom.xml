@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2021-11-16T01:40:19-06:00</updated>
+    <updated>2021-11-16T12:59:04-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -27,12 +27,12 @@
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2021/11/16/introducing-the-art-of-agile-development.html</id>
-        <title>Introducing the Art of Agile Development</title>
+        <title>Introducing the Art of Agile Development, 2nd Edition</title>
         <updated>2021-11-16T00:00:00-06:00</updated>
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>James Shore is the author of The Art of Agile Development. Today, he is announcing the generally availability of the book and shares what you will learn. In the text below, you will find the description of the book, including a link to get a copy for yourself.
+        <content>Veteran guest on the Agile in Action Podcast, James Shore returns to announce the general availability of his new book, The Art of Agile Development, the Second Edition. James shares what you will learn and how development teams can benefit from the book, including walking through the Fluency Model. In the text below, you will find the book’s description, including a link to get a copy for yourself.
 
 Most companies developing software employ something they call “Agile.” But there’s widespread misunderstanding of what Agile is and how to use it. If you want to improve your software development team’s agility, this comprehensive guidebook’s clear, concrete, and detailed guidance explains what to do and why, and when to make trade-offs.
 
@@ -46,7 +46,7 @@ This book explains how to:
   Deliver software reliably: share ownership, decrease development costs, evolve designs, and deploy continuously
   Optimize value: take ownership of product plans, budgets, and experiments–and produce market-leading software</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/11/16/introducing-the-art-of-agile-development.html"/>
-        <summary>James Shore is the author of The Art of Agile Development. Today, he is announcing the generally availability of the book and shares what you will learn. In the text below, you will find the description of the book, including a link to get a copy for yourself.</summary>
+        <summary>Veteran guest on the Agile in Action Podcast, James Shore returns to announce the general availability of his new book, The Art of Agile Development, the Second Edition. James shares what you will learn and how development teams can benefit from the book, including walking through the Fluency Model. In the text below, you will find the book’s description, including a link to get a copy for yourself.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->

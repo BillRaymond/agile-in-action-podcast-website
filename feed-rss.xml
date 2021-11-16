@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 16 Nov 2021 01:40:19 -0600</pubDate>
-        <lastBuildDate>Tue, 16 Nov 2021 01:40:19 -0600</lastBuildDate>
+        <pubDate>Tue, 16 Nov 2021 12:59:04 -0600</pubDate>
+        <lastBuildDate>Tue, 16 Nov 2021 12:59:04 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,9 +39,9 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>Introducing the Art of Agile Development</title>
+            <title>Introducing the Art of Agile Development, 2nd Edition</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/16/introducing-the-art-of-agile-development.html</link>
-            <description>James Shore is the author of The Art of Agile Development. Today, he is announcing the generally availability of the book and shares what you will learn. In the text below, you will find the description of the book, including a link to get a copy for yourself.</description>
+            <description>Veteran guest on the Agile in Action Podcast, James Shore returns to announce the general availability of his new book, The Art of Agile Development, the Second Edition. James shares what you will learn and how development teams can benefit from the book, including walking through the Fluency Model. In the text below, you will find the book’s description, including a link to get a copy for yourself.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
