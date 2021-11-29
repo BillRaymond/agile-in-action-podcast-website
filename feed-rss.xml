@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 28 Nov 2021 01:39:45 -0600</pubDate>
-        <lastBuildDate>Sun, 28 Nov 2021 01:39:45 -0600</lastBuildDate>
+        <pubDate>Sun, 28 Nov 2021 18:03:57 -0600</pubDate>
+        <lastBuildDate>Sun, 28 Nov 2021 18:03:57 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>An introduction to agile team planning and velocity</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html</link>
+            <description>In today’s lively conversation with Adam Jennison, Enterprise Agile Consultant, you will learn how agile teams estimate their work and track how well they performed based on the estimate. You will also learn how to implement these concepts in your team, no matter what type of work you do.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 -0600</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Introducing the Art of Agile Development, 2nd Edition</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/16/introducing-the-art-of-agile-development.html</link>
             <description>Veteran guest on the Agile in Action Podcast, James Shore returns to announce the general availability of his new book, The Art of Agile Development, the Second Edition. James shares what you will learn and how development teams can benefit from the book, including walking through the Fluency Model. In the text below, you will find the book’s description, including a link to get a copy for yourself.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</guid>
             <pubDate>Tue, 15 Jun 2021 03:00:09 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>A day in the life of a SCRUM Master </title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</link>
-            <description>When you think about agile teams, or more specifically, Scrum teams, you will often hear about a role called the Scrum Master. That role is frequently confused, and you will often hear the position referred to as a project manager with a new and modern title.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/06/08/a-day-in-the-life-of-a-scrum-master-with-michele-magnardini-at-sage.html</guid>
-            <pubDate>Tue, 08 Jun 2021 03:00:15 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
