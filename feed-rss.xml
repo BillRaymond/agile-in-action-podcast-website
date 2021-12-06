@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 05 Dec 2021 01:41:47 -0600</pubDate>
-        <lastBuildDate>Sun, 05 Dec 2021 01:41:47 -0600</lastBuildDate>
+        <pubDate>Sun, 05 Dec 2021 19:27:11 -0600</pubDate>
+        <lastBuildDate>Sun, 05 Dec 2021 19:27:11 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Agile estimating and planning with Mike Cohn</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/12/07/agile-estimating-and-planning-with-mike-cohn.html</link>
+            <description>Agile teams often think differently than more traditional project planning efforts. Gone are months-long project schedules with tasks, milestones, and resource plans. In place of that are autonomous teams that define a value-driven backlog of work, and they schedule that work in short iterations (or sprints) over 1-4 weeks.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/12/07/agile-estimating-and-planning-with-mike-cohn.html</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 -0600</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>An introduction to agile team planning and velocity</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html</link>
             <description>In today’s lively conversation with Adam Jennison, Enterprise Agile Consultant, you will learn how agile teams estimate their work and track how well they performed based on the estimate. You will also learn how to implement these concepts in your team, no matter what type of work you do.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/06/22/the-power-of-an-agile-operating-model-in-the-manufacturing-supply-chain-with-richard-spady-and-josh-hinkel.html</guid>
             <pubDate>Tue, 22 Jun 2021 03:00:52 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Taking flight with agile</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</link>
-            <description>In the 1990s, organizations spent billions on large-scale, monolithic software solutions, such as ERP and MRP systems. Now, in the 2000s, innovative new technologies are changing the way we work.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/06/15/taking-flight-with-agile-a-conversation-with-yunpeng-li-directory-of-clouse-services-at-automodality.html</guid>
-            <pubDate>Tue, 15 Jun 2021 03:00:09 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
