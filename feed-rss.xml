@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 07 Dec 2021 01:42:00 -0600</pubDate>
-        <lastBuildDate>Tue, 07 Dec 2021 01:42:00 -0600</lastBuildDate>
+        <pubDate>Tue, 07 Dec 2021 04:59:32 -0600</pubDate>
+        <lastBuildDate>Tue, 07 Dec 2021 04:59:32 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,7 +39,7 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>Agile estimating and planning with Mike Cohn</title>
+            <title>Agile estimating and planning </title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/12/07/agile-estimating-and-planning-with-mike-cohn.html</link>
             <description>Agile teams often think differently than more traditional project planning efforts. Gone are months-long project schedules with tasks, milestones, and resource plans. In place of that are autonomous teams that define a value-driven backlog of work, and they schedule that work in short iterations (or sprints) over 1-4 weeks.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
