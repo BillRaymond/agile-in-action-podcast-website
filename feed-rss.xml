@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 03 Jan 2022 01:42:35 -0600</pubDate>
-        <lastBuildDate>Mon, 03 Jan 2022 01:42:35 -0600</lastBuildDate>
+        <pubDate>Mon, 03 Jan 2022 01:55:38 -0600</pubDate>
+        <lastBuildDate>Mon, 03 Jan 2022 01:55:38 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Agile in policy development</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/01/04/agile-in-policy-development.html</link>
+            <description>Developing governmental policies can be a long and arduous task. At Citizens Advice, they streamline that process and use agile techniques to share ideas sooner, improve feedback loops, and focus on outputs.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/01/04/agile-in-policy-development.html</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 -0600</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Building a product culture and operating model</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2021/12/14/building-a-product-culture-and-operating-model.html</link>
             <description>Very often, we refer to agile as supporting a product-focused operating model. So, what is that operating model and what might it look like? Blake Bassett defines an operating model and then shares how you can consider creating your own. Blake shares how to consider building a model by using the following topic areas:</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/07/13/oneplan-s-jose-levy-on-seeing-the-big-picture-with-adaptive-agile.html</guid>
             <pubDate>Tue, 13 Jul 2021 02:00:09 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Redefining leadership in an agile world </title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</link>
-            <description>In today’s podcast, I speak with author and coach Peter Koning about redefining leadership. As organizations modernize and shed their siloes, a new culture must emerge that embraces team ownership and change. Peter shares his clear and concise ideas to help leaders and organizations rise to the challenge.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/06/29/redefining-leadership-in-an-agile-world-with-peter-koning.html</guid>
-            <pubDate>Tue, 29 Jun 2021 03:00:36 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
