@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 16 Jan 2022 01:43:31 -0600</pubDate>
-        <lastBuildDate>Sun, 16 Jan 2022 01:43:31 -0600</lastBuildDate>
+        <pubDate>Sun, 16 Jan 2022 19:30:45 -0600</pubDate>
+        <lastBuildDate>Sun, 16 Jan 2022 19:30:45 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Dealing with Ambiguity in the workplace</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/01/18/dealing-with-ambiguity-in-the-workplace.html</link>
+            <description>Some of us love swirling in the abyss of the unknown, while others need direction, clarity, and specificity. Ambiguity can lead to behaviors that drive an organization to falter, lose its competitive edge, or lose disillusioned employees.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/01/18/dealing-with-ambiguity-in-the-workplace.html</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 -0600</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Introducing Agile for Research and Development</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/01/11/introducing-agile-for-research-and-development.html</link>
             <description>Laura Pirro came to learn some agile concepts taking a course while at Ghent University. The course teacher said agile is primarily for software development and did not apply to R&amp;D. Laura decided to learn more about agile and found that R&amp;D projects could benefit from the ideas.</description>
@@ -308,20 +322,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</guid>
             <pubDate>Tue, 27 Jul 2021 02:00:41 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>A day in the life of a Product Manager</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</link>
-            <description>Leadership may define business goals, but how does your product strategy align? Enter the role of a Product Manager. Product Managers identify the strategic objectives and plans for a product and ensure they align closely with leadership’s business goals. Today, I speak to Albert Chen, a Senior Product Manager at Okta and an organizer at the San Francisco chapter of ProductTank. Albert shares his view of the role of a Product Manager, where they belong in the corporate structure, the deliverables they produce, and how they are going about defining markets.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/07/20/a-day-in-the-life-of-a-product-manager.html</guid>
-            <pubDate>Tue, 20 Jul 2021 02:00:13 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
