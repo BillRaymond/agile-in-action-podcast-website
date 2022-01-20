@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-01-20T01:44:29-06:00</updated>
+    <updated>2022-01-20T02:03:33-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,27 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/01/25/setting-and-achieving-corporate-objectives-okrs.html</id>
+        <title>Setting and achieving corporate objectives (OKRs)</title>
+        <updated>2022-01-25T00:00:00-06:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, I speak with Glenn Gow, The CEO Therapist and a CEO Coach. If your organization is unclear about its intended objectives, you will not achieve alignment. That misalignment can have tangible costs, such as not meeting revenue targets, reduced customer value, or reduced employee satisfaction. Glenn shares how CEOs and senior leaders should define measurable Objectives and Key Results. Glenn also shares how to align the organization to those OKRs and ensure accountability.</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/01/25/setting-and-achieving-corporate-objectives-okrs.html"/>
+        <summary>In today’s podcast, I speak with Glenn Gow, The CEO Therapist and a CEO Coach. If your organization is unclear about its intended objectives, you will not achieve alignment. That misalignment can have tangible costs, such as not meeting revenue targets, reduced customer value, or reduced employee satisfaction. Glenn shares how CEOs and senior leaders should define measurable Objectives and Key Results. Glenn also shares how to align the organization to those OKRs and ensure accountability.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-01-25T00:00:00-06:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/01/18/dealing-with-ambiguity-in-the-workplace.html</id>
         <title>Dealing with Ambiguity in the workplace</title>
         <updated>2022-01-18T00:00:00-06:00</updated>
@@ -513,27 +534,6 @@ The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, an
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-08-03T02:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html</id>
-        <title>Agile in Agriculture at Dropcopter</title>
-        <updated>2021-07-27T02:00:41-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In today’s podcast I speak with Matt Koball, co-founder of Dropcopter, about the role agile plays in his development of pollinating drone technology to address a shortage of bees. Listen as Matt shares how modern methods of project management and product development addressed an age old issue.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/07/27/agile-in-agriculture-at-dropcopter.html"/>
-        <summary>In today’s podcast I speak with Matt Koball, co-founder of Dropcopter, about the role agile plays in his development of pollinating drone technology to address a shortage of bees. Listen as Matt shares how modern methods of project management and product development addressed an age old issue.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-07-27T02:00:41-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
