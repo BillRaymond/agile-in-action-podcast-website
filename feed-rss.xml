@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 26 Jan 2022 01:38:57 -0600</pubDate>
-        <lastBuildDate>Wed, 26 Jan 2022 01:38:57 -0600</lastBuildDate>
+        <pubDate>Wed, 26 Jan 2022 19:56:24 -0600</pubDate>
+        <lastBuildDate>Wed, 26 Jan 2022 19:56:24 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Chris Jones, Partner at Silicon Valley Product Group, co-author of Empowered</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/04/29/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</link>
+            <description>In this podcast…</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/04/29/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 -0500</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Setting and achieving corporate objectives (OKRs)</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/01/25/setting-and-achieving-corporate-objectives-okrs.html</link>
             <description>In today’s podcast, I speak with Glenn Gow, The CEO Therapist and a CEO Coach. If your organization is unclear about its intended objectives, you will not achieve alignment. That misalignment can have tangible costs, such as not meeting revenue targets, reduced customer value, or reduced employee satisfaction. Glenn shares how CEOs and senior leaders should define measurable Objectives and Key Results. Glenn also shares how to align the organization to those OKRs and ensure accountability.</description>
@@ -307,21 +321,6 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</guid>
             <pubDate>Tue, 10 Aug 2021 00:00:00 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Agility, frameworks, and gaining a competitive advantage </title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</link>
-            <description>Business agility represents the continuous and purposeful change you make to deliver more value to your customers and gain a competitive edge. Very often, we use frameworks that guide how to be more agile.
-The list of frameworks is endless and full of acronyms, like SCRUM, XP, SaFe, and many more. It can be tempting to select a framework that looks good and start using it. However, there are downsides to that approach.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/08/03/agility-frameworks-and-gaining-a-competitive-advantage-with-evan-leybourn.html</guid>
-            <pubDate>Tue, 03 Aug 2021 02:00:00 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
