@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 31 Jan 2022 01:41:43 -0600</pubDate>
-        <lastBuildDate>Mon, 31 Jan 2022 01:41:43 -0600</lastBuildDate>
+        <pubDate>Mon, 31 Jan 2022 17:04:14 -0600</pubDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:04:14 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,8 +39,8 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>Chris Jones, Partner at Silicon Valley Product Group, co-author of Empowered</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/04/29/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</link>
+            <title>From project to product: refocusing your organization and culture</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</link>
             <description>In this podcast…</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
@@ -49,8 +49,8 @@
             <!-- <comments /> -->
             <!-- by default, not using enclosure. -->
             <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/04/29/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 -0500</pubDate>
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</guid>
+            <pubDate>Tue, 01 Feb 2022 00:00:00 -0600</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item><item>
             <title>Setting and achieving corporate objectives (OKRs)</title>
