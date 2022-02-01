@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 31 Jan 2022 20:06:38 -0600</pubDate>
-        <lastBuildDate>Mon, 31 Jan 2022 20:06:38 -0600</lastBuildDate>
+        <pubDate>Mon, 31 Jan 2022 20:43:16 -0600</pubDate>
+        <lastBuildDate>Mon, 31 Jan 2022 20:43:16 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,20 +39,6 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>From project to product: refocusing your organization and culture</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</link>
-            <description>In this podcast…</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/chris-jones-partner-at-silicon-valley-product-group-co-author-of-empowered.html</guid>
-            <pubDate>Tue, 01 Feb 2022 00:00:00 -0600</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
             <title>From project to product: refocusing your organization and culture</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/from-project-to-product-refocusing-your-organization-and-culture.html</link>
             <description>Today, Chris Jones, partner at Silicon Valley Product Group and co-author of the book Empowered joins us to talk about the shift to agility and a product-focused culture.</description>
@@ -321,6 +307,20 @@ In today’s podcast, Loreal shares examples of how agile can help finance teams
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</guid>
             <pubDate>Tue, 31 Aug 2021 00:00:00 -0500</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
+            <title>Getting in the agile zone with the fluency model</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</link>
+            <description>Today, I speak with James Shore, author of The Art of Agile Development. We talk about the Agile Fluency Model he developed alongside Diana Larsen.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/08/10/getting-in-the-agile-zone-with-the-fluency-model.html</guid>
+            <pubDate>Tue, 10 Aug 2021 00:00:00 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
