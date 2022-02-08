@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-02-07T01:40:37-06:00</updated>
+    <updated>2022-02-07T20:14:47-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>In today’s podcast, @Linda Parker Gates from the Software Engineering Institute at Carnegie Mellon University talks about organizational agility. Linda shares the importance of an execution-first mentality, setting a vision while being nimble enough to make course corrections and the importance of data-driven decision making.</content>
+        <content>In today’s podcast, Linda Parker Gates from the Software Engineering Institute at Carnegie Mellon University talks about organizational agility. Linda shares the importance of an execution-first mentality, setting a vision while being nimble enough to make course corrections, and the importance of data-driven decision making.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/02/08/introducing-organizational-agility.html"/>
-        <summary>In today’s podcast, @Linda Parker Gates from the Software Engineering Institute at Carnegie Mellon University talks about organizational agility. Linda shares the importance of an execution-first mentality, setting a vision while being nimble enough to make course corrections and the importance of data-driven decision making.</summary>
+        <summary>In today’s podcast, Linda Parker Gates from the Software Engineering Institute at Carnegie Mellon University talks about organizational agility. Linda shares the importance of an execution-first mentality, setting a vision while being nimble enough to make course corrections, and the importance of data-driven decision making.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
