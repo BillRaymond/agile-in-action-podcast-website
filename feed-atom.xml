@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-02-09T13:42:33-06:00</updated>
+    <updated>2022-02-09T15:55:56-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,27 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html</id>
+        <title>An agile approach to Knowledge Services</title>
+        <updated>2022-02-15T00:00:00-06:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content></content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html"/>
+        <summary></summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-02-15T00:00:00-06:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/02/08/introducing-organizational-agility.html</id>
         <title>Introducing organizational agility</title>
         <updated>2022-02-08T00:00:00-06:00</updated>
@@ -499,35 +520,6 @@ Dorian and Gary will share how stage-gate, detailed process flows, and hierarchi
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-09-14T00:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html</id>
-        <title>Introducing Agile for Finance </title>
-        <updated>2021-08-31T00:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>As a researcher, Loreal Jiles has interviewed large and small organizations to learn the challenges and changes affecting finance. In doing that research, she discovered momentum to progress from data stewardship to value creation through deeper collaborations. Not surprisingly – especially given the pandemic – there is a significant shift to finance adapting to a fast pace of change.
-
-With this change in mind, Loreal proposes that Finance organizations consider agility to react to change, scale for efficient operations, and empower multi-disciplinary teams.
-
-In today’s podcast, Loreal shares examples of how agile can help finance teams streamline risk management, improve financial planning &amp; analysis functions, reduce the pain and increase the efficiency of internal audits, and much more.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/08/31/introducing-agile-for-finance.html"/>
-        <summary>As a researcher, Loreal Jiles has interviewed large and small organizations to learn the challenges and changes affecting finance. In doing that research, she discovered momentum to progress from data stewardship to value creation through deeper collaborations. Not surprisingly – especially given the pandemic – there is a significant shift to finance adapting to a fast pace of change.
-
-With this change in mind, Loreal proposes that Finance organizations consider agility to react to change, scale for efficient operations, and empower multi-disciplinary teams.
-
-In today’s podcast, Loreal shares examples of how agile can help finance teams streamline risk management, improve financial planning &amp; analysis functions, reduce the pain and increase the efficiency of internal audits, and much more.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-08-31T00:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
