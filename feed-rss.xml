@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 15 Feb 2022 01:41:25 -0600</pubDate>
-        <lastBuildDate>Tue, 15 Feb 2022 01:41:25 -0600</lastBuildDate>
+        <pubDate>Tue, 15 Feb 2022 15:37:18 -0600</pubDate>
+        <lastBuildDate>Tue, 15 Feb 2022 15:37:18 -0600</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Are roadmaps causing feature factories? </title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</link>
+            <description>In today’s podcast, you will learn what a feature factory roadmap looks like and how to avoid them. Ryan Dawson, Principal Data Consultant at ThoughtWorks, shares the mindset and thought process you can take to build a roadmap that solves problems and focuses on outcomes.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 -0600</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>An agile approach to Knowledge Services</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html</link>
             <description>Continuing our “Agile in…” series, we talk to Emily Disque and Laura Pike Seeley from the renowned design and architecture firm HKS, Inc. You will learn how their Global Knowledge Services (GKS) team drives knowledge strategy in support of HKS’ values and priorities.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</guid>
             <pubDate>Tue, 21 Sep 2021 00:00:00 -0500</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Introducing the Modified Agile for Hardware Development Framework</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</link>
-            <description>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</guid>
-            <pubDate>Tue, 14 Sep 2021 00:00:00 -0500</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>

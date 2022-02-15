@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-02-15T01:41:25-06:00</updated>
+    <updated>2022-02-15T15:37:18-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,27 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</id>
+        <title>Are roadmaps causing feature factories? </title>
+        <updated>2022-02-22T00:00:00-06:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, you will learn what a feature factory roadmap looks like and how to avoid them. Ryan Dawson, Principal Data Consultant at ThoughtWorks, shares the mindset and thought process you can take to build a roadmap that solves problems and focuses on outcomes.</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html"/>
+        <summary>In today’s podcast, you will learn what a feature factory roadmap looks like and how to avoid them. Ryan Dawson, Principal Data Consultant at ThoughtWorks, shares the mindset and thought process you can take to build a roadmap that solves problems and focuses on outcomes.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-02-22T00:00:00-06:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html</id>
         <title>An agile approach to Knowledge Services</title>
         <updated>2022-02-15T00:00:00-06:00</updated>
@@ -507,29 +528,6 @@ If you are a regular listener to the Agile in Action podcast, you can use the li
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-09-21T00:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html</id>
-        <title>Introducing the Modified Agile for Hardware Development Framework</title>
-        <updated>2021-09-14T00:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.
-
-Dorian and Gary will share how stage-gate, detailed process flows, and hierarchical organizational structures can slow the pace of innovation and rarely map to the reality of getting work done. Then, they will show you how to introduce an agile-first framework that puts customer value and teams first.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/09/14/introducing-the-modified-agile-for-hardware-development-framework.html"/>
-        <summary>Are you mad at your current stage-gate hardware process? Then let Dorian Simpson and Gary Hinkle introduce you to something that will make you feel good with MAHD – or Modified Agile for Hardware Development Framework.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-09-14T00:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
