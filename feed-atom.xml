@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-02-28T01:33:41-06:00</updated>
+    <updated>2022-02-28T16:27:16-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>Content goes here</content>
+        <content>As you improve your products, so should the customer experience. Today, Jurgen Appelo and Bill Raymond talk about the need for customer experience leadership.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/01/from-product-owner-to-experience-owner.html"/>
-        <summary>Content goes here</summary>
+        <summary>As you improve your products, so should the customer experience. Today, Jurgen Appelo and Bill Raymond talk about the need for customer experience leadership.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
