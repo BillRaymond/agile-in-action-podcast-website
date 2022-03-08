@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-03-07T01:33:38-06:00</updated>
+    <updated>2022-03-07T20:40:38-06:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,29 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/03/08/avoid-being-your-own-worst-enemy.html</id>
+        <title>Avoid being your own worst enemy</title>
+        <updated>2022-03-08T00:00:00-06:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Do you feel your voice is not heard on important topics or meetings? As a leader, do you want to elicit your teams’ best possible guidance and ideas?
+
+Today, Dr. Becky Winkler, a corporate psychologist, covers both topics with unambiguous advice for leaders to make the space for their teams and how you can drive out your inner saboteur to show up and be a part of the conversation. This is a lively one, so grab a cup of your favorite beverage, sit back, and enjoy the ride!</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/08/avoid-being-your-own-worst-enemy.html"/>
+        <summary>Do you feel your voice is not heard on important topics or meetings? As a leader, do you want to elicit your teams’ best possible guidance and ideas?</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-03-08T00:00:00-06:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/03/01/from-product-owner-to-experience-owner.html</id>
         <title>From product owner to experience owner</title>
         <updated>2022-03-01T00:00:00-06:00</updated>
@@ -503,29 +526,6 @@ David shares that while the Manifesto for Agile Software Development helped us c
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-10-05T00:00:00-05:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html</id>
-        <title>Introducing Agile for Marketing</title>
-        <updated>2021-09-28T00:00:00-05:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In our latest “Agile for…” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.
-
-We talk about the pitfalls of simply “going agile” with existing frameworks, how to keep the focus on strategic work (without forgetting keep-the-lights-on work), and how to reduce work efforts by at least 30%.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html"/>
-        <summary>In our latest “Agile for…” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-09-28T00:00:00-05:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
