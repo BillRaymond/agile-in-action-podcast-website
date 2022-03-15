@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-03-14T20:07:05-05:00</updated>
+    <updated>2022-03-15T02:25:32-05:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>On today’s podcast, Bill speaks with Jutta Eckstein, who shares her passion for sustainability and concerns that agile may increase our carbon footprint. Jutta shares how you can make a difference in your personal life and career using the three pillars of sustainability: People, Planet, and Profit.</content>
+        <content>Bill speaks with Jutta Eckstein on today’s podcast, who shares her passion for sustainability and concerns that agile may impact our carbon footprint. Jutta shares how you can make a difference in your personal life and career using the three pillars of sustainability: People, Planet, and Profit.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/15/the-planet-is-also-the-customer-agile-and-sustainabilty.html"/>
-        <summary>On today’s podcast, Bill speaks with Jutta Eckstein, who shares her passion for sustainability and concerns that agile may increase our carbon footprint. Jutta shares how you can make a difference in your personal life and career using the three pillars of sustainability: People, Planet, and Profit.</summary>
+        <summary>Bill speaks with Jutta Eckstein on today’s podcast, who shares her passion for sustainability and concerns that agile may impact our carbon footprint. Jutta shares how you can make a difference in your personal life and career using the three pillars of sustainability: People, Planet, and Profit.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
