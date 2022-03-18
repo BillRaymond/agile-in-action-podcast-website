@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Thu, 17 Mar 2022 20:56:47 +0000</pubDate>
-        <lastBuildDate>Thu, 17 Mar 2022 20:56:47 +0000</lastBuildDate>
+        <pubDate>Fri, 18 Mar 2022 02:17:24 +0000</pubDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:17:24 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>How team self-selection helps people excel</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/03/22/how-team-self-selection-helps-people-excel.html</link>
+            <description></description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/03/22/how-team-self-selection-helps-people-excel.html</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>The planet is also the customer: Agile and sustainability</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/03/15/the-planet-is-also-the-customer-agile-and-sustainabilty.html</link>
             <description>Bill speaks with Jutta Eckstein on today’s podcast, who shares her passion for sustainability and concerns that agile may impact our carbon footprint. Jutta shares how you can make a difference in your personal life and career using the three pillars of sustainability: People, Planet, and Profit.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/10/19/plm-agile-and-the-openness-certification.html</guid>
             <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Defining and aligning product strategies</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/10/12/defining-and-aligning-product-strategies.html</link>
-            <description>I am willing to bet that the happiest teams feel they are working toward an objective that will delight their customers and move the needle on their product.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/10/12/defining-and-aligning-product-strategies.html</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
