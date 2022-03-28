@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-03-28T02:06:57+00:00</updated>
+    <updated>2022-03-28T02:13:28+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content></content>
+        <content>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html"/>
-        <summary></summary>
+        <summary>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->

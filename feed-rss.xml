@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 28 Mar 2022 02:06:57 +0000</pubDate>
-        <lastBuildDate>Mon, 28 Mar 2022 02:06:57 +0000</lastBuildDate>
+        <pubDate>Mon, 28 Mar 2022 02:13:28 +0000</pubDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:13:28 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Introducing Objectives and Key Results (OKRs)</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</link>
-            <description></description>
+            <description>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
