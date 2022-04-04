@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-04-04T07:37:33+00:00</updated>
+    <updated>2022-04-04T23:15:40+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,27 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</id>
+        <title>Risk-driven security in agile software development</title>
+        <updated>2022-04-05T00:00:00+00:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Dan Ionita, a Researcher with a Ph.D. in risk assessment, shares a model for integrated security into modern agile software management teams. Dan shares case studies and practical guidance for assessing and prioritizing security needs in your organization’s culture. More importantly, Dan shares why organizations must incorporate security into their culture.</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html"/>
+        <summary>Dan Ionita, a Researcher with a Ph.D. in risk assessment, shares a model for integrated security into modern agile software management teams. Dan shares case studies and practical guidance for assessing and prioritizing security needs in your organization’s culture. More importantly, Dan shares why organizations must incorporate security into their culture.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-04-05T00:00:00+00:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</id>
         <title>Introducing Objectives and Key Results (OKRs)</title>
         <updated>2022-03-29T00:00:00+00:00</updated>
@@ -493,31 +514,6 @@ Start, scale, and sustain</content>
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-11-02T00:00:00+00:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/10/26/improve-team-morale-and-performance-by-addressing-technical-debt.html</id>
-        <title>Improve team morale and performance by addressing technical debt</title>
-        <updated>2021-10-26T00:00:00+00:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Have you ever opened up an app that you love, just to be bothered by that one critical feature that hardly works, feels too slow, or is just frustrating to use? Chances are, the developers that wrote that code are all too aware of the problem. Maybe the code is too complex to fix without re-writing it, or perhaps their priorities shift to some other newer and shinier feature of the product. We call problems like this technical debt, and it is a growing problem that we must address.
-
-In today’s podcast, I speak with Alex Omeyer, Co-founder and CEO of Stepsize. Alex walks us through the various types of technical debt teams can accumulate. We then talk about how technical debt can impact teams, morale, and the customer’s end product.
-
-Alex proposes solutions to drive down technical debt by incorporating it directly into the development lifecycle. His organization, Stepsize, makes it easier to track technical debt and provide traceability, so the process ties directly into the standard tools developers use daily.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/10/26/improve-team-morale-and-performance-by-addressing-technical-debt.html"/>
-        <summary>Have you ever opened up an app that you love, just to be bothered by that one critical feature that hardly works, feels too slow, or is just frustrating to use? Chances are, the developers that wrote that code are all too aware of the problem. Maybe the code is too complex to fix without re-writing it, or perhaps their priorities shift to some other newer and shinier feature of the product. We call problems like this technical debt, and it is a growing problem that we must address.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-10-26T00:00:00+00:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->

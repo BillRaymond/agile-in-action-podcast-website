@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 04 Apr 2022 07:37:33 +0000</pubDate>
-        <lastBuildDate>Mon, 04 Apr 2022 07:37:33 +0000</lastBuildDate>
+        <pubDate>Mon, 04 Apr 2022 23:15:40 +0000</pubDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:15:40 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Risk-driven security in agile software development</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</link>
+            <description>Dan Ionita, a Researcher with a Ph.D. in risk assessment, shares a model for integrated security into modern agile software management teams. Dan shares case studies and practical guidance for assessing and prioritizing security needs in your organization’s culture. More importantly, Dan shares why organizations must incorporate security into their culture.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Introducing Objectives and Key Results (OKRs)</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</link>
             <description>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</guid>
             <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Improve team morale and performance by addressing technical debt</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/10/26/improve-team-morale-and-performance-by-addressing-technical-debt.html</link>
-            <description>Have you ever opened up an app that you love, just to be bothered by that one critical feature that hardly works, feels too slow, or is just frustrating to use? Chances are, the developers that wrote that code are all too aware of the problem. Maybe the code is too complex to fix without re-writing it, or perhaps their priorities shift to some other newer and shinier feature of the product. We call problems like this technical debt, and it is a growing problem that we must address.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/10/26/improve-team-morale-and-performance-by-addressing-technical-debt.html</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
