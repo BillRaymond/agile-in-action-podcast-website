@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 10 Apr 2022 07:36:12 +0000</pubDate>
-        <lastBuildDate>Sun, 10 Apr 2022 07:36:12 +0000</lastBuildDate>
+        <pubDate>Mon, 11 Apr 2022 03:04:51 +0000</pubDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:04:51 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>The Art and Science of Facilitation</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/04/12/the-art-and-science-of-facilitation.html</link>
+            <description></description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/04/12/the-art-and-science-of-facilitation.html</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Risk-driven security in agile software development</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</link>
             <description>Dan Ionita, a Researcher with a Ph.D. in risk assessment, shares a model for integrated security into modern agile software management teams. Dan shares case studies and practical guidance for assessing and prioritizing security needs in your organization’s culture. More importantly, Dan shares why organizations must incorporate security into their culture.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/09/let-s-talk-about-safe.html</guid>
             <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>From complicated chaos to value and velocity with flow engineering and value stream mapping</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</link>
-            <description>Do you have outdated or complex business flows that are hindering your ability to deliver more value to your customers at a faster pace? Today’s podcast guest, Steve Pereira, “The Value Stream Guy” and creator of “Flow Engineering,” will share how to “Marie Kondo” your processes.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/02/from-complicated-chaos-to-value-and-velocity-with-flow-engineering-and-value-stream-mapping.html</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
