@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-04-11T07:41:00+00:00</updated>
+    <updated>2022-04-12T04:22:53+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content></content>
+        <content>In today’s podcast, Marsha Acker shares the art and science of facilitation. Marsha shares stories and ideas that will help you run more efficient, outcome-driven meetings.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/04/12/the-art-and-science-of-facilitation.html"/>
-        <summary></summary>
+        <summary>In today’s podcast, Marsha Acker shares the art and science of facilitation. Marsha shares stories and ideas that will help you run more efficient, outcome-driven meetings.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
