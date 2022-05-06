@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 06 May 2022 07:39:35 +0000</pubDate>
-        <lastBuildDate>Fri, 06 May 2022 07:39:35 +0000</lastBuildDate>
+        <pubDate>Fri, 06 May 2022 20:03:51 +0000</pubDate>
+        <lastBuildDate>Fri, 06 May 2022 20:03:51 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Outcome-driven design and team behaviors</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/05/09/outcome-driven-design-and-team-behaviors.html</link>
-            <description></description>
+            <description>Josh Seiden is an acclaimed author in the lean and agile space, focusing on product design. Today, Josh shares how outcome-driven design can change human behavior, translating into improved customer value.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
