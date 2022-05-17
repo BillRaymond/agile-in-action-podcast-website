@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-05-15T07:39:54+00:00</updated>
+    <updated>2022-05-17T06:05:20+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content></content>
+        <content>Mark Kilby, author and remote agile guide shares the challenges of leading globally distributed agile teams. Mark then offers practical advice such as respecting time zones, embracing cultural differences, and enabling team collaboration.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/05/16/successful-globally-distributed-teams.html"/>
-        <summary></summary>
+        <summary>Mark Kilby, author and remote agile guide shares the challenges of leading globally distributed agile teams. Mark then offers practical advice such as respecting time zones, embracing cultural differences, and enabling team collaboration.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->

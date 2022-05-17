@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 15 May 2022 07:39:54 +0000</pubDate>
-        <lastBuildDate>Sun, 15 May 2022 07:39:54 +0000</lastBuildDate>
+        <pubDate>Tue, 17 May 2022 06:05:20 +0000</pubDate>
+        <lastBuildDate>Tue, 17 May 2022 06:05:20 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Successful globally distributed teams</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/05/16/successful-globally-distributed-teams.html</link>
-            <description></description>
+            <description>Mark Kilby, author and remote agile guide shares the challenges of leading globally distributed agile teams. Mark then offers practical advice such as respecting time zones, embracing cultural differences, and enabling team collaboration.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
