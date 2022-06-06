@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-05-31T07:42:00+00:00</updated>
+    <updated>2022-06-06T19:57:41+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,27 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/06/07/building-a-culture-of-psychological-safety.html</id>
+        <title>Building a culture of psychological safety</title>
+        <updated>2022-06-07T00:00:00+00:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Building a culture of psychological safety reduces fear, celebrates failures, and provides a safe space for your teams to communicate. In today’s podcast, Bill speaks with Alla Weinberg, where they share the importance of physical, emotional, and psychological safety in the workplace.</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/06/07/building-a-culture-of-psychological-safety.html"/>
+        <summary>Building a culture of psychological safety reduces fear, celebrates failures, and provides a safe space for your teams to communicate. In today’s podcast, Bill speaks with Alla Weinberg, where they share the importance of physical, emotional, and psychological safety in the workplace.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-06-07T00:00:00+00:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/05/17/successful-globally-distributed-teams.html</id>
         <title>Successful globally distributed teams</title>
         <updated>2022-05-17T00:00:00+00:00</updated>
@@ -461,33 +482,6 @@ But what exactly are story points, and how do they support planning efforts? Tha
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2021-12-07T00:00:00+00:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html</id>
-        <title>An introduction to agile team planning and velocity</title>
-        <updated>2021-11-30T00:00:00+00:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In today’s lively conversation with Adam Jennison, Enterprise Agile Consultant, you will learn how agile teams estimate their work and track how well they performed based on the estimate. You will also learn how to implement these concepts in your team, no matter what type of work you do.
-
-If you come from a traditional project management background, you are likely familiar with the process of defining tasks, assigning resources, and estimating hours.
-
-As organizations continue their shift to product-centric work, agile teams will define what they can accomplish in short iterations (or sprints). Those iterations typically run 1-4 weeks. An agile team will look at the backlog of work and determine what they will do based on criteria like value, risk, and hours to complete. Rather than estimating individual hours for each person, the team will agree to story points. When the iteration is complete, you can use a velocity metric to determine how well they did against the plan.
-
-If you are unfamiliar with story points and velocity, do not fret. Adam explains it all with ease and shares some great stories along the way.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html"/>
-        <summary>In today’s lively conversation with Adam Jennison, Enterprise Agile Consultant, you will learn how agile teams estimate their work and track how well they performed based on the estimate. You will also learn how to implement these concepts in your team, no matter what type of work you do.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2021-11-30T00:00:00+00:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->

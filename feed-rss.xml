@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 31 May 2022 07:42:00 +0000</pubDate>
-        <lastBuildDate>Tue, 31 May 2022 07:42:00 +0000</lastBuildDate>
+        <pubDate>Mon, 06 Jun 2022 19:57:41 +0000</pubDate>
+        <lastBuildDate>Mon, 06 Jun 2022 19:57:41 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Building a culture of psychological safety</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/06/07/building-a-culture-of-psychological-safety.html</link>
+            <description>Building a culture of psychological safety reduces fear, celebrates failures, and provides a safe space for your teams to communicate. In today’s podcast, Bill speaks with Alla Weinberg, where they share the importance of physical, emotional, and psychological safety in the workplace.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/06/07/building-a-culture-of-psychological-safety.html</guid>
+            <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Successful globally distributed teams</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/05/17/successful-globally-distributed-teams.html</link>
             <description>Mark Kilby, author and remote agile guide shares the challenges of leading globally distributed agile teams. Mark then offers practical advice such as respecting time zones, embracing cultural differences, and enabling team collaboration.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/12/07/agile-estimating-and-planning-with-mike-cohn.html</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>An introduction to agile team planning and velocity</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html</link>
-            <description>In today’s lively conversation with Adam Jennison, Enterprise Agile Consultant, you will learn how agile teams estimate their work and track how well they performed based on the estimate. You will also learn how to implement these concepts in your team, no matter what type of work you do.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/11/30/an-introduction-to-agile-team-planning-and-velocity.html</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
