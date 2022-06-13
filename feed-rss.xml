@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 13 Jun 2022 07:39:57 +0000</pubDate>
-        <lastBuildDate>Mon, 13 Jun 2022 07:39:57 +0000</lastBuildDate>
+        <pubDate>Mon, 13 Jun 2022 17:25:42 +0000</pubDate>
+        <lastBuildDate>Mon, 13 Jun 2022 17:25:42 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>What it means to become nimble</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/06/14/what-it-means-to-become-nimble.html</link>
-            <description></description>
+            <description>Today, I am excited to share a conversation with Christina Wodtke, a celebrity in agile leadership and team dynamics. Christina is the author of popular books like The Team that Managed Itself and Radical Focus.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
