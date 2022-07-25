@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 10 Jul 2022 07:40:43 +0000</pubDate>
-        <lastBuildDate>Sun, 10 Jul 2022 07:40:43 +0000</lastBuildDate>
+        <pubDate>Mon, 25 Jul 2022 20:04:34 +0000</pubDate>
+        <lastBuildDate>Mon, 25 Jul 2022 20:04:34 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>The leader's mindset required for organizational agility</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/07/26/the-leader-s-mindset-required-for-organizational-agility.html</link>
+            <description>Shifting to organizational agility can mean making a tectonic shift in how you structure your business and empower teams. In today’s podcast, leading author and Agilist, Dr. Thomas Grisham shares proven examples to help leaders through their transformation to agility.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/07/26/the-leader-s-mindset-required-for-organizational-agility.html</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>What it means to become nimble</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/06/14/what-it-means-to-become-nimble.html</link>
             <description>Today, I am excited to share a conversation with Christina Wodtke, a celebrity in agile leadership and team dynamics. Christina is the author of popular books like The Team that Managed Itself and Radical Focus.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/01/04/agile-in-policy-development.html</guid>
             <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Building a product culture and operating model</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2021/12/14/building-a-product-culture-and-operating-model.html</link>
-            <description>Very often, we refer to agile as supporting a product-focused operating model. So, what is that operating model and what might it look like? Blake Bassett defines an operating model and then shares how you can consider creating your own. Blake shares how to consider building a model by using the following topic areas:</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2021/12/14/building-a-product-culture-and-operating-model.html</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
