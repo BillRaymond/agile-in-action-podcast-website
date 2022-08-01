@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-08-01T23:06:34+00:00</updated>
+    <updated>2022-08-01T23:20:27+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,8 +26,8 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/agile-in-action-with-bill-raymond-podcast-for-august-2022.html</id>
-        <title>Exciting Agile in Action news</title>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/exciting-agile-in-action-podcast-news.html</id>
+        <title>Exciting Agile in Action podcast news</title>
         <updated>2022-08-02T00:00:00+00:00</updated>
         <author>
             <name>Bill Raymond</name>
@@ -77,7 +77,7 @@ Actually there is one more thing. We publish our podcast updates weekly on the A
 Thank you again!
 
 So thank you very much. And next week we will be back with another podcast.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/agile-in-action-with-bill-raymond-podcast-for-august-2022.html"/>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/exciting-agile-in-action-podcast-news.html"/>
         <summary>Transcript</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
