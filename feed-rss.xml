@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 01 Aug 2022 22:53:43 +0000</pubDate>
-        <lastBuildDate>Mon, 01 Aug 2022 22:53:43 +0000</lastBuildDate>
+        <pubDate>Mon, 01 Aug 2022 23:06:34 +0000</pubDate>
+        <lastBuildDate>Mon, 01 Aug 2022 23:06:34 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,7 +39,7 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>Agile in Action with Bill Raymond Podcast for August 2022</title>
+            <title>Exciting Agile in Action news</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/agile-in-action-with-bill-raymond-podcast-for-august-2022.html</link>
             <description>Transcript</description>
             <author>info@cambermast.com (Bill Raymond))</author>
