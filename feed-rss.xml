@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 01 Aug 2022 18:29:53 +0000</pubDate>
-        <lastBuildDate>Mon, 01 Aug 2022 18:29:53 +0000</lastBuildDate>
+        <pubDate>Mon, 01 Aug 2022 22:16:57 +0000</pubDate>
+        <lastBuildDate>Mon, 01 Aug 2022 22:16:57 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Agile in Action with Bill Raymond Podcast for August 2022</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/agile-in-action-with-bill-raymond-podcast-for-august-2022.html</link>
+            <description>Transcript</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/08/02/agile-in-action-with-bill-raymond-podcast-for-august-2022.html</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>The leader's mindset required for organizational agility</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/07/26/the-leader-s-mindset-required-for-organizational-agility.html</link>
             <description>Shifting to organizational agility can mean making a tectonic shift in how you structure your business and empower teams. In today’s podcast, leading author and Agilist, Dr. Thomas Grisham shares proven examples to help leaders through their transformation to agility.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/01/11/introducing-agile-for-research-and-development.html</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Agile in policy development</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/01/04/agile-in-policy-development.html</link>
-            <description>Developing governmental policies can be a long and arduous task. At Citizens Advice, they streamline that process and use agile techniques to share ideas sooner, improve feedback loops, and focus on outputs.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/01/04/agile-in-policy-development.html</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
