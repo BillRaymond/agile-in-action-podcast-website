@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Sun, 14 Aug 2022 07:38:34 +0000</pubDate>
-        <lastBuildDate>Sun, 14 Aug 2022 07:38:34 +0000</lastBuildDate>
+        <pubDate>Mon, 15 Aug 2022 22:49:15 +0000</pubDate>
+        <lastBuildDate>Mon, 15 Aug 2022 22:49:15 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Quality agile delivery with external stakeholders</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/16/quality-agile-delivery-with-external-stakeholders.html</link>
-            <description></description>
+            <description>External technology firms can complement your internal expertise and result in a lasting partnership. In today’s podcast, Mark Balbes, Ph.D., shares how World Wide Technology builds mutual trust with its customers to deliver positive outcomes.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
