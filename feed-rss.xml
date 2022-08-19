@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 19 Aug 2022 07:41:59 +0000</pubDate>
-        <lastBuildDate>Fri, 19 Aug 2022 07:41:59 +0000</lastBuildDate>
+        <pubDate>Fri, 19 Aug 2022 21:19:56 +0000</pubDate>
+        <lastBuildDate>Fri, 19 Aug 2022 21:19:56 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>The 2-year anniversary Agile in Action podcast retrospective</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/23/the-2-year-anniversary-agile-in-action-podcast-retrospective.html</link>
-            <description></description>
+            <description>In today’s podcast, Reama Dagasan shares how she interprets agile in her role as CEO of Pastabiz. Reama is also our executive producer and shares some lighthearted stories about the Agile in Action podcast in a 2-year retrospective with Bill.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
