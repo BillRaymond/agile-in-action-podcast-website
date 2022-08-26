@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 26 Aug 2022 21:24:20 +0000</pubDate>
-        <lastBuildDate>Fri, 26 Aug 2022 21:24:20 +0000</lastBuildDate>
+        <pubDate>Fri, 26 Aug 2022 21:33:07 +0000</pubDate>
+        <lastBuildDate>Fri, 26 Aug 2022 21:33:07 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Dealing with change while operating at the speed of light</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/30/dealing-with-change-while-operating-at-the-speed-of-light.html</link>
+            <description>Nate Greenberg, Director of Information Technology for Mono County and the town of Mammoth Lakes, California, joins the podcast today. Nate shares how he and his team operated before and after the pandemic and shares essential lessons from the drastic changes he and his team had to make.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/08/30/dealing-with-change-while-operating-at-the-speed-of-light.html</guid>
+            <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>The 2-year anniversary Agile in Action podcast retrospective</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/23/the-2-year-anniversary-agile-in-action-podcast-retrospective.html</link>
             <description>In today’s podcast, Reama Dagasan shares how she interprets agile in her role as CEO of Pastabiz. Reama is also our executive producer and shares some lighthearted stories about the Agile in Action podcast in a 2-year retrospective with Bill.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/08/introducing-organizational-agility.html</guid>
             <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>From project to product: refocusing your organization and culture</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/from-project-to-product-refocusing-your-organization-and-culture.html</link>
-            <description>Today, Chris Jones, partner at Silicon Valley Product Group and co-author of the book Empowered joins us to talk about the shift to agility and a product-focused culture.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/01/from-project-to-product-refocusing-your-organization-and-culture.html</guid>
-            <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
