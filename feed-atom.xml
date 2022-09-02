@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-09-02T20:35:36+00:00</updated>
+    <updated>2022-09-02T20:53:56+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,17 +26,19 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/rebroadcast-of-embracing-a-remote-work-culture.html</id>
-        <title>Rebroadcast of Embracing a remote work culture</title>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/editors-pick-embracing-a-remote-work-culture.html</id>
+        <title>Editor's Pick! Embracing a remote work culture</title>
         <updated>2022-09-06T00:00:00+00:00</updated>
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>In celebration of US Labor Day, we are taking the week off. We thought it would be fun to share this re-broadcast of Sarah Shewell’s conversation about embracing remote work.
+        <content>Editor’s pick!
+In celebration of US Labor Day, we are taking the week off. We thought it would be fun to share this re-broadcast of Sarah Shewell’s conversation about embracing remote work.
 
 Listen as Bill and Sarah Shewell discuss how company culture and inclusion matter more than ever in the age of Zoom meetings and remote work. Sarah shares practical tactics she used to elicit cooperation, communication, and the flow of information among various teams.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/rebroadcast-of-embracing-a-remote-work-culture.html"/>
-        <summary>In celebration of US Labor Day, we are taking the week off. We thought it would be fun to share this re-broadcast of Sarah Shewell’s conversation about embracing remote work.</summary>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/editors-pick-embracing-a-remote-work-culture.html"/>
+        <summary>Editor’s pick!
+In celebration of US Labor Day, we are taking the week off. We thought it would be fun to share this re-broadcast of Sarah Shewell’s conversation about embracing remote work.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
