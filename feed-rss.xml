@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 02 Sep 2022 07:45:12 +0000</pubDate>
-        <lastBuildDate>Fri, 02 Sep 2022 07:45:12 +0000</lastBuildDate>
+        <pubDate>Fri, 02 Sep 2022 20:35:36 +0000</pubDate>
+        <lastBuildDate>Fri, 02 Sep 2022 20:35:36 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Rebroadcast of Embracing a remote work culture</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/rebroadcast-of-embracing-a-remote-work-culture.html</link>
+            <description>In celebration of US Labor Day, we are taking the week off. We thought it would be fun to share this re-broadcast of Sarah Shewell’s conversation about embracing remote work.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/rebroadcast-of-embracing-a-remote-work-culture.html</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Dealing with change while operating at the speed of light</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/08/30/dealing-with-change-while-operating-at-the-speed-of-light.html</link>
             <description>Nate Greenberg, Director of Information Technology for Mono County and the town of Mammoth Lakes, California, joins the podcast today. Nate shares how he and his team operated before and after the pandemic and shares essential lessons from the drastic changes he and his team had to make.</description>
@@ -303,20 +317,6 @@
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Introducing organizational agility</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/08/introducing-organizational-agility.html</link>
-            <description>In today’s podcast, Linda Parker Gates from the Software Engineering Institute at Carnegie Mellon University talks about organizational agility. Linda shares the importance of an execution-first mentality, setting a vision while being nimble enough to make course corrections, and the importance of data-driven decision making.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/08/introducing-organizational-agility.html</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
