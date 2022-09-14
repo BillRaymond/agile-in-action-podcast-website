@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-09-14T16:17:25+00:00</updated>
+    <updated>2022-09-14T19:15:45+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,7 +32,9 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>[final podcast introduction text goes here]
+        <content>Successful change management is the result of navigating people through resistance. Laurie Sudbrink makes the case that leadership must come from a place of GRIT: generosity, respect, integrity, and truth.
+
+Laurie shares that GRIT is not a formula but takes the form of empathy, vulnerability, taking part in the change, understanding emotional responses, and taking conscious actions based on your beliefs.
 
 About Laurie Sudbrink
 
@@ -354,7 +356,7 @@ Bill Raymond: Laurie Sudbrink, this was a great conversation. Thank you so much 
 
 Laurie Sudbrink: Oh, thank you, Bill. It’s been my pleasure and I love the work that you’re doing. Agility is so critical and keep up the great work. Thank you.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/09/20/leading-change-with-grit-and-communicating-with-integrity.html"/>
-        <summary>[final podcast introduction text goes here]</summary>
+        <summary>Successful change management is the result of navigating people through resistance. Laurie Sudbrink makes the case that leadership must come from a place of GRIT: generosity, respect, integrity, and truth.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->

@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 14 Sep 2022 16:17:25 +0000</pubDate>
-        <lastBuildDate>Wed, 14 Sep 2022 16:17:25 +0000</lastBuildDate>
+        <pubDate>Wed, 14 Sep 2022 19:15:45 +0000</pubDate>
+        <lastBuildDate>Wed, 14 Sep 2022 19:15:45 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Leading change with GRIT and communicating with integrity</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/09/20/leading-change-with-grit-and-communicating-with-integrity.html</link>
-            <description>[final podcast introduction text goes here]</description>
+            <description>Successful change management is the result of navigating people through resistance. Laurie Sudbrink makes the case that leadership must come from a place of GRIT: generosity, respect, integrity, and truth.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
