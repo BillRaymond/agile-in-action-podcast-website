@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 14 Sep 2022 16:05:20 +0000</pubDate>
-        <lastBuildDate>Wed, 14 Sep 2022 16:05:20 +0000</lastBuildDate>
+        <pubDate>Wed, 14 Sep 2022 16:17:25 +0000</pubDate>
+        <lastBuildDate>Wed, 14 Sep 2022 16:17:25 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Leading change with GRIT and communicating with integrity</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/09/20/leading-change-with-grit-and-communicating-with-integrity.html</link>
+            <description>[final podcast introduction text goes here]</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/09/20/leading-change-with-grit-and-communicating-with-integrity.html</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Editor's Pick! Embracing a remote work culture</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/09/06/editors-pick-embracing-a-remote-work-culture.html</link>
             <description>Editor’s pick!
@@ -304,20 +318,6 @@ In celebration of US Labor Day, we are taking the week off. We thought it would 
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</guid>
             <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>An agile approach to Knowledge Services</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html</link>
-            <description>Continuing our “Agile in…” series, we talk to Emily Disque and Laura Pike Seeley from the renowned design and architecture firm HKS, Inc. You will learn how their Global Knowledge Services (GKS) team drives knowledge strategy in support of HKS’ values and priorities.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/15/an-agile-approach-to-knowledge-services.html</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
