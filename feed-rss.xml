@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Mon, 10 Oct 2022 08:00:02 +0000</pubDate>
-        <lastBuildDate>Mon, 10 Oct 2022 08:00:02 +0000</lastBuildDate>
+        <pubDate>Tue, 11 Oct 2022 00:45:24 +0000</pubDate>
+        <lastBuildDate>Tue, 11 Oct 2022 00:45:24 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,23 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Introducing the Seasons of SCRUM</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/10/11/introducing-the-seasons-of-scrum.html</link>
+            <description>In today’s podcast, we introduce our Season of SCRUM series, that will last from late 2022 to early 2023.
+Transcript
+(transcripts are auto-generated, so please excuse the brevity)
+Laura Pirro: agile was mentioned and more specifically SCRUM was mentioned</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/10/11/introducing-the-seasons-of-scrum.html</guid>
+            <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Leading change with GRIT and communicating with integrity</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/09/20/leading-change-with-grit-and-communicating-with-integrity.html</link>
             <description>Successful change management is the result of navigating people through resistance. Laurie Sudbrink makes the case that leadership must come from a place of GRIT: generosity, respect, integrity, and truth.</description>
@@ -304,20 +321,6 @@ In celebration of US Labor Day, we are taking the week off. We thought it would 
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/03/01/from-product-owner-to-experience-owner.html</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Are roadmaps causing feature factories? </title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</link>
-            <description>In today’s podcast, you will learn what a feature factory roadmap looks like and how to avoid them. Ryan Dawson, Principal Data Consultant at ThoughtWorks, shares the mindset and thought process you can take to build a roadmap that solves problems and focuses on outcomes.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>

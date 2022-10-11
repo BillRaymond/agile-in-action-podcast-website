@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-10-10T08:00:02+00:00</updated>
+    <updated>2022-10-11T00:45:24+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,57 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/10/11/introducing-the-seasons-of-scrum.html</id>
+        <title>Introducing the Seasons of SCRUM</title>
+        <updated>2022-10-11T00:00:00+00:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, we introduce our Season of SCRUM series, that will last from late 2022 to early 2023.
+Transcript
+(transcripts are auto-generated, so please excuse the brevity)
+Laura Pirro: agile was mentioned and more specifically SCRUM was mentioned
+
+Mark Kilby: We could still use SCRUM in that case.
+
+Nate Greenberg: we have a morning standup, looks like SCRUM.
+
+Dan Ionita: this risk assessment process is aimed at creating awareness regarding security within the SCRUM team.
+
+Hrishikesh Kareka: What that definition of agile means is, is often very problematic It could just mean that we start to do SCRUM and that does not bring agility.
+
+Reama Dagasan: product lifecycle management or SCRUM
+
+Nader K Rad: SCRUM is one framework that is agile. It’s one way of being agile. So, before talking about what a SCRUM is, I really strongly believe that we should talk about the concept of agility.
+
+Bill Raymond: Hi, this is Bill Raymond, the host of the Agile and Action Podcast. We have recorded more than 80 podcasts that cover a wide array of topics related to business agility. While I just shared a few clips from our library of work. You may have noticed one word come up more frequently than any other, and that is the word SCRUM.
+
+Bill Raymond: So that’s what I’m going to do is share with you some different ideas over this next season. This fall and winter 2022 to 2023 season. To cover more topics on SCRUM. Now, we’re not going to just talk about SCRUM. We’re going to have some other interesting guests as well, but I am excited to put some focus here on the SCRUM framework for you.
+
+And I want you to be aware that we are doing this because of your feedback that you would like to learn more about this framework.
+
+Bill Raymond: As always, I want to thank you for being part of the Agilent action podcast community. We have seen some exciting growth in the last year, and it’s because of you, our listeners with that, if there’s anything you ever want to hear on the podcast, never hesitate to reach out. You can email me directly at Bill dot Raymond R A Y M O N D at agile in action dot com. You can of course go to our website, agilentinaction.com and make a recommendation there too.
+
+Bill Raymond: If you are in a podcast app right now, I would really appreciate it if you Comment, Like, and Subscribe to the podcast. This way, you never miss any of the great content that’s coming your way.
+
+Bill Raymond: So thank you once again, and we’ll see you next week!</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/10/11/introducing-the-seasons-of-scrum.html"/>
+        <summary>In today’s podcast, we introduce our Season of SCRUM series, that will last from late 2022 to early 2023.
+Transcript
+(transcripts are auto-generated, so please excuse the brevity)
+Laura Pirro: agile was mentioned and more specifically SCRUM was mentioned</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-10-11T00:00:00+00:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/09/20/leading-change-with-grit-and-communicating-with-integrity.html</id>
         <title>Leading change with GRIT and communicating with integrity</title>
         <updated>2022-09-20T00:00:00+00:00</updated>
@@ -2084,27 +2135,6 @@ Today, Dr. Becky Winkler, a corporate psychologist, covers both topics with unam
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2022-03-01T00:00:00+00:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html</id>
-        <title>Are roadmaps causing feature factories? </title>
-        <updated>2022-02-22T00:00:00+00:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In today’s podcast, you will learn what a feature factory roadmap looks like and how to avoid them. Ryan Dawson, Principal Data Consultant at ThoughtWorks, shares the mindset and thought process you can take to build a roadmap that solves problems and focuses on outcomes.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/02/22/are-roadmaps-causing-feature-factories.html"/>
-        <summary>In today’s podcast, you will learn what a feature factory roadmap looks like and how to avoid them. Ryan Dawson, Principal Data Consultant at ThoughtWorks, shares the mindset and thought process you can take to build a roadmap that solves problems and focuses on outcomes.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2022-02-22T00:00:00+00:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
