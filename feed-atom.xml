@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-10-31T07:41:01+00:00</updated>
+    <updated>2022-11-01T00:16:06+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,37 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/11/01/november-1-2022-update.html</id>
+        <title>November 1, 2022 Update</title>
+        <updated>2022-11-01T00:00:00+00:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Transcript
+
+(transcripts are auto-generated, so please excuse the brevity)
+
+Bill Raymond: Hi, this is Bill Raymond host of the Agile in Action podcast. Today is Tuesday, November 1st, 2022. Now we have a lot of content to share with you over the coming weeks and months. And that means we need to prepare So this week, we’re taking a little break and we’ll be back on Tuesday, November 8, with a brand new podcast.
+
+Bill Raymond: Until then I have a favor to ask of you.
+
+Bill Raymond: If you have a LinkedIn account, could you go to the Agile in Action with Bill Raymond Page and subscribe? There you will get the latest information and all of our podcasts, including agile news. If you are listening to this podcast right now, just scroll down to the show notes or the description, and you’ll find a link there, or you can get that on the https://agileinaction.com website.
+
+Bill Raymond: Thank you and see you next week!</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/11/01/november-1-2022-update.html"/>
+        <summary>Transcript</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-11-01T00:00:00+00:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/10/18/what-makes-scrum-work-when-done-correctly.html</id>
         <title>What makes SCRUM work when done correctly</title>
         <updated>2022-10-18T00:00:00+00:00</updated>
@@ -2507,29 +2538,6 @@ Christina will also talk frequently about OKRs – or objectives and key results
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2022-03-15T00:00:00+00:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/03/08/avoid-being-your-own-worst-enemy.html</id>
-        <title>Avoid being your own worst enemy</title>
-        <updated>2022-03-08T00:00:00+00:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Do you feel your voice is not heard on important topics or meetings? As a leader, do you want to elicit your teams’ best possible guidance and ideas?
-
-Today, Dr. Becky Winkler, a corporate psychologist, covers both topics with unambiguous advice for leaders to make the space for their teams and how you can drive out your inner saboteur to show up and be a part of the conversation. This is a lively one, so grab a cup of your favorite beverage, sit back, and enjoy the ride!</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/08/avoid-being-your-own-worst-enemy.html"/>
-        <summary>Do you feel your voice is not heard on important topics or meetings? As a leader, do you want to elicit your teams’ best possible guidance and ideas?</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2022-03-08T00:00:00+00:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
