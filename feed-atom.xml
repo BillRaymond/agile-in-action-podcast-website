@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-11-04T18:02:32+00:00</updated>
+    <updated>2022-11-04T18:06:50+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -37,6 +37,8 @@
 Transcript
 
 (transcripts are auto-generated, so please excuse the brevity)
+Hrishikesh Kareka: Focusing on those problems is crucial for the success. If your goal is to just implement SCRUM or SAFe or any other framework, then you’re not achieving value. If the software engineering techniques are bad, no amount of framework, whether it is SCRUM or SAFe, however good they are, aren’t going to help you.
+
 Bill Raymond: Hi, and welcome to the podcast. Today, I’m joined by Hrishikesh Kareka, agile leader at Capgemini India, enterprise Agile Coach and author of Perspectives on Agility. Hi Hrishikesh, how are you today?
 
 Hrishikesh Kareka: Thanks. I’m very good. How are you doing?
@@ -47,7 +49,7 @@ Introduce yourself
 
 Hrishikesh Kareka: Sure. I have been working in IT since more than 20 years now in various roles, and close to a decade on agile transformations, mainly large scaletransformations. I’ve had the opportunity to work first-hand with SCRUM SAFe, Kanban and Disciplined Agile, especially at scale.
 
-His role at Capgemini
+Capgemini role
 
 Bill Raymond: You work at Capgemini. Can you talk a little bit about your role there as well?
 
@@ -87,7 +89,7 @@ Challenges with change management
 
 Bill Raymond: From what you just said, that there is going to be quite a bit of change management involved. So what are some of the challenges with the change management process as you’re going through these agile transformations?
 
-Figure out the “why”
+Figure out the "why"
 
 Hrishikesh Kareka: So there are several challenges. I think one of the most important one is the people angle. I think that angle is missing. Everybody just assumes that agile is about a new process or a new framework. The first thing to understand is why we think agile is our solution.
 
@@ -101,7 +103,7 @@ Hrishikesh Kareka: And that is, I think, one of the key things to first figure o
 
 Peer pressure
 
-Hrishikesh Kareka: The second thing is, peer pressure doing it just because everybody else is doing it. Agile is the new “in” thing, right?
+Hrishikesh Kareka: The second thing is, peer pressure doing it just because everybody else is doing it. Agile is the new "in" thing, right?
 
 Hrishikesh Kareka: So competition is doing it, or I’m a large enterprise, one of my other business units started to do it, so I don’t need to be left behind and so on. So that is again, a very problematic thing and a root cause of many failures. You have started your entire journey just because somebody else is doing it.
 
@@ -112,6 +114,16 @@ Hrishikesh Kareka: The third thing I would say is, the pace of change. So many p
 Hrishikesh Kareka: Now that really helped to create the background to move into something like SCRUM. Because first, people knew to understand how do I write user stories, right? They can do that even when they have a waterfall process. They need to understand product management better. So there are many things that you need to do than just implementing the process and you need to get people ready for that.
 
 Hrishikesh Kareka: So doing it at the right pace is very essential, and not just saying that, okay, at the end of the year, we will be agile. Then you end up with things like somebody declares on a PowerPoint, we are agile and behind the scenes, all you have done is written a new ways of working that says everybody now does SCRUM, but on the ground, situation is more or less the same.
+
+Offer from our sponsor, Spoke and Wheel
+
+Sponsor: The future of work is, shall we say, stormy, and it looks like things are not changing anytime soon. So how do you weather these storms and stay competitive while continuing to innovate? Recent studies have shown that when you put psychological safety first, people will work at their highest IQ and be capable of analytical thinking and collaborative problem solving. Do you want to see these improvements in your organization? If so, I want to introduce you to Alla Weinberg, founder of Spoke and Wheel.
+
+Alla and her talented team will perform a 90-day psychological safety sprint that will assess your culture against three critical areas.
+
+Sponsor: I suggest you set up a free 20-minute call with Alla and the Spoke and Wheel team.
+
+Sponsor: You can access this free call by visiting www.spokeandwheel.co/assess. That’s like the spokes on a bicycle wheel, www.spokeandwheel.co/assess. When you sign up for the free call, mention the Agile In Action Podcast to receive a 10% discount on your psychological safety assessment.
 
 Navigating the changeGive people time
 
@@ -143,7 +155,7 @@ Hrishikesh Kareka: Agile is a big change and this communication can have differe
 
 Align your KPIs
 
-Hrishikesh Kareka: And the third important thing, and I would say, this is one of the most critical, is aligning the KPIs, or whatever you want to call it, the performance measures of the transformation team to the goals of the business.
+Hrishikesh Kareka: And the third important thing, is aligning the KPIs, or whatever you want to call it, the performance measures of the transformation team to the goals of the business.
 
 Hrishikesh Kareka: The goal of the transformation team cannot be to implement agile. The goal of the transformation team has to be around business KPIs. We are here to solve business problems. It could be lead time, it could be throughput, it could be customer satisfaction.
 
@@ -161,9 +173,9 @@ Where are the transformation teams?
 
 Bill Raymond: So do we see multiple transformation teams focusing on each of the different areas of the business, or is this sort of a executive-level team at the top, kind of managing the status?
 
-Hrishikesh Kareka: So I have seen different flavors. In very large enterprises, the big banks of the world are right where you have hundreds of thousands of employees and things like that. There the organizations already are siloed in a way, right? You would have them organized in different business units, et cetera, and then you see those flavors of each having their own transformation teams with their own agendas, and so on.
+Hrishikesh Kareka: So I have seen different flavors. In very large enterprises, the big banks of the world where you have hundreds of thousands of employees and things like that. There the organizations already are siloed in a way, right? You would have them organized in different business units, et cetera, and then you see those flavors of each having their own transformation teams with their own agendas, and so on.
 
-Hrishikesh Kareka: Of course, many times there is a synergy across all of them. But still, given the nature of the business, many of them operate quite independently. It helps, and that is what I’ve seen succeed, if there is a small group, which is working to align all of them. I would not say “central group,” because it does not work. Centralization has its own challenges, because then everybody just starts to follow what the central team is saying or dictating.
+Hrishikesh Kareka: Of course, many times there is a synergy across all of them. But still, given the nature of the business, many of them operate quite independently. It helps, and that is what I’ve seen succeed, if there is a small group, which is working to align all of them. I would not say "central group," because it does not work. Centralization has its own challenges, because then everybody just starts to follow what the central team is saying or dictating.
 
 The need to be decentralized
 
@@ -171,7 +183,7 @@ Hrishikesh Kareka: So while we need to be decentralized in the whole transformat
 
 So I often refer to it as, you know, the hub-and-spoke model. That you have a central hub, that is an enabler, right? and then there are the transformation teams in each of the individual business units, or areas which are doing more local work. So both of these flavors are there, and the better synergy you are able to create between them, the more successful you will be.
 
-Bill Raymond: Yeah, and I agree with you there. I’ve actually seen this happen a few different ways myself. I had one particular company in mind that I used to work with that had a team that was considered, they called themselves, I don’t think this is the exact title, but it was a “center of excellence” for agile. And they were kind of considered “the corporate team,” and what they shared was a lot of the best practices that you’d see in industry, they provided training and things like that. But what we saw was that there weren’t any coordinated agile transformation teams in the business units. They just said, well, we’ll just take what that other team is saying and try to do it.
+Bill Raymond: Yeah, and I agree with you there. I’ve actually seen this happen a few different ways myself. I had one particular company in mind that I used to work with that had a team that was considered, they called themselves, I don’t think this is the exact title, but it was a "center of excellence" for agile. And they were kind of considered "the corporate team," and what they shared was a lot of the best practices that you’d see in industry, they provided training and things like that. But what we saw was that there weren’t any coordinated agile transformation teams in the business units. They just said, well, we’ll just take what that other team is saying and try to do it.
 
 Bill Raymond: And what they end up doing is taking some of the things that are standard, like, we’ll do sprints that are two to four weeks, we’ll do iterative design and development, even if we’re in HR or Marketing. But they kind of take these ideas and roll with it. But what we get lost there is the trying to figure out what’s the new value you’re going to provide?
 
@@ -233,7 +245,7 @@ Hrishikesh Kareka: So everybodyhas business KPIs that eventually are derived fro
 
 Hrishikesh Kareka: Sure. put yourself in the shoes of an executive who needs to run a company and somebody tells him or her that, I don’t know when this will be done. It’s a very difficult answer to take, right? Knowing that yes, we know reality is there and things are difficult and so on. But what people like, is you put your best estimate forward and then you give your best shot at it. And if reality will hit us, we will not make it, of course, we need to coach the executive for that, but we need to put a bold plan.
 
-Hrishikesh Kareka: Here, I always like the example of Elon Musk. NASA, did not even attempt or maybe attempted and failed, to build a re-usable rocket. Elon Musk declared that, “I will build a reusable rocket.” And it took him some time to do it, but he already declared, “ This is my aim and this is what I’m going to do.”
+Hrishikesh Kareka: Here, I always like the example of Elon Musk. NASA, did not even attempt or maybe attempted and failed, to build a re-usable rocket. Elon Musk declared that, "I will build a reusable rocket." And it took him some time to do it, but he already declared, " This is my aim and this is what I’m going to do."
 
 Hrishikesh Kareka: There was no precedent. So putting that big step forward, I’m saying I will do it. And then understanding that yes, reality is there, complexity is there and we will work through it, is another thing. But making that bold move to say, yes, this is what I think is the logical, place where we will be in a year, and being a bit aggressive or bold about it, is I think the way to be. In my view, it has got me good results. Of course, I would not say everything that I have claimed I have done, but you aim for the best.
 
@@ -257,17 +269,21 @@ And you really bring business goals and business KPIs into the picture. So that 
 
 when I first started to learn agile on one of the larger efforts that I was on many years ago, I was still a little confused by agile and people were talking about things like sprints and retrospectives, but I couldn’t understand why that was important and what that meant. And I couldn’t understand the value that it was bringing. And yeah, just popped open a book and started reading it over the weekend and I started to really get a better understanding. So that’s great advice.
 
-Reaching out to Hrishikesh
+Contact Hrishikesh
 
 Bill Raymond: Hrishikesh, if anyone wants to reach out to you, how might they do that?
 
 Hrishikesh Kareka: They can reach out to me on Medium. So I’m very active on Medium, I’m writing there, and also LinkedIn. So I think these are the two social media or platforms I would say, where I’m most easily reachable and active.
 
-Bill Raymond: Your Medium articles are fantastic, and we found you through one of your article, which is, “ Is Your Agile Transformation Ship Stuck in Troubled Political Waters?” And that was a good example of how an executive might be able to just find a piece of content that would be useful to them. Because these are change management efforts, these are not simple things that we go through. And so to have content like that, I really appreciate the work that you do there. And also of course. You have the book, “Perspectives on Agility.” You also mentioned SAFe a few times and SCRUM a few times. So if you’re interested in learning more about that, I’ll also provide some links on the podcast.
+Bill Raymond: Your Medium articles are fantastic, and we found you through one of your article, which is, " Is Your Agile Transformation Ship Stuck in Troubled Political Waters?" And that was a good example of how an executive might be able to just find a piece of content that would be useful to them. Because these are change management efforts, these are not simple things that we go through. And so to have content like that, I really appreciate the work that you do there. And also of course. You have the book, "Perspectives on Agility." You also mentioned SAFe a few times and SCRUM a few times. So if you’re interested in learning more about that, I’ll also provide some links on the podcast.
 
-Bill Raymond: So Hrishikesh’s LinkedIn, Medium, “Perspectives on Agility” book and SAFe and SCRUM resources will be in the agileinaction.com website. And you can also find that on the app that you’re listening to this podcast in right now. Thank you so much for your time Hrishikesh, I really appreciate it.
+Bill Raymond: So Hrishikesh’s LinkedIn, Medium, "Perspectives on Agility" book and SAFe and SCRUM resources will be in the agileinaction.com website. And you can also find that on the app that you’re listening to this podcast in right now. Thank you so much for your time Hrishikesh, I really appreciate it.
 
-Hrishikesh Kareka: Thank you for having me.</content>
+Hrishikesh Kareka: Thank you for having me.
+
+Outro: Thank you for listening to the Agile in Action Podcast with Bill Raymond. Subscribe now to stay current on the latest trends in team, organization, and agile techniques. Please take a moment to rate and comment to help us grow our community. This podcast is produced in affiliation with Canas LLC and our executive producer is Ri Yama Daon.
+
+Outro: If there is a topic you would like Bill to cover, contact him via the https://agileinaction.com.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/11/08/the-critical-role-of-leadership-and-change-management-with-agile-transformations.html"/>
         <summary>Podcast details go here…</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
