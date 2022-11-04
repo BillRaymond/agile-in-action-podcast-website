@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 04 Nov 2022 18:06:50 +0000</pubDate>
-        <lastBuildDate>Fri, 04 Nov 2022 18:06:50 +0000</lastBuildDate>
+        <pubDate>Fri, 04 Nov 2022 19:11:57 +0000</pubDate>
+        <lastBuildDate>Fri, 04 Nov 2022 19:11:57 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>The critical role of leadership and change management with agile transformations</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/08/the-critical-role-of-leadership-and-change-management-with-agile-transformations.html</link>
-            <description>Podcast details go here…</description>
+            <description>When someone says they are amidst a 200,000-person agile transformation effort, you ask for their advice, so we did!</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
