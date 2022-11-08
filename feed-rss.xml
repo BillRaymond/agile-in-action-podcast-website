@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 08 Nov 2022 07:39:42 +0000</pubDate>
-        <lastBuildDate>Tue, 08 Nov 2022 07:39:42 +0000</lastBuildDate>
+        <pubDate>Tue, 08 Nov 2022 17:59:03 +0000</pubDate>
+        <lastBuildDate>Tue, 08 Nov 2022 17:59:03 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>How a Scrum Master can successfully transition into the role in a new company</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html</link>
+            <description>Content goes here</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html</guid>
+            <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>The critical role of leadership and change management with agile transformations</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/08/the-critical-role-of-leadership-and-change-management-with-agile-transformations.html</link>
             <description>When someone says they are amidst a 200,000-person agile transformation effort, you ask for their advice, so we did!</description>
@@ -307,20 +321,6 @@ In celebration of US Labor Day, we are taking the week off. We thought it would 
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>How team self-selection helps people excel</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/03/22/how-team-self-selection-helps-people-excel.html</link>
-            <description>In today’s Agile in Action podcast, Bill Raymond talks with Sandy Mamoli and David Mole about helping people excel through the process of team self-selection.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/03/22/how-team-self-selection-helps-people-excel.html</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>

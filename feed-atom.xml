@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-11-08T07:39:42+00:00</updated>
+    <updated>2022-11-08T17:59:03+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -26,6 +26,30 @@
     <rights>&#xA9; Cambermast LLC</rights>
     <subtitle>Cambermast is a consulting firm with a focus on guiding you through agile transformation. In the Agile in Action podcast, veteran host Bill Raymond talks to leaders to learn how they are transforming their businesses using agile.</subtitle>
     <!-- Entries --><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html</id>
+        <title>How a Scrum Master can successfully transition into the role in a new company</title>
+        <updated>2022-11-15T00:00:00+00:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>Content goes here
+
+Transcript
+(transcripts are auto-generated, so please excuse the brevity)</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html"/>
+        <summary>Content goes here</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-11-15T00:00:00+00:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
         <id>https://www.agileinaction.com/agile-in-action-podcast/2022/11/08/the-critical-role-of-leadership-and-change-management-with-agile-transformations.html</id>
         <title>The critical role of leadership and change management with agile transformations</title>
         <updated>2022-11-08T00:00:00+00:00</updated>
@@ -2787,27 +2811,6 @@ Christina will also talk frequently about OKRs – or objectives and key results
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2022-03-29T00:00:00+00:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/03/22/how-team-self-selection-helps-people-excel.html</id>
-        <title>How team self-selection helps people excel</title>
-        <updated>2022-03-22T00:00:00+00:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>In today’s Agile in Action podcast, Bill Raymond talks with Sandy Mamoli and David Mole about helping people excel through the process of team self-selection.</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/22/how-team-self-selection-helps-people-excel.html"/>
-        <summary>In today’s Agile in Action podcast, Bill Raymond talks with Sandy Mamoli and David Mole about helping people excel through the process of team self-selection.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2022-03-22T00:00:00+00:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
