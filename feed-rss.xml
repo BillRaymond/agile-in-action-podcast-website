@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Wed, 09 Nov 2022 07:42:42 +0000</pubDate>
-        <lastBuildDate>Wed, 09 Nov 2022 07:42:42 +0000</lastBuildDate>
+        <pubDate>Wed, 09 Nov 2022 21:26:33 +0000</pubDate>
+        <lastBuildDate>Wed, 09 Nov 2022 21:26:33 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Starting in a new company as a Scrum Master</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/starting-in-a-new-company-as-a-scrum-master.html</link>
+            <description>Starting a new company as a Scrum Master, Aysegul encountered obstacles that you may also encounter.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/starting-in-a-new-company-as-a-scrum-master.html</guid>
+            <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>How a Scrum Master can successfully transition into the role in a new company</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html</link>
             <description>Content goes here</description>
@@ -307,20 +321,6 @@ In celebration of US Labor Day, we are taking the week off. We thought it would 
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Introducing Objectives and Key Results (OKRs)</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</link>
-            <description>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
