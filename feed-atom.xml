@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-11-09T21:26:33+00:00</updated>
+    <updated>2022-11-09T23:05:50+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -255,30 +255,6 @@ Thank you for listening to the Agile in Action Podcast with Bill Raymond. Subscr
 If there is a topic you would like Bill to cover, contact him directly at bill.Raymond@agileandaction.com.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/starting-in-a-new-company-as-a-scrum-master.html"/>
         <summary>Starting a new company as a Scrum Master, Aysegul encountered obstacles that you may also encounter.</summary>
-        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
-        <category term="agile-in-action-podcast" />
-        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
-        <contributor>
-            <name>Bill Raymond</name>
-        </contributor>
-        <!-- there is no published date, so just use the default post date. -->
-        <published>2022-11-15T00:00:00+00:00</published>
-        <!-- there are no rights for a post by default, so use the default for the site. -->
-        <rights>&#xA9; Cambermast LLC</rights>
-        <!-- If you have a <source>, add it below. -->
-    </entry><entry>
-        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html</id>
-        <title>How a Scrum Master can successfully transition into the role in a new company</title>
-        <updated>2022-11-15T00:00:00+00:00</updated>
-        <author>
-            <name>Bill Raymond</name>
-        </author>
-        <content>Content goes here
-
-Transcript
-(transcripts are auto-generated, so please excuse the brevity)</content>
-        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/11/15/how-a-scrum-master-can-successfully-transition-into-the-role-in-a-new-company.html"/>
-        <summary>Content goes here</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
@@ -3031,6 +3007,27 @@ Christina will also talk frequently about OKRs – or objectives and key results
         </contributor>
         <!-- there is no published date, so just use the default post date. -->
         <published>2022-04-05T00:00:00+00:00</published>
+        <!-- there are no rights for a post by default, so use the default for the site. -->
+        <rights>&#xA9; Cambermast LLC</rights>
+        <!-- If you have a <source>, add it below. -->
+    </entry><entry>
+        <id>https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html</id>
+        <title>Introducing Objectives and Key Results (OKRs)</title>
+        <updated>2022-03-29T00:00:00+00:00</updated>
+        <author>
+            <name>Bill Raymond</name>
+        </author>
+        <content>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</content>
+        <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/03/29/introducing-objectives-and-key-results-okrs.html"/>
+        <summary>In today’s podcast, Jeff Gothelf shares the importance of Objectives and Key Results (or OKRs). Jeff shares the proper way to define OKRs, sharing relatable stories that help you think through how to use them effectively.</summary>
+        <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
+        <category term="agile-in-action-podcast" />
+        <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
+        <contributor>
+            <name>Bill Raymond</name>
+        </contributor>
+        <!-- there is no published date, so just use the default post date. -->
+        <published>2022-03-29T00:00:00+00:00</published>
         <!-- there are no rights for a post by default, so use the default for the site. -->
         <rights>&#xA9; Cambermast LLC</rights>
         <!-- If you have a <source>, add it below. -->
