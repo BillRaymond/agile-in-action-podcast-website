@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 22 Nov 2022 19:19:05 +0000</pubDate>
-        <lastBuildDate>Tue, 22 Nov 2022 19:19:05 +0000</lastBuildDate>
+        <pubDate>Tue, 22 Nov 2022 19:30:00 +0000</pubDate>
+        <lastBuildDate>Tue, 22 Nov 2022 19:30:00 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,7 +39,7 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
-            <title>Update for November 2002</title>
+            <title>Update for November 2022</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/22/update-for-november-2002.html</link>
             <description>We are taking the remainder of November off for the holidays and will return Tuesday, December 6, 2022.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
