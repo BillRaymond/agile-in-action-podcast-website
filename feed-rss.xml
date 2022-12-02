@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Thu, 01 Dec 2022 07:36:30 +0000</pubDate>
-        <lastBuildDate>Thu, 01 Dec 2022 07:36:30 +0000</lastBuildDate>
+        <pubDate>Fri, 02 Dec 2022 00:54:00 +0000</pubDate>
+        <lastBuildDate>Fri, 02 Dec 2022 00:54:00 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>The Importance of psychological safety in the workplace</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/12/06/the-importance-of-psychological-safety-in-the-workplace.html</link>
+            <description>Description goes here</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/12/06/the-importance-of-psychological-safety-in-the-workplace.html</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Update for November 2022</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/11/22/update-for-november-2002.html</link>
             <description>We are taking the remainder of November off for the holidays and will return Tuesday, December 6, 2022.</description>
@@ -307,20 +321,6 @@ In celebration of US Labor Day, we are taking the week off. We thought it would 
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/05/05/the-art-and-science-of-facilitation.html</guid>
             <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Risk-driven security in agile software development</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</link>
-            <description>Dan Ionita, a Researcher with a Ph.D. in risk assessment, shares a model for integrated security into modern agile software management teams. Dan shares case studies and practical guidance for assessing and prioritizing security needs in your organization’s culture. More importantly, Dan shares why organizations must incorporate security into their culture.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/04/05/risk-driven-security-in-agile-software-development.html</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
