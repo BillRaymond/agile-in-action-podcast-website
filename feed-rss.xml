@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 02 Dec 2022 22:15:44 +0000</pubDate>
-        <lastBuildDate>Fri, 02 Dec 2022 22:15:44 +0000</lastBuildDate>
+        <pubDate>Sat, 03 Dec 2022 00:14:00 +0000</pubDate>
+        <lastBuildDate>Sat, 03 Dec 2022 00:14:00 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>The Importance of psychological safety in the workplace</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/12/06/the-importance-of-psychological-safety-in-the-workplace.html</link>
-            <description>Description goes here</description>
+            <description>How do teams deliver their best?</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
