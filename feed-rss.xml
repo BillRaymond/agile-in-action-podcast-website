@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 06 Dec 2022 20:32:38 +0000</pubDate>
-        <lastBuildDate>Tue, 06 Dec 2022 20:32:38 +0000</lastBuildDate>
+        <pubDate>Tue, 06 Dec 2022 20:41:05 +0000</pubDate>
+        <lastBuildDate>Tue, 06 Dec 2022 20:41:05 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -55,17 +55,7 @@
         </item><item>
             <title>The Importance of psychological safety in the workplace</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/12/06/the-importance-of-psychological-safety-in-the-workplace.html</link>
-            <description>How will your organization succeed, especially in these uncertain times? Richard McLean, Senior Product Director at Elsevier, believes workplace psychological safety is critical to success ⤵️
-
-In the podcast, Richard and Bill Raymond share stories and real-world examples to help you learn the importance of psychological safety in the workplace. Here are the topics they cover:
-
-✅ Defining workplace psychological safety
-✅ The benefits of psychological safety
-✅ The importance of a diversity of viewpoints
-✅ How leaders can improve psychological safety in the workplace
-✅ How teams and individuals can improve their communication for improved team dynamics
-✅ How organizations can measure psychological safety in the workplace
-✅ Leadership Guidance</description>
+            <description>How will your organization succeed, especially in these uncertain times?</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>

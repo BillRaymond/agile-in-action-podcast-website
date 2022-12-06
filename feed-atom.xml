@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-12-06T20:32:38+00:00</updated>
+    <updated>2022-12-06T20:41:05+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -305,7 +305,9 @@ Martin Lohmann: Thank you, Bill, for having us.</content>
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>How will your organization succeed, especially in these uncertain times? Richard McLean, Senior Product Director at Elsevier, believes workplace psychological safety is critical to success ⤵️
+        <content>How will your organization succeed, especially in these uncertain times?
+
+Richard McLean, Senior Product Director at Elsevier, believes workplace psychological safety is critical to success ⤵️
 
 In the podcast, Richard and Bill Raymond share stories and real-world examples to help you learn the importance of psychological safety in the workplace. Here are the topics they cover:
 
@@ -593,17 +595,7 @@ Bill Raymond: Richard, it was great talking to you today. Thank you so much.
 
 Richard McLean: Thank you, bill!</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/12/06/the-importance-of-psychological-safety-in-the-workplace.html"/>
-        <summary>How will your organization succeed, especially in these uncertain times? Richard McLean, Senior Product Director at Elsevier, believes workplace psychological safety is critical to success ⤵️
-
-In the podcast, Richard and Bill Raymond share stories and real-world examples to help you learn the importance of psychological safety in the workplace. Here are the topics they cover:
-
-✅ Defining workplace psychological safety
-✅ The benefits of psychological safety
-✅ The importance of a diversity of viewpoints
-✅ How leaders can improve psychological safety in the workplace
-✅ How teams and individuals can improve their communication for improved team dynamics
-✅ How organizations can measure psychological safety in the workplace
-✅ Leadership Guidance</summary>
+        <summary>How will your organization succeed, especially in these uncertain times?</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->
