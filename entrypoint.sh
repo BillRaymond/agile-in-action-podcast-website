@@ -50,11 +50,16 @@ sh -c "chmod 777 $env_workspace_directory/*"
 sh -c "chmod 777 $env_workspace_directory/.*"
 
 echo "#################################################"
+echo "Experimental Ruby 3.1 YJIT feature to improve liquid template rendering"
+
+export RUBYOPT="--enable=yjit"
+
+echo "#################################################"
 echo "Starting the Jekyll Action"
 
 sh -c "bundle install"
 sh -c "bundle update"
-sh -c "jekyll build --future"
+sh -c "bundle exec jekyll build --future"
 
 cp -f $env_workspace_directory/_site/share-card-creator/shell.sh $SCRIPTS_DIR
 sh -c "chmod +x $SCRIPTS_DIR/$SHELL_FILE"
@@ -112,7 +117,7 @@ sh -c "chmod 777 $env_workspace_directory/.*"
 
 echo "#################################################"
 echo "Starting the Jekyll Action a second time"
-sh -c "jekyll build --future"
+sh -c "bundle exec jekyll build --future"
 
 echo "#################################################"
 echo "Second Jekyll build done"
