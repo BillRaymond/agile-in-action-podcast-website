@@ -8,7 +8,7 @@
     <!-- Required -->
     <id>https://cambermast.com/</id>
     <title>Cambermast LLC and Agile in Action</title>
-    <updated>2022-12-08T18:19:03+00:00</updated>
+    <updated>2022-12-08T19:59:09+00:00</updated>
     <!-- Recommended -->
     <author>
         <name>Bill Raymond</name>
@@ -32,9 +32,28 @@
         <author>
             <name>Bill Raymond</name>
         </author>
-        <content>Introductory text goes here
+        <content>How do agile teams align with corporate strategy, plan future resources, and support individual career growth? Martin Lohmann and Ender Yükseł have a proposal.
+
+For our last podcast in 2022, we are excited to share an idea for a Development Manager that Ender and Martin defined at SimCorp. Martin Lohmann, who has moved on to a newer role at ALM. Brand is watching in real-time as the organization brings on a similar Development Manager role, albeit with a slightly different name.
+
+Ender, Martin, and Bill Raymond share stories related to the development manager role, including:
+
+✅ Typical management challenges within Scrum teams
+
+✅ The role of the Scrum Master
+
+✅ The role of the Development Manager
+
+✅ How the Scrum Master and Development Manager support team success
+
+✅ Strategies to improve Scrum team success
+
+📝 This podcast is based on the work Ender and Martin developed for SimCorp and published on the Agile Alliance site:
+
+https://www.agilealliance.org/resources/experience-reports/development-manager-a-scrum-masters-best-friend/
 
 Transcript
+
 (transcripts are auto-generated, so please excuse the brevity
 
 Clip from the podcast
@@ -62,7 +81,7 @@ One of the things that we really try to focus here on the podcast is taking a lo
 
 The article
 
-Bill Raymond: And this one really stood out for us because you both wrote an article and we found it on the Agile Alliance, and we’ll provide a link to that in the show notes for the podcast. And it’s titled, "The Development Manager: A SCRUM Master’s Best Friend." And we read it with great interest because one of the challenges that organizations have, and I know you’re going to talk about this in the podcast, is we go and we say, we’re going to do agility. And then we maybe take some sort of a framework like SCRUM or you know, pick a framework. And it says, here is how you should work together. And so you define how you’re going to work together and how you’re going to do things like sprints and things like that. But what we don’t get into is how you actually organize yourselves. And it might be very different than what it looked like before and roles might change.
+Bill Raymond: And this one really stood out for us because you both wrote an article and we found it on the Agile Alliance, and we’ll provide a link to that in the show notes for the podcast. And it’s titled, “The Development Manager: A SCRUM Master’s Best Friend.” And we read it with great interest because one of the challenges that organizations have, and I know you’re going to talk about this in the podcast, is we go and we say, we’re going to do agility. And then we maybe take some sort of a framework like SCRUM or you know, pick a framework. And it says, here is how you should work together. And so you define how you’re going to work together and how you’re going to do things like sprints and things like that. But what we don’t get into is how you actually organize yourselves. And it might be very different than what it looked like before and roles might change.
 
 Bill Raymond: And this is what we’re excited about because you talked about the management role, because I think a lot of leaders and managers start to wonder, where do we fit when we start implementing these frameworks?
 
@@ -160,7 +179,7 @@ Learning
 
 Ender Yuksel: And then comes the learning side. But I actually need to add that the development manager is actually line manager for a whole SCRUM team together with product owner, SCRUM master and developers. And then if there are also other roles, like technical writer and user experience specialists, also them. But it is sort of utopic and unrealistic to expect that a development manager can help all of these different roles in their growth. Because in the traditional teams, let’s say if it was a team full of developers or full of testers, then probably the traditional manager was a former tester or a former developer who could very well help with the growth and career planning of the employees.
 
-Ender Yuksel: So now in SCRUM team, there are three different roles, three different responsibilities, therefore we also worked on a set up of learning organization. And learning organization is not something we invented. The term is coined by, I believe, Peter Senge and his book, "The Fifth Discipline" was a big inspiration for us.
+Ender Yuksel: So now in SCRUM team, there are three different roles, three different responsibilities, therefore we also worked on a set up of learning organization. And learning organization is not something we invented. The term is coined by, I believe, Peter Senge and his book, “The Fifth Discipline” was a big inspiration for us.
 
 Ender Yuksel: So basically, we would like all of us to be able to acquire new knowledge, new skills all the time, so that we continue to be competitive and innovative. And so, all of us also worked in certain learning areas. So for example, if I have a product owner that I want to help, but I haven’t worked as a product owner in the past, so what I’m doing, I’m talking to product management learning area and they help me and my product owner with the professional development.
 
@@ -230,7 +249,7 @@ How the Development Manager and SCRUM Master Work Together
 
 Bill Raymond: And so can you talk a little bit about how the development manager and the SCRUM master role work together?
 
-Martin Lohmann: Yeah, and also maybe I should go back to the title of our article, "A SCRUM Master’s Best Friend." And I think we added that to be a little provocative because I think, when I’ve been talking to SCRUM master, I think most SCRUM masters have an inherent skepticism towards managers. And I think also from my own experience, if you’re working in an organization where managers to not have an agile mindset, you would like to get them as far away as possible.
+Martin Lohmann: Yeah, and also maybe I should go back to the title of our article, “A SCRUM Master’s Best Friend.” And I think we added that to be a little provocative because I think, when I’ve been talking to SCRUM master, I think most SCRUM masters have an inherent skepticism towards managers. And I think also from my own experience, if you’re working in an organization where managers to not have an agile mindset, you would like to get them as far away as possible.
 
 Martin Lohmann: So the idea here actually to turn the thing around, that a manager can also be your best friend as a SCRUM master. And I see these roles as complimenting each other. Because as Ender mentioned before, some organizations, they choose to have the SCRUM master as the people manager, but that kind of tilts the balance because you will liken SCRUM that the three roles, product owner, developer, and SCRUM master, they are equal.
 
@@ -278,7 +297,7 @@ Bill Raymond: Right And Martin, yourself?
 
 Martin Lohmann: Yeah, the same for me. Please reach out on LinkedIn.
 
-Bill Raymond: Wonderful. if you’re listening to this right now in a podcast app, just scroll down to the bottom, to the show notes, and you will see those links there. I also noticed through the conversation, you mentioned a book called, "The Learning Organization," so I’ll make sure that I provide a link to that there.
+Bill Raymond: Wonderful. if you’re listening to this right now in a podcast app, just scroll down to the bottom, to the show notes, and you will see those links there. I also noticed through the conversation, you mentioned a book called, “The Learning Organization,” so I’ll make sure that I provide a link to that there.
 
 Bill Raymond: And at the beginning of this conversation, Ender, you mentioned that we need to create space for the team to thrive. And we just had a fabulous conversation with Lyssa Adkins on the podcast, it’s fairly recent one. You can just go ahead to the agileinaction.com website, and you can search for how executive leaders create the space for agile to flourish. And I think that will provide you some context there as well.
 
@@ -288,7 +307,7 @@ Ender Yuksel: Thank you for having us.
 
 Martin Lohmann: Thank you, Bill, for having us.</content>
         <link href="https://www.agileinaction.com/agile-in-action-podcast/2022/12/13/introducing-the-development-manager-a-scrum-master-s-best-friend.html"/>
-        <summary>Introductory text goes here</summary>
+        <summary>How do agile teams align with corporate strategy, plan future resources, and support individual career growth? Martin Lohmann and Ender Yükseł have a proposal.</summary>
         <!-- a single category like "Jekyll Update" is actually two categories. Right now, taking the first word. -->
         <category term="agile-in-action-podcast" />
         <!-- there is no post.contribur(s) by default, so just show the author. If you add that, modify the code. -->

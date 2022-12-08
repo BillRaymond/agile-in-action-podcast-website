@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Thu, 08 Dec 2022 18:19:03 +0000</pubDate>
-        <lastBuildDate>Thu, 08 Dec 2022 18:19:03 +0000</lastBuildDate>
+        <pubDate>Thu, 08 Dec 2022 19:59:09 +0000</pubDate>
+        <lastBuildDate>Thu, 08 Dec 2022 19:59:09 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -41,7 +41,7 @@
         <!-- item elements --><item>
             <title>Introducing the Development Manager: A Scrum Master's best friend</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/12/13/introducing-the-development-manager-a-scrum-master-s-best-friend.html</link>
-            <description>Introductory text goes here</description>
+            <description>How do agile teams align with corporate strategy, plan future resources, and support individual career growth? Martin Lohmann and Ender Yükseł have a proposal.</description>
             <author>info@cambermast.com (Bill Raymond))</author>
             <!-- Use the first word in the yml categories or the default category -->
             <category>agile-in-action-podcast</category>
