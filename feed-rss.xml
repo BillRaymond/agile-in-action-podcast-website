@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Tue, 20 Dec 2022 00:00:43 +0000</pubDate>
-        <lastBuildDate>Tue, 20 Dec 2022 00:00:43 +0000</lastBuildDate>
+        <pubDate>Tue, 20 Dec 2022 00:09:17 +0000</pubDate>
+        <lastBuildDate>Tue, 20 Dec 2022 00:09:17 +0000</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Rebroadcast: Introducing Objectives and Key Results (OKRs)</title>
+            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/12/20/rebroadcast-introducing-objectives-and-key-results-okrs.html</link>
+            <description>We are excited to announce that the most listened-to podcast for 2022 was our interview with Jeff Gothelf on the topic of Objectives and Key Results (or OKRs). We are excited to share this rebroadcast to celebrate that milestone and introduce our new listeners to the topic!</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/12/20/rebroadcast-introducing-objectives-and-key-results-okrs.html</guid>
+            <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Introducing the Development Manager: A Scrum Master's best friend</title>
             <link>https://www.agileinaction.com/agile-in-action-podcast/2022/12/13/introducing-the-development-manager-a-scrum-master-s-best-friend.html</link>
             <description>How do agile teams align with corporate strategy, plan future resources, and support individual career growth? Martin Lohmann and Ender Yükseł have a proposal.</description>
@@ -307,20 +321,6 @@ In celebration of US Labor Day, we are taking the week off. We thought it would 
             <!-- <enclosure /> -->
             <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/05/17/successful-globally-distributed-teams.html</guid>
             <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-            <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Outcome-driven design and team behaviors</title>
-            <link>https://www.agileinaction.com/agile-in-action-podcast/2022/05/09/outcome-driven-design-and-team-behaviors.html</link>
-            <description>Josh Seiden is an acclaimed author in the lean and agile space, focusing on product design. Today, Josh shares how outcome-driven design can change human behavior, translating into improved customer value.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>https://www.agileinaction.com/agile-in-action-podcast/2022/05/09/outcome-driven-design-and-team-behaviors.html</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
             <source url="https://www.agileinaction.com/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
