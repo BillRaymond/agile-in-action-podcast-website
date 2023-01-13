@@ -1,0 +1,1579 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Agile in Action with Bill Raymond Podcast</title>
+  <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@billraymonde" />
+    <meta name="twitter:title" content="">
+    <meta name="twitter:image" content="https://billraymond.github.io/agile-in-action-minima-website/uploads/index.png">
+    <meta property="og:image" content="https://billraymond.github.io/agile-in-action-minima-website/uploads/index.png">
+    <meta property="og:description" content=""/>
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="675">
+  <link rel="icon" href="/agile-in-action-minima-website/assets/agile-in-action-logos/agile-in-action-favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/agile-in-action-minima-website/assets/main.css">
+</head>
+<body><header class="site-header" role="banner">
+  <div class="wrapper"><a class="site-banner" rel="author" href="/agile-in-action-minima-website/" alt="The Agile in Action with Bill Raymond Podcast">
+      <img src="/agile-in-action-minima-website/assets/agile-in-action-logos/agile-in-action-large-horizontal.png" alt="The Agile in Action Podcast with Bill Raymond logo">
+    </a>
+
+    
+      <nav>
+        <ul><li><a class="page-link" href="/agile-in-action-minima-website/index">Home</a></li><li><a class="page-link" href="/agile-in-action-minima-website/learn-more">Learn More</a></li><li><a class="page-link" href="/agile-in-action-minima-website/sponsors">Sponsors</a></li></ul>
+      </nav>
+  </div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header"><h1 class="post-title"></h1></header>
+
+  <div class="post-content">
+    <h2 id="create-featured-images">Create featured images</h2>
+
+<p>The code contained in this folder will read guest images and perform various steps to create a featured image</p>
+
+<h2 id="todo">TODO:</h2>
+<ul>
+  <li>Only update latest podcasts with switch to do all</li>
+</ul>
+
+<h2 id="dependencies">Dependencies</h2>
+<ul>
+  <li>/_data/wf-data-fi.yaml</li>
+  <li>Imagemagick (should be in the dockerfile)</li>
+  <li>ProximaNovaA-Bold.ttf (font)</li>
+  <li>Jekyll 4.x (untested with 3.x, but could work)</li>
+</ul>
+
+<h2 id="open-the-script-for-testing">Open the script for testing</h2>
+<p><a href="/agile-in-action-minima-website/wf-01-create-fi/create-featured-image.sh" target="blank">Open…</a></p>
+
+<h2 id="code-sample">Code sample</h2>
+<p>The following code may change, but the general idea is to use Imagemagic to resize, crop, border, and shadow guest images</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># note: make sure to run chmod +x script-name in the final solution.sh
+
+# The following code is for four guests. The code will adjust for one, two, three, or four (no more than 4)
+magick convert fi-template.png `# load template background image`\
+    \( face.png -resize 282x282 -set page +256+205 \) \
+    -layers flatten `# merge the template, play, and guests layers`\
+    -font './share-card-creator/fonts/ProximaNovaA-Bold.ttf' `# load the font`\
+    -fill '#f49f1c' -background none `# The podcast title dos not have a background`\
+    -size 580x40 caption:'PODCAST' `# Add the word PODCAST to the template`\
+    -geometry +550+46 `# Set the x and y position for the PODCAST text`\
+    -composite `# Add text to the image`\
+    -fill white -background none `# The title for the podcast does not have a background`\
+    -size 580x340 caption:'Outcome-driven design and team behaviors' `# Podcast title as it appears on the website`\
+    -geometry +550+96 `# Set the x and y location for the podcast title`\
+    -composite `# Add the podcast's title to the image`\
+    -fill white -background none `# the guest names do not have a background`\
+    -size 405x195 caption:'with A Cool Person and Another Cool Person' `# List the guest names for the podcast`\
+    -geometry +550+446 `# Set the x and y position of the guest names`\
+    -composite `# Add guest names to the image`\
+    +write sc-no-play.png \
+    -page +972+448 fi-play-icon.png `# load play icon image`\
+    -layers flatten \
+    fi-play-icon.png
+</code></pre></div></div>
+
+<h2 id="specs-for-guests">Specs for GUESTS</h2>
+<h3 id="1-up">1-UP</h3>
+<ul>
+  <li>Size: 282x282</li>
+  <li>Position: 256x205</li>
+</ul>
+
+<h3 id="2-up">2-UP</h3>
+<ul>
+  <li>Size: 282x282</li>
+  <li>Position: 256x37</li>
+  <li>Position: 256x375</li>
+</ul>
+
+<h3 id="3-up">3-UP</h3>
+<ul>
+  <li>Size: 200x200</li>
+  <li>Position: 295x41</li>
+  <li>Position: 295x246</li>
+  <li>Position: 295x451</li>
+</ul>
+
+<h3 id="4-up">4-UP</h3>
+<ul>
+  <li>Size: 150x150</li>
+  <li>Position: 315x41</li>
+  <li>Position: 315x193</li>
+  <li>Position: 315x346</li>
+  <li>Position: 315x497</li>
+</ul>
+
+<h2 id="code-to-get-guest-image-size-and-placement">Code to get guest image size and placement</h2>
+<p>Get the values for the image from a data file</p>
+
+<p>Number of guests: 3</p>
+
+<p>Guest index: 3</p>
+
+<p>ValueIndex: 0</p>
+
+<p>Value to get:</p>
+
+<h3 id="text">Text</h3>
+<ul>
+  <li>PODCAST: size: 580x40 position: +550+46</li>
+  <li>Title: size: 580x340 position: +550+96</li>
+  <li>Guest names: 405x195 position: +550+446</li>
+</ul>
+
+<h2 id="testing-code">Testing code</h2>
+<p>This section creates the variables to use depending on the number of guests and guest titles</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Title: Rebroadcast: Introducing Objectives and Key Results (OKRs)
+
+
+
+
+
+Title: Introducing the Development Manager: A Scrum Master's best friend
+
+
+
+
+
+Title: The Importance of psychological safety in the workplace
+
+
+
+
+
+Title: Update for November 2022
+
+
+
+
+
+Title: Update for November 2022
+
+
+
+
+
+Title: Starting in a new company as a Scrum Master
+
+
+
+
+
+Title: The critical role of leadership and change management with agile transformations
+
+
+
+
+
+Title: November 1, 2022 Update
+
+
+
+
+
+Title: What makes SCRUM work when done correctly
+
+
+
+
+
+Title: Introducing the Seasons of SCRUM
+
+
+
+
+
+Title: Leading change with GRIT and communicating with integrity
+
+
+
+
+
+Title: Editor's Pick! Embracing a remote work culture
+
+
+
+
+
+Title: Dealing with change while operating at the speed of light
+
+
+
+
+
+Title: The 2-year anniversary Agile in Action podcast retrospective
+
+
+
+
+
+Title: Quality agile delivery with external stakeholders
+
+
+
+
+
+Title: How executive leaders create the space for agile to flourish
+
+
+
+
+
+Title: Exciting Agile in Action podcast news
+
+
+
+
+
+Title: What it means to become nimble
+
+
+
+
+
+Title: Building a culture of psychological safety
+
+
+
+
+
+Title: Successful globally distributed teams
+
+
+
+
+
+Title: Outcome-driven design and team behaviors
+
+
+
+
+
+Title: The Art and Science of Facilitation
+
+
+
+
+
+Title: Risk-driven security in agile software development
+
+
+
+
+
+Title: Introducing Objectives and Key Results (OKRs)
+
+
+
+
+
+Title: How team self-selection helps people excel
+
+
+
+
+
+Title: The planet is also the customer: Agile and sustainability
+
+
+
+
+
+Title: Avoid being your own worst enemy
+
+
+
+
+
+Title: From product owner to experience owner
+
+
+
+
+
+Title: Are roadmaps causing feature factories? 
+
+
+
+
+
+Title: An agile approach to Knowledge Services
+
+
+
+
+
+Title: Introducing organizational agility
+
+
+
+
+
+Title: From project to product: refocusing your organization and culture
+
+
+
+
+
+Title: Setting and achieving corporate objectives (OKRs)
+
+
+
+
+
+Title: Dealing with Ambiguity in the workplace
+
+
+
+
+
+Title: Introducing Agile for Research and Development
+
+
+
+
+
+Title: Agile in policy development
+
+
+
+
+
+Title: Building a product culture and operating model
+
+
+
+
+
+Title: Agile estimating and planning 
+
+
+
+
+
+Title: An introduction to agile team planning and velocity
+
+
+
+
+
+Title: Introducing the Art of Agile Development, 2nd Edition
+
+
+
+
+
+Title: Let's talk about SAFe
+
+
+
+
+
+Title: From complicated chaos to value and velocity with flow engineering and value stream mapping
+
+
+
+
+
+Title: Improve team morale and performance by addressing technical debt
+
+
+
+
+
+Title: PLM, agile, and the Openness Certification
+
+
+
+
+
+Title: Defining and aligning product strategies
+
+
+
+
+
+Title: Introducing a proposal for a product manifesto
+
+
+
+
+
+Title: Introducing Agile for Marketing
+
+
+
+
+
+Title: Introducing ADAPT, a book for digital transformation
+
+
+
+
+
+Title: Introducing the Modified Agile for Hardware Development Framework
+
+
+
+
+
+Title: Introducing Agile for Finance 
+
+
+
+
+
+Title: Getting in the agile zone with the fluency model
+
+
+
+
+
+Title: Agility, frameworks, and gaining a competitive advantage 
+
+
+
+
+
+Title: Agile in Agriculture at Dropcopter
+
+
+
+
+
+Title: A day in the life of a Product Manager
+
+
+
+
+
+Title: Seeing the big picture with adaptive agile
+
+
+
+
+
+Title: Redefining leadership in an agile world 
+
+
+
+
+
+Title: The power of an agile operating model in the manufacturing supply chain 
+
+
+
+
+
+Title: Taking flight with agile
+
+
+
+
+
+Title: A day in the life of a SCRUM Master 
+
+
+
+
+
+Title: Adapting agile to human resources 
+
+
+
+
+
+Title: There is no matrix
+
+
+
+
+
+Title: Building new teams one sticky paper at a time
+
+
+
+
+
+Title: Leading high performing teams 
+
+
+
+
+
+Title: Avoiding the six most common agile sprint planning mistakes
+
+
+
+
+
+Title: A day in the life of an agile team Product Owner
+
+
+
+
+
+Title: Measuring enterprise agile maturity and success 
+
+
+
+
+
+Title: Teaming with the opensource community
+
+
+
+
+
+Title: Thriving in the workplace 
+
+
+
+
+
+Title: Untapped Agility
+
+
+
+
+
+Title: Transform Your Conversations, Transform Your Culture
+
+
+
+
+
+Title: Taking agile from concept to practice 
+
+
+
+
+
+Title: Rapid change management
+
+
+
+
+
+Title: Team effectiveness using standardized tools
+
+
+
+
+
+Title: Agile learning paths
+
+
+
+
+
+Title: Embracing a remote work culture 
+
+
+
+
+
+Title: Agile for the enterprise 
+
+
+
+
+
+Title: Strategic planning in an agile organization
+
+
+
+
+
+Title: A fun and passionate conversation with the authors of Lean Software Development
+
+
+
+
+
+Title: Starting with agile on big bet projects
+
+
+
+
+
+Title: Team topologies and an obsession over a rapid flow of change
+</code></pre></div></div>
+
+<h2 id="test-code">Test code</h2>
+<p>This section can be used to debug locally before adjusting the shell script.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Title: Rebroadcast: Introducing Objectives and Key Results (OKRs)
+Size(new): 1
+First image: /uploads/jeff-gothelf.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/jeff-gothelf.jpeg
+    filename: jeff-gothelf.jpeg
+
+
+Title: Introducing the Development Manager: A Scrum Master's best friend
+Size(new): 4
+First image: /uploads/ender-yuksel.jpeg
+Second image: /uploads/martin-lohmann.jpeg
+Third image: /uploads/seasons-of-scrum-text.png
+Fourth image: /uploads/ad-spoke-and-wheel.png
+
+    guest-photo: /agile-in-action-minima-website/uploads/ender-yuksel.jpeg
+    filename: ender-yuksel.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/martin-lohmann.jpeg
+    filename: martin-lohmann.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/seasons-of-scrum-text.png
+    filename: seasons-of-scrum-text.png
+
+    guest-photo: /agile-in-action-minima-website/uploads/ad-spoke-and-wheel.png
+    filename: ad-spoke-and-wheel.png
+
+
+Title: The Importance of psychological safety in the workplace
+Size(new): 2
+First image: /uploads/richard-mclean.jpeg
+Second image: /uploads/ad-spoke-and-wheel.png
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/richard-mclean.jpeg
+    filename: richard-mclean.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/ad-spoke-and-wheel.png
+    filename: ad-spoke-and-wheel.png
+
+
+Title: Update for November 2022
+Size(new): 1
+First image: /uploads/holiday-dinner-v2.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/holiday-dinner-v2.png
+    filename: holiday-dinner-v2.png
+
+
+Title: Update for November 2022
+Size(new): 1
+First image: /uploads/holiday-dinner-v2.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/holiday-dinner-v2.png
+    filename: holiday-dinner-v2.png
+
+
+Title: Starting in a new company as a Scrum Master
+Size(new): 3
+First image: /uploads/aysegul-onal.jpeg
+Second image: /uploads/ad-spoke-and-wheel.png
+Third image: /uploads/seasons-of-scrum.png
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/aysegul-onal.jpeg
+    filename: aysegul-onal.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/ad-spoke-and-wheel.png
+    filename: ad-spoke-and-wheel.png
+
+    guest-photo: /agile-in-action-minima-website/uploads/seasons-of-scrum.png
+    filename: seasons-of-scrum.png
+
+
+Title: The critical role of leadership and change management with agile transformations
+Size(new): 2
+First image: /uploads/Hrishikesh-Karekar.jpeg
+Second image: /uploads/ad-spoke-and-wheel.png
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/Hrishikesh-Karekar.jpeg
+    filename: Hrishikesh-Karekar.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/ad-spoke-and-wheel.png
+    filename: ad-spoke-and-wheel.png
+
+
+Title: November 1, 2022 Update
+Size(new): 1
+First image: /uploads/fall-scenery.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/fall-scenery.png
+    filename: fall-scenery.png
+
+
+Title: What makes SCRUM work when done correctly
+Size(new): 3
+First image: /uploads/fred-fowler.jpeg
+Second image: /uploads/ad-spoke-and-wheel.png
+Third image: /uploads/seasons-of-scrum-text.png
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/fred-fowler.jpeg
+    filename: fred-fowler.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/ad-spoke-and-wheel.png
+    filename: ad-spoke-and-wheel.png
+
+    guest-photo: /agile-in-action-minima-website/uploads/seasons-of-scrum-text.png
+    filename: seasons-of-scrum-text.png
+
+
+Title: Introducing the Seasons of SCRUM
+Size(new): 1
+First image: /uploads/seasons-of-scrum.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/seasons-of-scrum.png
+    filename: seasons-of-scrum.png
+
+
+Title: Leading change with GRIT and communicating with integrity
+Size(new): 1
+First image: /uploads/laurie-sudbrink.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/laurie-sudbrink.jpeg
+    filename: laurie-sudbrink.jpeg
+
+
+Title: Editor's Pick! Embracing a remote work culture
+Size(new): 1
+First image: /uploads/sarah-shewell.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/sarah-shewell.jpg
+    filename: sarah-shewell.jpg
+
+
+Title: Dealing with change while operating at the speed of light
+Size(new): 1
+First image: /uploads/nate-greenberg.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/nate-greenberg.jpg
+    filename: nate-greenberg.jpg
+
+
+Title: The 2-year anniversary Agile in Action podcast retrospective
+Size(new): 1
+First image: /uploads/reama-dagasan.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/reama-dagasan.jpeg
+    filename: reama-dagasan.jpeg
+
+
+Title: Quality agile delivery with external stakeholders
+Size(new): 1
+First image: /uploads/mark-balbes.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/mark-balbes.jpeg
+    filename: mark-balbes.jpeg
+
+
+Title: How executive leaders create the space for agile to flourish
+Size(new): 1
+First image: /uploads/lyssa-adkins.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/lyssa-adkins.jpeg
+    filename: lyssa-adkins.jpeg
+
+
+Title: Exciting Agile in Action podcast news
+Size(new): 1
+First image: /uploads/balloons2.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/balloons2.png
+    filename: balloons2.png
+
+
+Title: What it means to become nimble
+Size(new): 1
+First image: /uploads/wodtke.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/wodtke.jpg
+    filename: wodtke.jpg
+
+
+Title: Building a culture of psychological safety
+Size(new): 1
+First image: /uploads/alla.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/alla.jpg
+    filename: alla.jpg
+
+
+Title: Successful globally distributed teams
+Size(new): 1
+First image: /uploads/kilby-photo.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/kilby-photo.jpg
+    filename: kilby-photo.jpg
+
+
+Title: Outcome-driven design and team behaviors
+Size(new): 1
+First image: /uploads/seiden-1.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/seiden-1.jpg
+    filename: seiden-1.jpg
+
+
+Title: The Art and Science of Facilitation
+Size(new): 1
+First image: /uploads/marsha-acker.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/marsha-acker.png
+    filename: marsha-acker.png
+
+
+Title: Risk-driven security in agile software development
+Size(new): 1
+First image: /uploads/ionitia.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/ionitia.jpg
+    filename: ionitia.jpg
+
+
+Title: Introducing Objectives and Key Results (OKRs)
+Size(new): 1
+First image: /uploads/gothelf-square.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/gothelf-square.png
+    filename: gothelf-square.png
+
+
+Title: How team self-selection helps people excel
+Size(new): 2
+First image: /uploads/sandy-mamoli.jpeg
+Second image: /uploads/david-mole.jpeg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/sandy-mamoli.jpeg
+    filename: sandy-mamoli.jpeg
+
+    guest-photo: /agile-in-action-minima-website/uploads/david-mole.jpeg
+    filename: david-mole.jpeg
+
+
+Title: The planet is also the customer: Agile and sustainability
+Size(new): 1
+First image: /uploads/jutta.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/jutta.jpg
+    filename: jutta.jpg
+
+
+Title: Avoid being your own worst enemy
+Size(new): 1
+First image: /uploads/becky.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/becky.png
+    filename: becky.png
+
+
+Title: From product owner to experience owner
+Size(new): 1
+First image: /uploads/jurgen-appelo.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/jurgen-appelo.jpeg
+    filename: jurgen-appelo.jpeg
+
+
+Title: Are roadmaps causing feature factories? 
+Size(new): 1
+First image: /uploads/ryan-dawson.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/ryan-dawson.jpg
+    filename: ryan-dawson.jpg
+
+
+Title: An agile approach to Knowledge Services
+Size(new): 2
+First image: /uploads/emily-disque.png
+Second image: /uploads/laura-pike-seeley.jpeg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/emily-disque.png
+    filename: emily-disque.png
+
+    guest-photo: /agile-in-action-minima-website/uploads/laura-pike-seeley.jpeg
+    filename: laura-pike-seeley.jpeg
+
+
+Title: Introducing organizational agility
+Size(new): 1
+First image: /uploads/linda-parker-gates-with-oil-painting-in-the-background.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/linda-parker-gates-with-oil-painting-in-the-background.png
+    filename: linda-parker-gates-with-oil-painting-in-the-background.png
+
+
+Title: From project to product: refocusing your organization and culture
+Size(new): 1
+First image: /uploads/chris-jones.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/chris-jones.jpeg
+    filename: chris-jones.jpeg
+
+
+Title: Setting and achieving corporate objectives (OKRs)
+Size(new): 1
+First image: /uploads/ggow-best.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/ggow-best.jpg
+    filename: ggow-best.jpg
+
+
+Title: Dealing with Ambiguity in the workplace
+Size(new): 1
+First image: /uploads/varrell-square.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/varrell-square.png
+    filename: varrell-square.png
+
+
+Title: Introducing Agile for Research and Development
+Size(new): 1
+First image: /uploads/pirro.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/pirro.jpg
+    filename: pirro.jpg
+
+
+Title: Agile in policy development
+Size(new): 1
+First image: /uploads/plunkett.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/plunkett.jpg
+    filename: plunkett.jpg
+
+
+Title: Building a product culture and operating model
+Size(new): 1
+First image: /uploads/blake.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/blake.jpeg
+    filename: blake.jpeg
+
+
+Title: Agile estimating and planning 
+Size(new): 1
+First image: /uploads/mike-cohn.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/mike-cohn.jpg
+    filename: mike-cohn.jpg
+
+
+Title: An introduction to agile team planning and velocity
+Size(new): 1
+First image: /uploads/headshot_small.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/headshot_small.jpeg
+    filename: headshot_small.jpeg
+
+
+Title: Introducing the Art of Agile Development, 2nd Edition
+Size(new): 1
+First image: /uploads/shore-square.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/shore-square.png
+    filename: shore-square.png
+
+
+Title: Let's talk about SAFe
+Size(new): 1
+First image: /uploads/sander-dur.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/sander-dur.jpg
+    filename: sander-dur.jpg
+
+
+Title: From complicated chaos to value and velocity with flow engineering and value stream mapping
+Size(new): 1
+First image: /uploads/spsq.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/spsq.png
+    filename: spsq.png
+
+
+Title: Improve team morale and performance by addressing technical debt
+Size(new): 1
+First image: /uploads/omeyer-square.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/omeyer-square.png
+    filename: omeyer-square.png
+
+
+Title: PLM, agile, and the Openness Certification
+Size(new): 1
+First image: /uploads/hertwig.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/hertwig.png
+    filename: hertwig.png
+
+
+Title: Defining and aligning product strategies
+Size(new): 1
+First image: /uploads/ant-sq.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/ant-sq.png
+    filename: ant-sq.png
+
+
+Title: Introducing a proposal for a product manifesto
+Size(new): 1
+First image: /uploads/d-pereira-square.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/d-pereira-square.png
+    filename: d-pereira-square.png
+
+
+Title: Introducing Agile for Marketing
+Size(new): 1
+First image: /uploads/andrea-fryrear.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/andrea-fryrear.jpeg
+    filename: andrea-fryrear.jpeg
+
+
+Title: Introducing ADAPT, a book for digital transformation
+Size(new): 1
+First image: /uploads/luis-goncalves.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/luis-goncalves.jpg
+    filename: luis-goncalves.jpg
+
+
+Title: Introducing the Modified Agile for Hardware Development Framework
+Size(new): 2
+First image: /uploads/gary-hinkle.jpg
+Second image: /uploads/dorian-square.png
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/gary-hinkle.jpg
+    filename: gary-hinkle.jpg
+
+    guest-photo: /agile-in-action-minima-website/uploads/dorian-square.png
+    filename: dorian-square.png
+
+
+Title: Introducing Agile for Finance 
+Size(new): 1
+First image: /uploads/loreal-jiles.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/loreal-jiles.jpg
+    filename: loreal-jiles.jpg
+
+
+Title: Getting in the agile zone with the fluency model
+Size(new): 1
+First image: /uploads/shore-square.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/shore-square.png
+    filename: shore-square.png
+
+
+Title: Agility, frameworks, and gaining a competitive advantage 
+Size(new): 1
+First image: /uploads/evan.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/evan.jpg
+    filename: evan.jpg
+
+
+Title: Agile in Agriculture at Dropcopter
+Size(new): 1
+First image: /uploads/matt-koball.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/matt-koball.jpg
+    filename: matt-koball.jpg
+
+
+Title: A day in the life of a Product Manager
+Size(new): 1
+First image: /uploads/albert.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/albert.jpg
+    filename: albert.jpg
+
+
+Title: Seeing the big picture with adaptive agile
+Size(new): 1
+First image: /uploads/levy.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/levy.jpg
+    filename: levy.jpg
+
+
+Title: Redefining leadership in an agile world 
+Size(new): 1
+First image: /uploads/koning.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/koning.jpg
+    filename: koning.jpg
+
+
+Title: The power of an agile operating model in the manufacturing supply chain 
+Size(new): 2
+First image: /uploads/joshua-hinkel.jpg
+Second image: /uploads/spady.jpg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/joshua-hinkel.jpg
+    filename: joshua-hinkel.jpg
+
+    guest-photo: /agile-in-action-minima-website/uploads/spady.jpg
+    filename: spady.jpg
+
+
+Title: Taking flight with agile
+Size(new): 1
+First image: /uploads/yunpeng.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/yunpeng.jpg
+    filename: yunpeng.jpg
+
+
+Title: A day in the life of a SCRUM Master 
+Size(new): 1
+First image: /uploads/michele.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/michele.jpg
+    filename: michele.jpg
+
+
+Title: Adapting agile to human resources 
+Size(new): 1
+First image: /uploads/natal-head-shot.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/natal-head-shot.jpg
+    filename: natal-head-shot.jpg
+
+
+Title: There is no matrix
+Size(new): 1
+First image: /uploads/luis-goncalves.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/luis-goncalves.jpg
+    filename: luis-goncalves.jpg
+
+
+Title: Building new teams one sticky paper at a time
+Size(new): 1
+First image: /uploads/willemjan.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/willemjan.jpg
+    filename: willemjan.jpg
+
+
+Title: Leading high performing teams 
+Size(new): 1
+First image: /uploads/dr-mabli.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/dr-mabli.jpg
+    filename: dr-mabli.jpg
+
+
+Title: Avoiding the six most common agile sprint planning mistakes
+Size(new): 1
+First image: /uploads/maarten.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/maarten.jpeg
+    filename: maarten.jpeg
+
+
+Title: A day in the life of an agile team Product Owner
+Size(new): 1
+First image: /uploads/shane-drumm-headshot-bg-357x487.png
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/shane-drumm-headshot-bg-357x487.png
+    filename: shane-drumm-headshot-bg-357x487.png
+
+
+Title: Measuring enterprise agile maturity and success 
+Size(new): 1
+First image: /uploads/Jim3.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/Jim3.jpg
+    filename: Jim3.jpg
+
+
+Title: Teaming with the opensource community
+Size(new): 1
+First image: /uploads/william-morgan-headshot.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/william-morgan-headshot.jpeg
+    filename: william-morgan-headshot.jpeg
+
+
+Title: Thriving in the workplace 
+Size(new): 1
+First image: /uploads/brower-6917.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/brower-6917.jpg
+    filename: brower-6917.jpg
+
+
+Title: Untapped Agility
+Size(new): 1
+First image: /uploads/fewell_cpm_203-min-scaled.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/fewell_cpm_203-min-scaled.jpg
+    filename: fewell_cpm_203-min-scaled.jpg
+
+
+Title: Transform Your Conversations, Transform Your Culture
+Size(new): 2
+First image: /uploads/j-fredrick.jpg
+Second image: /uploads/d-squirrel.jpg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/j-fredrick.jpg
+    filename: j-fredrick.jpg
+
+    guest-photo: /agile-in-action-minima-website/uploads/d-squirrel.jpg
+    filename: d-squirrel.jpg
+
+
+Title: Taking agile from concept to practice 
+Size(new): 1
+First image: /uploads/farlik.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/farlik.jpg
+    filename: farlik.jpg
+
+
+Title: Rapid change management
+Size(new): 1
+First image: /uploads/tyler-sellhorn.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/tyler-sellhorn.jpg
+    filename: tyler-sellhorn.jpg
+
+
+Title: Team effectiveness using standardized tools
+Size(new): 1
+First image: /uploads/loretta.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/loretta.jpg
+    filename: loretta.jpg
+
+
+Title: Agile learning paths
+Size(new): 1
+First image: /uploads/shane-hastie.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/shane-hastie.jpg
+    filename: shane-hastie.jpg
+
+
+Title: Embracing a remote work culture 
+Size(new): 1
+First image: /uploads/sarah-shewell.jpg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/sarah-shewell.jpg
+    filename: sarah-shewell.jpg
+
+
+Title: Agile for the enterprise 
+Size(new): 2
+First image: /uploads/rigby_darrell_print_bw.jpg
+Second image: /uploads/sarah-elk-headshot-square.jpg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/rigby_darrell_print_bw.jpg
+    filename: rigby_darrell_print_bw.jpg
+
+    guest-photo: /agile-in-action-minima-website/uploads/sarah-elk-headshot-square.jpg
+    filename: sarah-elk-headshot-square.jpg
+
+
+Title: Strategic planning in an agile organization
+Size(new): 1
+First image: /uploads/bethann-zaveson.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/bethann-zaveson.jpeg
+    filename: bethann-zaveson.jpeg
+
+
+Title: A fun and passionate conversation with the authors of Lean Software Development
+Size(new): 2
+First image: /uploads/mary-120b.jpg
+Second image: /uploads/tom-web.jpg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/mary-120b.jpg
+    filename: mary-120b.jpg
+
+    guest-photo: /agile-in-action-minima-website/uploads/tom-web.jpg
+    filename: tom-web.jpg
+
+
+Title: Starting with agile on big bet projects
+Size(new): 1
+First image: /uploads/vice-abbate.jpeg
+Second image: 
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/vice-abbate.jpeg
+    filename: vice-abbate.jpeg
+
+
+Title: Team topologies and an obsession over a rapid flow of change
+Size(new): 2
+First image: /uploads/matthew-skelton-min.jpg
+Second image: /uploads/manuel-pais-min.jpg
+Third image: 
+Fourth image: 
+
+    guest-photo: /agile-in-action-minima-website/uploads/matthew-skelton-min.jpg
+    filename: matthew-skelton-min.jpg
+
+    guest-photo: /agile-in-action-minima-website/uploads/manuel-pais-min.jpg
+    filename: manuel-pais-min.jpg
+</code></pre></div></div>
+
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/agile-in-action-minima-website/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">The Agile in Action with Bill Raymond Podcast</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">The Agile in Action with Bill Raymond Podcast</li><li><a class="u-email" href="mailto:bill.raymond@agileinaction.com">bill.raymond@agileinaction.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a target="_blank" href="https://www.linkedin.com/in/williamraymond"><svg class="svg-icon"><use xlink:href="/agile-in-action-minima-website/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">williamraymond</span></a></li><li><a target="_blank" href="https://www.twitter.com/billraymonde"><svg class="svg-icon"><use xlink:href="/agile-in-action-minima-website/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">billraymonde</span></a></li><li><a target="_blank" href="https://github.com/BillRaymond"><svg class="svg-icon"><use xlink:href="/agile-in-action-minima-website/assets/minima-social-icons.svg#github"></use></svg> <span class="username">BillRaymond</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>The Agile in Action Podcast with Bill Raymond serves listeners  with unique perspectives of the people working tirelessly to modernize  how teams work.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

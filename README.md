@@ -1,3 +1,4 @@
-This is the code repo for the Agile in Action podcast.
+# agile-in-action-minima
+Working space to migrate Agile in Action to the Minima theme
 
-Locate the repo with the name `agile-in-action-website` for the published site.
+Workflows slowly getting added
