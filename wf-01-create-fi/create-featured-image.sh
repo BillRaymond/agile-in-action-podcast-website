@@ -5,7 +5,7 @@ set -e -x
 
 echo “* START An Introduction to Scrum: Predictive vs Adaptive Systems”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/1539456079199.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/nader-k-rad.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\

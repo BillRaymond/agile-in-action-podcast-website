@@ -2,8 +2,8 @@
 # -e Exit immediately if a command exits with a non-zero status
 # -x Echo all the commands as they run, not just echos
 set -e -x
-echo “* START Converting guest photo: uploads/1539456079199.jpeg”
-convert uploads/1539456079199.jpeg `# load the guest’s photo`\
+echo “* START Converting guest photo: uploads/nader-k-rad.jpeg”
+convert uploads/nader-k-rad.jpeg `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
     -background transparent `# Background should be transparent`\
@@ -12,6 +12,6 @@ convert uploads/1539456079199.jpeg `# load the guest’s photo`\
     -border 6 `# Create a border around the photo`\
     \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    uploads/wf-guest-images-fi/1539456079199.png `# Save the guest photo`\
+    uploads/wf-guest-images-fi/nader-k-rad.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/1539456079199.png”
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/nader-k-rad.png”
