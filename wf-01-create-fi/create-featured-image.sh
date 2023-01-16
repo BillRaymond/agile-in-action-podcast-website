@@ -5,7 +5,8 @@ set -e -x
 
 echo “* START An Introduction to Scrum: Predictive vs Adaptive Systems”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/nader-k-rad.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/nader-k-rad.png -resize 282x282 -set page +256+37 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/seaasons-of-scrum-winter.png -resize 282x282 -set page +256+375 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
@@ -18,7 +19,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Nader K. Rad\nAuthor, speaker, and trainer' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Nader K. Rad\nwith Seasons of SCRUM' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-01-17-an-introduction-to-scrum-predictive-vs-adaptive-systems-no-play.png \
