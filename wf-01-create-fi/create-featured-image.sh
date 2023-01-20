@@ -5,7 +5,7 @@ set -e -x
 
 echo “* START Effective, not glamorous agile change”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/1558518858324.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/idzik_img.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
@@ -18,7 +18,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Michal Idzikowski\nAgile Coach at Huuge Games and leader of the Scrum Master team' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Michal Idzikowski\nAgile Coach at Huuuge Games and leader of the Scrum Master team' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-01-31-effective-not-glamorous-agile-change-no-play.png \
