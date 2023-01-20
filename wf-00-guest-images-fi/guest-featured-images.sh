@@ -26,8 +26,8 @@ convert uploads/nader-k-rad.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     uploads/wf-guest-images-fi/nader-k-rad.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/nader-k-rad.png”echo “* START Converting guest photo: uploads/wf-guest-images-fi/seaasons-of-scrum-winter.png”
-convert uploads/wf-guest-images-fi/seaasons-of-scrum-winter.png `# load the guest’s photo`\
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/nader-k-rad.png”echo “* START Converting guest photo: uploads/seaasons-of-scrum-winter.png”
+convert uploads/seaasons-of-scrum-winter.png `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
     -background transparent `# Background should be transparent`\
