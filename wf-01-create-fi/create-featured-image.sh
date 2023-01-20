@@ -3,7 +3,7 @@
 # -x Echo all the commands as they run, not just echos
 set -e -x
 
-echo “* START Effective, not glamorous Agile change”
+echo “* START Effective, not glamorous agile change”
 convert fi-template.png `# load template background image`\
 \( ../uploads/wf-guest-images-fi/1558518858324.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
@@ -13,7 +13,7 @@ convert fi-template.png `# load template background image`\
 -geometry +550+46 `# Set the x and y position for the PODCAST text`\
 -composite `# Add the text layer to the image`\
 -fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'Effective, not glamorous Agile change' `# Podcast title as it appears on the website`\
+-size 580x340 caption:'Effective, not glamorous agile change' `# Podcast title as it appears on the website`\
 -geometry +550+96 `# Set the x and y location for the podcast title`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
@@ -26,7 +26,7 @@ convert fi-template.png `# load template background image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-01-31-effective-not-glamorous-agile-change.png
 
-echo “* FINISH Effective, not glamorous Agile change”
+echo “* FINISH Effective, not glamorous agile change”
 
 echo “* START An introduction to Scrum, Part 2: Implementing Scrum and Agility”
 convert fi-template.png `# load template background image`\
