@@ -28,9 +28,11 @@ convert fi-template.png `# load template background image`\
 
 echo “* FINISH The importance of emotional intelligence for successful agile teams”
 
-echo “* START The Scrum Master Journey and their Leadership Role”
+echo “* START The Scrum Master journey and their leadership role”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/daria-bagina.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/ad-spoke-and-wheel.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/daria-bagina.png -resize 200x200 -set page +295+246 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/seaasons-of-scrum-winter.png -resize 200x200 -set page +295+451 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
@@ -38,12 +40,12 @@ convert fi-template.png `# load template background image`\
 -geometry +550+46 `# Set the x and y position for the PODCAST text`\
 -composite `# Add the text layer to the image`\
 -fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'The Scrum Master Journey and their Leadership Role' `# Podcast title as it appears on the website`\
+-size 580x340 caption:'The Scrum Master journey and their leadership role' `# Podcast title as it appears on the website`\
 -geometry +550+96 `# Set the x and y location for the podcast title`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Daria Bagina\nProfessional Scrum Trainer with Scrum.org and ScrumMastered' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Sponsor: Spoke and Wheel\nwith Daria Bagina\nwith Seasons of Scrum' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-02-07-the-scrum-master-journey-and-their-leadership-role-no-play.png \
@@ -51,5 +53,5 @@ convert fi-template.png `# load template background image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-02-07-the-scrum-master-journey-and-their-leadership-role.png
 
-echo “* FINISH The Scrum Master Journey and their Leadership Role”
+echo “* FINISH The Scrum Master journey and their leadership role”
 
