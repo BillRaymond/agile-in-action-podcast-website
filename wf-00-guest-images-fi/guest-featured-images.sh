@@ -14,19 +14,7 @@ convert uploads/dr-tan-trung-john-luong.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     uploads/wf-guest-images-fi/dr-tan-trung-john-luong.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/dr-tan-trung-john-luong.png”echo “* START Converting guest photo: uploads/ad-spoke-and-wheel.png”
-convert uploads/ad-spoke-and-wheel.png `# load the guest’s photo`\
-    -resize 250x250^ `# load template background image`\
-    -gravity center `# Set the center of gravity for the photo`\
-    -background transparent `# Background should be transparent`\
-    -extent 250x250 `# Crop the photo to a perfect square`\
-    -bordercolor white `# Define a border for the photo`\
-    -border 6 `# Create a border around the photo`\
-    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
-    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    uploads/wf-guest-images-fi/ad-spoke-and-wheel.png `# Save the guest photo`\
-
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/ad-spoke-and-wheel.png”echo “* START Converting guest photo: uploads/daria-bagina.png”
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/dr-tan-trung-john-luong.png”echo “* START Converting guest photo: uploads/daria-bagina.png”
 convert uploads/daria-bagina.png `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
@@ -38,7 +26,19 @@ convert uploads/daria-bagina.png `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     uploads/wf-guest-images-fi/daria-bagina.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/daria-bagina.png”echo “* START Converting guest photo: uploads/seaasons-of-scrum-winter.png”
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/daria-bagina.png”echo “* START Converting guest photo: uploads/ad-spoke-and-wheel.png”
+convert uploads/ad-spoke-and-wheel.png `# load the guest’s photo`\
+    -resize 250x250^ `# load template background image`\
+    -gravity center `# Set the center of gravity for the photo`\
+    -background transparent `# Background should be transparent`\
+    -extent 250x250 `# Crop the photo to a perfect square`\
+    -bordercolor white `# Define a border for the photo`\
+    -border 6 `# Create a border around the photo`\
+    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
+    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
+    uploads/wf-guest-images-fi/ad-spoke-and-wheel.png `# Save the guest photo`\
+
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/ad-spoke-and-wheel.png”echo “* START Converting guest photo: uploads/seaasons-of-scrum-winter.png”
 convert uploads/seaasons-of-scrum-winter.png `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\

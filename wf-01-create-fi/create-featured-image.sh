@@ -30,8 +30,8 @@ echo “* FINISH The importance of emotional intelligence for successful agile t
 
 echo “* START The Scrum Master journey and their leadership role”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/ad-spoke-and-wheel.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
-\( ../uploads/wf-guest-images-fi/daria-bagina.png -resize 200x200 -set page +295+246 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/daria-bagina.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/ad-spoke-and-wheel.png -resize 200x200 -set page +295+246 \) `# load a guest photo`\
 \( ../uploads/wf-guest-images-fi/seaasons-of-scrum-winter.png -resize 200x200 -set page +295+451 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
@@ -45,7 +45,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Sponsor: Spoke and Wheel\nwith Daria Bagina\nwith Seasons of Scrum' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Daria Bagina\nwith Sponsor: Spoke and Wheel\nwith Seasons of Scrum' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-02-07-the-scrum-master-journey-and-their-leadership-role-no-play.png \
