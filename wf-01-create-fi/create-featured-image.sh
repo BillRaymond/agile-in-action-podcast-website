@@ -82,7 +82,7 @@ echo “* FINISH The importance of emotional intelligence for successful agile t
 
 echo “* START The Scrum Master journey and their leadership role”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/daria-bagina.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/daria-bagina-scrummastered-square.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
 \( ../uploads/wf-guest-images-fi/ad-spoke-and-wheel.png -resize 200x200 -set page +295+246 \) `# load a guest photo`\
 \( ../uploads/wf-guest-images-fi/seaasons-of-scrum-winter.png -resize 200x200 -set page +295+451 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
