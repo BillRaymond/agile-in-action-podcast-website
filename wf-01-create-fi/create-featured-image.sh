@@ -205,9 +205,9 @@ echo “* FINISH Remedies for a Scrum Master with a waterfall hangover”
 
 echo “* START Introducing strategic AI planning and delivery”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/kathleen-walch.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
-\( ../uploads/wf-guest-images-fi/ronald-schmelzer.png -resize 200x200 -set page +295+246 \) `# load a guest photo`\
-\( ../uploads/wf-guest-images-fi/ad-spoke-and-wheel.png -resize 200x200 -set page +295+451 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/new-ai-today-podcast-image.png -resize 200x200 -set page +295+41 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/kathleen-walch.png -resize 200x200 -set page +295+246 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/ronald-schmelzer.png -resize 200x200 -set page +295+451 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
@@ -220,7 +220,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Kathleen Walch\nwith David Schmelzer\nwith Sponsor: Spoke and Wheel' `# List the guest names for the podcast`\
+-size 405x195 caption:'with 🔁 AI Today podcast podcast swap\nwith Kathleen Walch\nwith David Schmelzer' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-02-21-introducing-strategic-ai-planning-and-delivery-no-play.png \
