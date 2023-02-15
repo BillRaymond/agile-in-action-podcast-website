@@ -220,7 +220,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Kathleen Walch\nwith David Schmelzer\nwith AI Today podcast swap' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Kathleen Walch\nwith Ron Schmelzer\nwith AI Today podcast swap' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-02-21-introducing-strategic-ai-planning-and-delivery-no-play.png \
