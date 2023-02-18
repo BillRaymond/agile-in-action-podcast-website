@@ -46,10 +46,10 @@ convert fi-template.png `# load template background image`\
 -size 405x195 caption:'with John Stenbeck\nAmazon #1 Best Selling Author &amp; Enterprise Agility Expert' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-04-18-introducing-agile-government-procurement-no-play.png \
++write ../uploads/wf-featured-images/2023-04-25-introducing-agile-government-procurement-no-play.png \
 -page +972+448 fi-play-icon.png `# load play icon image`\
 -layers flatten \
-../uploads/wf-featured-images/2023-04-18-introducing-agile-government-procurement.png
+../uploads/wf-featured-images/2023-04-25-introducing-agile-government-procurement.png
 
 echo “* FINISH Introducing agile government procurement”
 
