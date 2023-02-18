@@ -72,10 +72,10 @@ convert fi-template.png `# load template background image`\
 -size 405x195 caption:'with Evan Leybourn\nwith Martin Foster' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-04-18-a-deep-dive-into-the-year-end-business-agility-report-no-play.png \
++write ../uploads/wf-featured-images/2023-04-18-a-deep-dive-into-the-year-end-2022-business-agility-report-no-play.png \
 -page +972+448 fi-play-icon.png `# load play icon image`\
 -layers flatten \
-../uploads/wf-featured-images/2023-04-18-a-deep-dive-into-the-year-end-business-agility-report.png
+../uploads/wf-featured-images/2023-04-18-a-deep-dive-into-the-year-end-2022-business-agility-report.png
 
 echo “* FINISH A deep-dive into the year-end 2022 Business Agility Report”
 
