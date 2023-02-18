@@ -53,7 +53,7 @@ convert fi-template.png `# load template background image`\
 
 echo “* FINISH Introducing agile government procurement”
 
-echo “* START A deep-dive into the year-end Business Agility Report”
+echo “* START A deep-dive into the year-end 2022 Business Agility Report”
 convert fi-template.png `# load template background image`\
 \( ../uploads/wf-guest-images-fi/evan.png -resize 282x282 -set page +256+37 \) `# load a guest photo`\
 \( ../uploads/wf-guest-images-fi/martin-foster.png -resize 282x282 -set page +256+375 \) `# load a guest photo`\
@@ -64,7 +64,7 @@ convert fi-template.png `# load template background image`\
 -geometry +550+46 `# Set the x and y position for the PODCAST text`\
 -composite `# Add the text layer to the image`\
 -fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'A deep-dive into the year-end Business Agility Report' `# Podcast title as it appears on the website`\
+-size 580x340 caption:'A deep-dive into the year-end 2022 Business Agility Report' `# Podcast title as it appears on the website`\
 -geometry +550+96 `# Set the x and y location for the podcast title`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
@@ -77,7 +77,7 @@ convert fi-template.png `# load template background image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-04-18-a-deep-dive-into-the-year-end-business-agility-report.png
 
-echo “* FINISH A deep-dive into the year-end Business Agility Report”
+echo “* FINISH A deep-dive into the year-end 2022 Business Agility Report”
 
 echo “* START Agile internships: A model for future generations”
 convert fi-template.png `# load template background image`\
