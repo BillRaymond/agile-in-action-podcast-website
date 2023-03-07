@@ -98,19 +98,7 @@ convert uploads/jonas-neumann.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     uploads/wf-guest-images-fi/jonas-neumann.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/jonas-neumann.png”echo “* START Converting guest photo: uploads/are-morch.jpeg”
-convert uploads/are-morch.jpeg `# load the guest’s photo`\
-    -resize 250x250^ `# load template background image`\
-    -gravity center `# Set the center of gravity for the photo`\
-    -background transparent `# Background should be transparent`\
-    -extent 250x250 `# Crop the photo to a perfect square`\
-    -bordercolor white `# Define a border for the photo`\
-    -border 6 `# Create a border around the photo`\
-    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
-    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    uploads/wf-guest-images-fi/are-morch.png `# Save the guest photo`\
-
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/are-morch.png”echo “* START Converting guest photo: uploads/ralph-jocham.jpeg”
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/jonas-neumann.png”echo “* START Converting guest photo: uploads/ralph-jocham.jpeg”
 convert uploads/ralph-jocham.jpeg `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
@@ -122,8 +110,8 @@ convert uploads/ralph-jocham.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     uploads/wf-guest-images-fi/ralph-jocham.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/ralph-jocham.png”echo “* START Converting guest photo: uploads/zuzana-zuzi-sochova.jpeg”
-convert uploads/zuzana-zuzi-sochova.jpeg `# load the guest’s photo`\
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/ralph-jocham.png”echo “* START Converting guest photo: uploads/are-morch.jpeg”
+convert uploads/are-morch.jpeg `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
     -background transparent `# Background should be transparent`\
@@ -132,6 +120,6 @@ convert uploads/zuzana-zuzi-sochova.jpeg `# load the guest’s photo`\
     -border 6 `# Create a border around the photo`\
     \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    uploads/wf-guest-images-fi/zuzana-zuzi-sochova.png `# Save the guest photo`\
+    uploads/wf-guest-images-fi/are-morch.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/zuzana-zuzi-sochova.png”
+echo “* FINISH converted guest photo to: uploads/wf-guest-images-fi/are-morch.png”
