@@ -172,10 +172,10 @@ convert fi-template.png `# load template background image`\
 -size 405x195 caption:'with Jonas Neumann\nFull Stack Developer at Accenture' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-03-21-the-value-and-promise-of-agile-from-a-developer-s-perspective-no-play.png \
++write ../uploads/wf-featured-images/2023-03-28-the-value-and-promise-of-agile-from-a-developer-s-perspective-no-play.png \
 -page +972+448 fi-play-icon.png `# load play icon image`\
 -layers flatten \
-../uploads/wf-featured-images/2023-03-21-the-value-and-promise-of-agile-from-a-developer-s-perspective.png
+../uploads/wf-featured-images/2023-03-28-the-value-and-promise-of-agile-from-a-developer-s-perspective.png
 
 echo “* FINISH The value and promise of agile from a developer’s perspective”
 
@@ -197,10 +197,10 @@ convert fi-template.png `# load template background image`\
 -size 405x195 caption:'with Ralph Jocham\n' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-03-14-introducing-the-professional-product-owner-no-play.png \
++write ../uploads/wf-featured-images/2023-03-21-introducing-the-professional-product-owner-no-play.png \
 -page +972+448 fi-play-icon.png `# load play icon image`\
 -layers flatten \
-../uploads/wf-featured-images/2023-03-14-introducing-the-professional-product-owner.png
+../uploads/wf-featured-images/2023-03-21-introducing-the-professional-product-owner.png
 
 echo “* FINISH Introducing the Professional Product Owner”
 
@@ -219,7 +219,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Are Morch\nAuthor &amp; digital marking coach for hotels' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Are Morch\nAuthor and digital transformation coach for hotels' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-03-14-digital-transformation-and-agility-in-hospitality-no-play.png \
