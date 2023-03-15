@@ -1,0 +1,133 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.custom.scripts": [
+  {
+    "title": "Create guest and featured images",
+    "id": "create-guest-and-featured-images",
+    "script": "./build-guest-and-featured-images.sh",
+    "command": "bash"
+  }
+  ],
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "podcast",
+      "pageBundle": false,
+      "previewPath": "'agile-in-action-podcast/'yyyy/MM",
+      "filePrefix": "yyyy-mm-dd",
+      "fields": [
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string",
+          "default": "podcast-post"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "string",
+          "default": "agile-in-action-podcast"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string",
+          "default": "Bill Raymond"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "twitter-text",
+          "name": "twitter-text",
+          "type": "string"
+        },
+        {
+          "title": "libsynUrl",
+          "name": "libsynUrl",
+          "type": "string"
+        },
+        {
+          "title": "Guest details",
+          "name": "guest-details",
+          "type": "block",
+          "fieldGroup": [
+            "guest-details"
+          ]
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "/uploads",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Podcast Post",
+      "path": "[[workspace]]/_posts"
+    }
+  ],
+  "frontMatter.taxonomy.fieldGroups": [
+    {
+      "id": "guest-details",
+      "labelField": "guest-name",
+      "fields": [
+        {
+          "title": "Guest name",
+          "name": "guest-name",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "Guest title",
+          "name": "guest-title",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "Guest photo",
+          "name": "guest-photo",
+          "type": "image"
+        },
+        {
+          "title": "Links",
+          "name": "guest-links",
+          "type": "block",
+          "fieldGroup": [
+            "guest-links"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guest-links",
+      "labelField": "guest-link-label",
+      "fields": [
+        {
+          "title": "Guest link label",
+          "name": "guest-link-label",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "Guest link URL",
+          "name": "guest-link-url",
+          "type": "string",
+          "single": true
+        }
+      ]
+    }
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": []
+}
