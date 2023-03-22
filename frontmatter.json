@@ -1,5 +1,6 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.dateFormat": "yyyy-MM-dd",
   "frontMatter.custom.scripts": [
   {
     "title": "Create guest and featured images",
@@ -36,7 +37,8 @@
         {
           "title": "date",
           "name": "date",
-          "type": "datetime"
+          "type": "datetime",
+          "isPublishDate": true
         },
         {
           "title": "title",
