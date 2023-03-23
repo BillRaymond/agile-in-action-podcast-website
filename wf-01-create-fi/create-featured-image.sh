@@ -195,7 +195,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Jonas Neumann\nFull Stack Developer at Accenture' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Jonas Neumann\nFull Stack Developer at Accenture and author on Medium' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-03-28-the-value-and-promise-of-agile-from-a-developer-s-perspective-no-play.png \
