@@ -170,7 +170,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Phil Simon\nPhil Simon, Author, Low-Code/No-Code: Citizen Developers and the Surprising Future of Business Applications (The Future of Work) and collaboration' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Phil Simon\nPhil Simon, Author, Low-Code/No-Code: Citizen Developers and the Surprising Future of Business Applications' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-04-04-empowering-your-workforce-as-citizen-developers-no-play.png \
