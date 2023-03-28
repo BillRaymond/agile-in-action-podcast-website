@@ -180,28 +180,3 @@ convert fi-template.png `# load template background image`\
 
 echo “* FINISH Empowering your workforce as citizen developers”
 
-echo “* START The value and promise of agile from a developer’s perspective”
-convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/jonas-neumann.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
--layers flatten `# merge the template and guest photos`\
--font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
--fill '#f49f1c' -background none `# The podcast title does not have a background`\
--size 580x40 caption:'AGILE IN ACTION PODCAST' `# Add the word PODCAST to the template`\
--geometry +550+46 `# Set the x and y position for the PODCAST text`\
--composite `# Add the text layer to the image`\
--fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'The value and promise of agile from a developer’s perspective' `# Podcast title as it appears on the website`\
--geometry +550+96 `# Set the x and y location for the podcast title`\
--composite `# Add the podcast's title to the image`\
--fill white -background none `# the guest names do not have a background`\
--layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Jonas Neumann\nFull Stack Developer at Accenture and author on Medium' `# List the guest names for the podcast`\
--geometry +550+446 `# Set the x and y position of the guest names`\
--composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-03-28-the-value-and-promise-of-agile-from-a-developer-s-perspective-no-play.png \
--page +972+448 fi-play-icon.png `# load play icon image`\
--layers flatten \
-../uploads/wf-featured-images/2023-03-28-the-value-and-promise-of-agile-from-a-developer-s-perspective.png
-
-echo “* FINISH The value and promise of agile from a developer’s perspective”
-
