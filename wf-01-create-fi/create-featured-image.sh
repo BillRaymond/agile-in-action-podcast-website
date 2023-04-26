@@ -169,7 +169,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Mike Whitaker\n' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Mike Whitaker\nCoach, Associate Consultant, SPC at Applied Frameworks' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-05-02-unlocking-the-potential-of-military-veterans-as-agilists-no-play.png \
