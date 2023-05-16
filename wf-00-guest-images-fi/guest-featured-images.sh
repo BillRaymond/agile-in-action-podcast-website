@@ -90,48 +90,4 @@ convert ../uploads/zorina-alliata.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     ../uploads/wf-guest-images-fi/zorina-alliata.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/zorina-alliata.png”echo “photoSource: ../uploads/Keegan-McBride.jpeg”
-
-echo “Original photoTarget: ../uploads/Keegan-McBride.jpeg”
-
-echo “photoTarget with new url: ../uploads/wf-guest-images-fi/Keegan-McBride.jpeg”
-echo “photoTargetExt: jpeg”
-echo “photoTargetExtSize: 45”
-echo “photoSource: ../uploads/Keegan-McBride.jpeg”
-
-echo “photoTarget: ../uploads/wf-guest-images-fi/Keegan-McBride.png”
-echo “* START Converting guest photo: ../uploads/Keegan-McBride.jpeg”
-convert ../uploads/Keegan-McBride.jpeg `# load the guest’s photo`\
-    -resize 250x250^ `# load template background image`\
-    -gravity center `# Set the center of gravity for the photo`\
-    -background transparent `# Background should be transparent`\
-    -extent 250x250 `# Crop the photo to a perfect square`\
-    -bordercolor white `# Define a border for the photo`\
-    -border 6 `# Create a border around the photo`\
-    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
-    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    ../uploads/wf-guest-images-fi/Keegan-McBride.png `# Save the guest photo`\
-
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Keegan-McBride.png”echo “photoSource: ../uploads/Maximilian-Kupi.jpeg”
-
-echo “Original photoTarget: ../uploads/Maximilian-Kupi.jpeg”
-
-echo “photoTarget with new url: ../uploads/wf-guest-images-fi/Maximilian-Kupi.jpeg”
-echo “photoTargetExt: jpeg”
-echo “photoTargetExtSize: 46”
-echo “photoSource: ../uploads/Maximilian-Kupi.jpeg”
-
-echo “photoTarget: ../uploads/wf-guest-images-fi/Maximilian-Kupi.png”
-echo “* START Converting guest photo: ../uploads/Maximilian-Kupi.jpeg”
-convert ../uploads/Maximilian-Kupi.jpeg `# load the guest’s photo`\
-    -resize 250x250^ `# load template background image`\
-    -gravity center `# Set the center of gravity for the photo`\
-    -background transparent `# Background should be transparent`\
-    -extent 250x250 `# Crop the photo to a perfect square`\
-    -bordercolor white `# Define a border for the photo`\
-    -border 6 `# Create a border around the photo`\
-    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
-    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    ../uploads/wf-guest-images-fi/Maximilian-Kupi.png `# Save the guest photo`\
-
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Maximilian-Kupi.png”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/zorina-alliata.png”
