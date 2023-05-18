@@ -93,7 +93,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Zorina Alliata\nSr Global Machine Learning Strategist @ Amazon, A Chair on the AI Committee at AnitaB.org, and A Georgetown University Adjunct Faculty' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Zorina Alliata\nSr. Global Machine Learning Strategist, Amazon, Chair AI Committee at AnitaB.org, Georgetown University Adjunct Faculty' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-05-23-ai-transformation-and-agile-leadership-no-play.png \
