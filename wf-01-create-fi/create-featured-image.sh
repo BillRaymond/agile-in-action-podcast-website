@@ -3,9 +3,9 @@
 # -x Echo all the commands as they run, not just echos
 set -e -x
 
-echo “* START Reflecting for Success: The power of team retrospectives”
+echo “* START To AI or not to AI”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/Aino-Vonge-Corry.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/jay-palat.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
@@ -13,18 +13,18 @@ convert fi-template.png `# load template background image`\
 -geometry +550+46 `# Set the x and y position for the PODCAST text`\
 -composite `# Add the text layer to the image`\
 -fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'Reflecting for Success: The power of team retrospectives' `# Podcast title as it appears on the website`\
+-size 580x340 caption:'To AI or not to AI' `# Podcast title as it appears on the website`\
 -geometry +550+96 `# Set the x and y location for the podcast title`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Aino Vonge Corry\nAuthor of "Retrospectives Antipatterns", Serious instigator of fun at work, Keynote speaker, Continuous improvement coach at Vestas' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Jay Palat\nIndependent AI adoption consultant and writer' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-06-27-reflecting-for-success-the-power-of-team-retrospectives-no-play.png \
++write ../uploads/wf-featured-images/2023-07-18-to-ai-or-not-to-ai-no-play.png \
 -page +972+448 fi-play-icon.png `# load play icon image`\
 -layers flatten \
-../uploads/wf-featured-images/2023-06-27-reflecting-for-success-the-power-of-team-retrospectives.png
+../uploads/wf-featured-images/2023-07-18-to-ai-or-not-to-ai.png
 
-echo “* FINISH Reflecting for Success: The power of team retrospectives”
+echo “* FINISH To AI or not to AI”
 
