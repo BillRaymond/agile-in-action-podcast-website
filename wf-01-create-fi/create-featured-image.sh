@@ -18,7 +18,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Jan Otterbach\nVice President and Business Agility Lead at Elavon-Europe US Bank' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Jan Otterbach\nVice President and Business Agility Lead at Elavon Europe / US Bank' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-07-25-behavorial-change-is-the-heart-of-agile-no-play.png \
@@ -28,7 +28,7 @@ convert fi-template.png `# load template background image`\
 
 echo “* FINISH Behavorial change is the heart of agile”
 
-echo “* START To AI or not to AI”
+echo “* START To AI or not to AI?”
 convert fi-template.png `# load template background image`\
 \( ../uploads/wf-guest-images-fi/jay-palat.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
@@ -38,7 +38,7 @@ convert fi-template.png `# load template background image`\
 -geometry +550+46 `# Set the x and y position for the PODCAST text`\
 -composite `# Add the text layer to the image`\
 -fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'To AI or not to AI' `# Podcast title as it appears on the website`\
+-size 580x340 caption:'To AI or not to AI?' `# Podcast title as it appears on the website`\
 -geometry +550+96 `# Set the x and y location for the podcast title`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
@@ -51,5 +51,5 @@ convert fi-template.png `# load template background image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-07-18-to-ai-or-not-to-ai.png
 
-echo “* FINISH To AI or not to AI”
+echo “* FINISH To AI or not to AI?”
 
