@@ -2,7 +2,29 @@
 # -e Exit immediately if a command exits with a non-zero status
 # -x Echo all the commands as they run, not just echos
 set -e -x
-echo “photoSource: ../uploads/jan-otterbach.jpeg”
+echo “photoSource: ../uploads/Jonathon-Hensley.jpeg”
+
+echo “Original photoTarget: ../uploads/Jonathon-Hensley.jpeg”
+
+echo “photoTarget with new url: ../uploads/wf-guest-images-fi/Jonathon-Hensley.jpeg”
+echo “photoTargetExt: jpeg”
+echo “photoTargetExtSize: 47”
+echo “photoSource: ../uploads/Jonathon-Hensley.jpeg”
+
+echo “photoTarget: ../uploads/wf-guest-images-fi/Jonathon-Hensley.png”
+echo “* START Converting guest photo: ../uploads/Jonathon-Hensley.jpeg”
+convert ../uploads/Jonathon-Hensley.jpeg `# load the guest’s photo`\
+    -resize 250x250^ `# load template background image`\
+    -gravity center `# Set the center of gravity for the photo`\
+    -background transparent `# Background should be transparent`\
+    -extent 250x250 `# Crop the photo to a perfect square`\
+    -bordercolor white `# Define a border for the photo`\
+    -border 6 `# Create a border around the photo`\
+    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
+    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
+    ../uploads/wf-guest-images-fi/Jonathon-Hensley.png `# Save the guest photo`\
+
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Jonathon-Hensley.png”echo “photoSource: ../uploads/jan-otterbach.jpeg”
 
 echo “Original photoTarget: ../uploads/jan-otterbach.jpeg”
 
@@ -24,7 +46,29 @@ convert ../uploads/jan-otterbach.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     ../uploads/wf-guest-images-fi/jan-otterbach.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/jan-otterbach.png”echo “photoSource: ../uploads/nate-regier.jpeg”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/jan-otterbach.png”echo “photoSource: ../uploads/debbie-levitt.jpeg”
+
+echo “Original photoTarget: ../uploads/debbie-levitt.jpeg”
+
+echo “photoTarget with new url: ../uploads/wf-guest-images-fi/debbie-levitt.jpeg”
+echo “photoTargetExt: jpeg”
+echo “photoTargetExtSize: 44”
+echo “photoSource: ../uploads/debbie-levitt.jpeg”
+
+echo “photoTarget: ../uploads/wf-guest-images-fi/debbie-levitt.png”
+echo “* START Converting guest photo: ../uploads/debbie-levitt.jpeg”
+convert ../uploads/debbie-levitt.jpeg `# load the guest’s photo`\
+    -resize 250x250^ `# load template background image`\
+    -gravity center `# Set the center of gravity for the photo`\
+    -background transparent `# Background should be transparent`\
+    -extent 250x250 `# Crop the photo to a perfect square`\
+    -bordercolor white `# Define a border for the photo`\
+    -border 6 `# Create a border around the photo`\
+    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
+    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
+    ../uploads/wf-guest-images-fi/debbie-levitt.png `# Save the guest photo`\
+
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/debbie-levitt.png”echo “photoSource: ../uploads/nate-regier.jpeg”
 
 echo “Original photoTarget: ../uploads/nate-regier.jpeg”
 
