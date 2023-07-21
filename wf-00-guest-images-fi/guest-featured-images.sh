@@ -24,18 +24,18 @@ convert ../uploads/Jonathon-Hensley.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     ../uploads/wf-guest-images-fi/Jonathon-Hensley.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Jonathon-Hensley.png”echo “photoSource: ../uploads/jan-otterbach.jpeg”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Jonathon-Hensley.png”echo “photoSource: ../uploads/jan-otterbach-2.jpeg”
 
-echo “Original photoTarget: ../uploads/jan-otterbach.jpeg”
+echo “Original photoTarget: ../uploads/jan-otterbach-2.jpeg”
 
-echo “photoTarget with new url: ../uploads/wf-guest-images-fi/jan-otterbach.jpeg”
+echo “photoTarget with new url: ../uploads/wf-guest-images-fi/jan-otterbach-2.jpeg”
 echo “photoTargetExt: jpeg”
-echo “photoTargetExtSize: 44”
-echo “photoSource: ../uploads/jan-otterbach.jpeg”
+echo “photoTargetExtSize: 46”
+echo “photoSource: ../uploads/jan-otterbach-2.jpeg”
 
-echo “photoTarget: ../uploads/wf-guest-images-fi/jan-otterbach.png”
-echo “* START Converting guest photo: ../uploads/jan-otterbach.jpeg”
-convert ../uploads/jan-otterbach.jpeg `# load the guest’s photo`\
+echo “photoTarget: ../uploads/wf-guest-images-fi/jan-otterbach-2.png”
+echo “* START Converting guest photo: ../uploads/jan-otterbach-2.jpeg”
+convert ../uploads/jan-otterbach-2.jpeg `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
     -background transparent `# Background should be transparent`\
@@ -44,9 +44,9 @@ convert ../uploads/jan-otterbach.jpeg `# load the guest’s photo`\
     -border 6 `# Create a border around the photo`\
     \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    ../uploads/wf-guest-images-fi/jan-otterbach.png `# Save the guest photo`\
+    ../uploads/wf-guest-images-fi/jan-otterbach-2.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/jan-otterbach.png”echo “photoSource: ../uploads/debbie-levitt.jpeg”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/jan-otterbach-2.png”echo “photoSource: ../uploads/debbie-levitt.jpeg”
 
 echo “Original photoTarget: ../uploads/debbie-levitt.jpeg”
 

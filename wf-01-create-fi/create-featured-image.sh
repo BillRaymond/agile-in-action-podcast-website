@@ -30,7 +30,7 @@ echo “* FINISH An honest assessment of delivering value through alignment”
 
 echo “* START Behavorial change is the heart of agile”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/jan-otterbach.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/jan-otterbach-2.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
