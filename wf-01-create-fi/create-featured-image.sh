@@ -68,7 +68,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Debbie Levitt\nFounder and Principal at Delta CX, Author of Customers Know You Suck: Actionable CX Strategies to Better Understand, Attract, and Retain Customers' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Debbie Levitt\nCXO at Delta CX, Author of Customers Know You Suck: Actionable CX Strategies to Better Understand, Attract, and Retain Customers' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-07-25-return-to-agility-by-leading-with-the-customer-no-play.png \
