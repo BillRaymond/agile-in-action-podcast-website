@@ -21,10 +21,10 @@ convert fi-template.png `# load template background image`\
 -size 405x195 caption:'with Jonathon Hensley\nCEO of EMERGE and Author of Alignment: Overcoming  internal sabotage and digital product failure' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
-+write ../uploads/wf-featured-images/2023-08-08-an-honest-assessment-of-delivering-value-through-alignment-no-play.png \
++write ../uploads/wf-featured-images/2023-08-08-amplify-your-impact-unleash-the-power-of-alignment-to-deliver-value-no-play.png \
 -page +972+448 fi-play-icon.png `# load play icon image`\
 -layers flatten \
-../uploads/wf-featured-images/2023-08-08-an-honest-assessment-of-delivering-value-through-alignment.png
+../uploads/wf-featured-images/2023-08-08-amplify-your-impact-unleash-the-power-of-alignment-to-deliver-value.png
 
 echo “* FINISH Amplify your impact: Unleash the power of alignment to deliver value”
 
