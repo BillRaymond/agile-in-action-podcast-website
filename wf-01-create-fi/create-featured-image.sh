@@ -18,7 +18,7 @@ convert fi-template.png `# load template background image`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
 -layers flatten `# merge the template and guest photos`\-fill white -background none `# the guest names do not have a background`\
--size 405x195 caption:'with Pamela Meyer\nNavigating change and evolving with purpose' `# List the guest names for the podcast`\
+-size 405x195 caption:'with Pamela Meyer\nAuthor of Staying in the Game: Leading and Learning with Agility for a Dynamic Future, leadership agility expert, and keynote speaker' `# List the guest names for the podcast`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-10-10-navigating-change-and-evolving-with-purpose-no-play.png \
