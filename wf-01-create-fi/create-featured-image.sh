@@ -22,7 +22,7 @@ convert fi-template.png `# load template background image`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-10-10-navigating-change-and-evolving-with-purpose-no-play.png \
--page +972+448 fi-play-icon.png `# load play icon image`\
+-page +972+448 fi-play-icon-youtube.png `# load YouTube icon image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-10-10-navigating-change-and-evolving-with-purpose.png
 
@@ -47,7 +47,7 @@ convert fi-template.png `# load template background image`\
 -geometry +550+446 `# Set the x and y position of the guest names`\
 -composite `# Add guest names to the image`\
 +write ../uploads/wf-featured-images/2023-10-03-coping-with-digital-transformation-and-human-change-no-play.png \
--page +972+448 fi-play-icon.png `# load play icon image`\
+-page +972+448 fi-play-icon-youtube.png `# load YouTube icon image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-10-03-coping-with-digital-transformation-and-human-change.png
 
