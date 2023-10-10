@@ -24,26 +24,4 @@ convert ../uploads/chuck-mollor.jpeg `# load the guest’s photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
     ../uploads/wf-guest-images-fi/chuck-mollor.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/chuck-mollor.png”echo “photoSource: ../uploads/pamela-meyer.jpeg”
-
-echo “Original photoTarget: ../uploads/pamela-meyer.jpeg”
-
-echo “photoTarget with new url: ../uploads/wf-guest-images-fi/pamela-meyer.jpeg”
-echo “photoTargetExt: jpeg”
-echo “photoTargetExtSize: 43”
-echo “photoSource: ../uploads/pamela-meyer.jpeg”
-
-echo “photoTarget: ../uploads/wf-guest-images-fi/pamela-meyer.png”
-echo “* START Converting guest photo: ../uploads/pamela-meyer.jpeg”
-convert ../uploads/pamela-meyer.jpeg `# load the guest’s photo`\
-    -resize 250x250^ `# load template background image`\
-    -gravity center `# Set the center of gravity for the photo`\
-    -background transparent `# Background should be transparent`\
-    -extent 250x250 `# Crop the photo to a perfect square`\
-    -bordercolor white `# Define a border for the photo`\
-    -border 6 `# Create a border around the photo`\
-    \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
-    +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    ../uploads/wf-guest-images-fi/pamela-meyer.png `# Save the guest photo`\
-
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/pamela-meyer.png”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/chuck-mollor.png”
