@@ -3,7 +3,7 @@
 # -x Echo all the commands as they run, not just echos
 set -e -x
 
-echo “* START Cultivating Excellence: Leadership and Organizational Cultures”
+echo “* START Cultivating Excellence: Leadership and Organizational Culture”
 convert fi-template.png `# load template background image`\
 \( ../uploads/wf-guest-images-fi/chuck-mollor.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
@@ -13,7 +13,7 @@ convert fi-template.png `# load template background image`\
 -geometry +550+46 `# Set the x and y position for the PODCAST text`\
 -composite `# Add the text layer to the image`\
 -fill white -background none `# The title for the podcast does not have a background`\
--size 580x340 caption:'Cultivating Excellence: Leadership and Organizational Cultures' `# Podcast title as it appears on the website`\
+-size 580x340 caption:'Cultivating Excellence: Leadership and Organizational Culture' `# Podcast title as it appears on the website`\
 -geometry +550+96 `# Set the x and y location for the podcast title`\
 -composite `# Add the podcast's title to the image`\
 -fill white -background none `# the guest names do not have a background`\
@@ -26,5 +26,5 @@ convert fi-template.png `# load template background image`\
 -layers flatten \
 ../uploads/wf-featured-images/2023-10-24-cultivating-excellence-leadership-and-organizational-cultures.png
 
-echo “* FINISH Cultivating Excellence: Leadership and Organizational Cultures”
+echo “* FINISH Cultivating Excellence: Leadership and Organizational Culture”
 
