@@ -5,7 +5,7 @@ set -e -x
 
 echo “* START Bridging AI data science and engineering: A personal journey”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/Christos-Hadjinikolis.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/christos-hadjinikolis-v2.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\

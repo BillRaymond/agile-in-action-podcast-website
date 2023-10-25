@@ -2,18 +2,18 @@
 # -e Exit immediately if a command exits with a non-zero status
 # -x Echo all the commands as they run, not just echos
 set -e -x
-echo “photoSource: ../uploads/Christos-Hadjinikolis.jpeg”
+echo “photoSource: ../uploads/christos-hadjinikolis-v2.jpeg”
 
-echo “Original photoTarget: ../uploads/Christos-Hadjinikolis.jpeg”
+echo “Original photoTarget: ../uploads/christos-hadjinikolis-v2.jpeg”
 
-echo “photoTarget with new url: ../uploads/wf-guest-images-fi/Christos-Hadjinikolis.jpeg”
+echo “photoTarget with new url: ../uploads/wf-guest-images-fi/christos-hadjinikolis-v2.jpeg”
 echo “photoTargetExt: jpeg”
-echo “photoTargetExtSize: 52”
-echo “photoSource: ../uploads/Christos-Hadjinikolis.jpeg”
+echo “photoTargetExtSize: 55”
+echo “photoSource: ../uploads/christos-hadjinikolis-v2.jpeg”
 
-echo “photoTarget: ../uploads/wf-guest-images-fi/Christos-Hadjinikolis.png”
-echo “* START Converting guest photo: ../uploads/Christos-Hadjinikolis.jpeg”
-convert ../uploads/Christos-Hadjinikolis.jpeg `# load the guest’s photo`\
+echo “photoTarget: ../uploads/wf-guest-images-fi/christos-hadjinikolis-v2.png”
+echo “* START Converting guest photo: ../uploads/christos-hadjinikolis-v2.jpeg”
+convert ../uploads/christos-hadjinikolis-v2.jpeg `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
     -background transparent `# Background should be transparent`\
@@ -22,6 +22,6 @@ convert ../uploads/Christos-Hadjinikolis.jpeg `# load the guest’s photo`\
     -border 6 `# Create a border around the photo`\
     \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    ../uploads/wf-guest-images-fi/Christos-Hadjinikolis.png `# Save the guest photo`\
+    ../uploads/wf-guest-images-fi/christos-hadjinikolis-v2.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Christos-Hadjinikolis.png”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/christos-hadjinikolis-v2.png”
