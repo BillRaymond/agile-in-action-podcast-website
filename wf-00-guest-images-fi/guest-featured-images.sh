@@ -2,18 +2,18 @@
 # -e Exit immediately if a command exits with a non-zero status
 # -x Echo all the commands as they run, not just echos
 set -e -x
-echo “photoSource: ../uploads/Headshot.jpeg”
+echo “photoSource: ../uploads/aaron-upright.jpeg”
 
-echo “Original photoTarget: ../uploads/Headshot.jpeg”
+echo “Original photoTarget: ../uploads/aaron-upright.jpeg”
 
-echo “photoTarget with new url: ../uploads/wf-guest-images-fi/Headshot.jpeg”
+echo “photoTarget with new url: ../uploads/wf-guest-images-fi/aaron-upright.jpeg”
 echo “photoTargetExt: jpeg”
-echo “photoTargetExtSize: 39”
-echo “photoSource: ../uploads/Headshot.jpeg”
+echo “photoTargetExtSize: 44”
+echo “photoSource: ../uploads/aaron-upright.jpeg”
 
-echo “photoTarget: ../uploads/wf-guest-images-fi/Headshot.png”
-echo “* START Converting guest photo: ../uploads/Headshot.jpeg”
-convert ../uploads/Headshot.jpeg `# load the guest’s photo`\
+echo “photoTarget: ../uploads/wf-guest-images-fi/aaron-upright.png”
+echo “* START Converting guest photo: ../uploads/aaron-upright.jpeg”
+convert ../uploads/aaron-upright.jpeg `# load the guest’s photo`\
     -resize 250x250^ `# load template background image`\
     -gravity center `# Set the center of gravity for the photo`\
     -background transparent `# Background should be transparent`\
@@ -22,6 +22,6 @@ convert ../uploads/Headshot.jpeg `# load the guest’s photo`\
     -border 6 `# Create a border around the photo`\
     \( +clone -background black -shadow 60x5+6+6 \) `# Create a shadow under the photo`\
     +swap -background none -layers merge +repage `# Merge the photo and shadow layers`\
-    ../uploads/wf-guest-images-fi/Headshot.png `# Save the guest photo`\
+    ../uploads/wf-guest-images-fi/aaron-upright.png `# Save the guest photo`\
 
-echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/Headshot.png”
+echo “* FINISH converted guest photo to: ../uploads/wf-guest-images-fi/aaron-upright.png”

@@ -5,7 +5,7 @@ set -e -x
 
 echo “* START Promoting efficiency and accuracy in Agile Teams with AI”
 convert fi-template.png `# load template background image`\
-\( ../uploads/wf-guest-images-fi/Headshot.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
+\( ../uploads/wf-guest-images-fi/aaron-upright.png -resize 282x282 -set page +256+205 \) `# load a guest photo`\
 -layers flatten `# merge the template and guest photos`\
 -font 'fonts/ProximaNovaA-Bold.ttf' `# load the font`\
 -fill '#f49f1c' -background none `# The podcast title does not have a background`\
